@@ -283,8 +283,8 @@ export const TOPIC_META: TopicMeta[] = [
     sections: [
       {
         id: "power-voice-identity-poems",
-        heading: "Voice, identity & control: If—, Search For My Tongue, My Last Duchess, Half-past Two",
-        covers: "Kipling's conditional stoicism (*If—*), Bhatt's bilingual rot-and-blossom extended metaphor (*Search For My Tongue*), Browning's chilling dramatic monologue & rhyming couplets (*My Last Duchess*), Fanthorpe's compound-word child timelessness (*Half-past Two*).",
+        heading: "Voice, identity & control: If—, Search For My Tongue, Half-caste, My Last Duchess, Half-past Two",
+        covers: "Kipling's conditional stoicism (*If—*), Bhatt's bilingual rot-and-blossom extended metaphor (*Search For My Tongue*), Agard's phonetic Creole satire (*Half-caste*), Browning's chilling dramatic monologue & rhyming couplets (*My Last Duchess*), Fanthorpe's compound-word child timelessness (*Half-past Two*).",
       },
       {
         id: "conflict-suffering-blessing-poems",
@@ -293,13 +293,13 @@ export const TOPIC_META: TopicMeta[] = [
       },
       {
         id: "love-memory-loss-poems",
-        heading: "Love, memory & loss: Sonnet 116, La Belle Dame, Piano, Poem at Thirty-Nine, Remember, Hide and Seek",
-        covers: "Shakespeare's 'ever-fixed mark' (*Sonnet 116*), Keats's ballad entrapment (*La Belle Dame sans Merci*), Lawrence's involuntary nostalgia (*Piano*), Walker's free-verse paternal legacy (*Poem at Thirty-Nine*), Rossetti's Petrarchan volta of release (*Remember*), Scannell's darkening childhood isolation (*Hide and Seek*).",
+        heading: "Love, memory & loss: Sonnet 116, La Belle Dame, Piano, Poem at Thirty-Nine, Do not go gentle, Remember, Hide and Seek",
+        covers: "Shakespeare's 'ever-fixed mark' (*Sonnet 116*), Keats's ballad entrapment (*La Belle Dame sans Merci*), Lawrence's involuntary nostalgia (*Piano*), Walker's free-verse paternal legacy (*Poem at Thirty-Nine*), Thomas's defiant villanelle (*Do not go gentle into that good night*), Rossetti's Petrarchan volta of release (*Remember*), Scannell's darkening childhood isolation (*Hide and Seek*).",
       },
       {
         id: "anthology-comparative-thesis",
         heading: "Anthology Part 2: integrated thesis, form & method comparison",
-        covers: "Avoiding 'Poem A then Poem B' block essays; pairing poems by tension (e.g. *Piano* vs *Poem at Thirty-Nine*, *My Last Duchess* vs *Sonnet 116*, *War Photographer* vs *Prayer Before Birth*) acrossAO2 form, metre, caesura, enjambment and imagery.",
+        covers: "Avoiding 'Poem A then Poem B' block essays; pairing poems across all 16 Anthology texts (e.g. *Half-caste* vs *Search For My Tongue*, *Do not go gentle* vs *Remember*, *Piano* vs *Poem at Thirty-Nine*, *War Photographer* vs *Prayer Before Birth*) across AO2 form, metre, caesura, enjambment and imagery.",
       },
       {
         id: "unseen-modern-poetry-method",

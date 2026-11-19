@@ -22,11 +22,10 @@ const DESKTOP_NAV = [
   { href: "/watch", label: "🎬 Watch" },
   { href: "/episodes", label: "📺 Sitcom" },
   { href: "/cram", label: "🚨 Cram" },
-  { href: "/formulas", label: "🎯 Grade-9 Vault" },
+  { href: "/formulas", label: "🎯 Vault" },
   { href: "/exam", label: "📝 Mocks" },
   { href: "/daily", label: "Daily 5" },
   { href: "/review", label: "Review" },
-  { href: "/progress", label: "Progress" },
 ];
 
 function active(path: string, href: string) {
@@ -69,23 +68,23 @@ export function SiteHeader() {
           <span className="hidden sm:inline">Y11 English Lab</span>
         </Link>
 
-        <nav className="ml-2 hidden items-center gap-1 md:flex" aria-label="Main">
+        <nav className="ml-1 hidden items-center gap-0.5 lg:flex" aria-label="Main">
           {DESKTOP_NAV.map((n) => (
-            <Link key={n.href} href={n.href} className={`rounded-lg px-2.5 py-1.5 text-sm font-bold ${active(path, n.href) ? "bg-brand-soft text-brand" : "text-ink-2 hover:bg-surface-2"}`}>
+            <Link key={n.href} href={n.href} className={`whitespace-nowrap rounded-lg px-2 py-1.5 text-xs font-bold xl:px-2.5 xl:text-sm ${active(path, n.href) ? "bg-brand-soft text-brand" : "text-ink-2 hover:bg-surface-2"}`}>
               {n.label}
             </Link>
           ))}
         </nav>
 
-        <div className="ml-auto flex items-center gap-2">
-          <Link href="/episodes" className="chip border-brand/30 bg-brand-soft text-brand text-sm md:hidden" title="All 8 Sitcom Episodes">
+        <div className="ml-auto flex items-center gap-1.5 sm:gap-2">
+          <Link href="/episodes" className="chip border-brand/30 bg-brand-soft text-brand text-xs sm:text-sm lg:hidden" title="All 8 Sitcom Episodes">
             📺 <span className="hidden sm:inline">Sitcom</span>
           </Link>
-          <Link href="/watch" className="chip border-brand/30 bg-brand-soft text-brand text-sm md:hidden" title="Watch Video Vault">
+          <Link href="/watch" className="chip border-brand/30 bg-brand-soft text-brand text-xs sm:text-sm lg:hidden" title="Watch Video Vault">
             🎬 <span className="hidden sm:inline">Watch</span>
           </Link>
-          <Link href="/formulas" className="chip border-bad/30 bg-bad-soft text-bad text-sm md:hidden" title="Grade-9 Quotes, Terms & Examiner Traps">
-            🎯 <span className="hidden sm:inline">Traps</span>
+          <Link href="/cram" className="chip border-bad/30 bg-bad-soft text-bad text-xs sm:text-sm lg:hidden" title="Interactive Exam Cram Sheet">
+            🚨 <span className="hidden sm:inline">Cram</span>
           </Link>
           <Link href="/progress" className="chip text-sm" title={`${rank.name} · ${data.stars} stars`}>
             ⭐ {data.stars}
@@ -168,7 +167,7 @@ export function MobileNav() {
           <Link
             key={n.href}
             href={n.href}
-            className={`flex flex-col items-center gap-0.5 py-2 text-[0.65rem] font-bold transition-colors sm:text-xs ${active(path, n.href) ? "text-brand" : "text-ink-2 hover:text-ink"}`}
+            className={`flex flex-col items-center gap-0.5 whitespace-nowrap py-2 text-[0.65rem] font-bold transition-colors sm:text-xs ${active(path, n.href) ? "text-brand" : "text-ink-2 hover:text-ink"}`}
             aria-current={active(path, n.href) ? "page" : undefined}
           >
             <span className="text-lg sm:text-xl" aria-hidden>

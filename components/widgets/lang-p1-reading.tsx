@@ -182,7 +182,7 @@ const EXTRACTS: ExtractSample[] = [
         band2Trap:
           "The quote 'bespoke coastal serenity' tells us the cottages are now really peaceful and expensive to rent.",
         grade9Petal:
-          "Enclosing ''bespoke coastal serenity'' in sardonic scare quotes distances the writer from pretentious holiday-let branding, exposing how commercial gentrification repackages a working harbour as an exclusive toy for wealthy outsiders.",
+          "Enclosing 'bespoke coastal serenity' in sardonic scare quotes distances the writer from pretentious holiday-let branding, exposing how commercial gentrification repackages a working harbour as an exclusive toy for wealthy outsiders.",
       },
       {
         id: "tricolon",
@@ -457,8 +457,9 @@ function StructuralShiftTracker() {
           xmlns="http://www.w3.org/2000/svg"
           role="img"
           aria-label="Tension curve across four numbered sections of a Paper 1A extract"
-          className="w-full rounded-xl border border-line bg-surface-2"
+          className="w-full rounded-xl border border-line bg-[#f8fafc]"
         >
+          <rect x="0" y="0" width="550" height="175" rx="12" fill="#f8fafc" />
           <line x1="40" y1="148" x2="515" y2="148" stroke="#94a3b8" strokeWidth={1.5} />
           <line x1="40" y1="40" x2="515" y2="40" stroke="#cbd5e1" strokeWidth={1} strokeDasharray="4 4" />
           <text x="12" y="44" fontSize={9} fontWeight={700} fill="#64748b">HIGH</text>

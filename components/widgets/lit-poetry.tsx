@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { RichInline } from "@/components/Rich";
 import { Readout, Segmented, WidgetFrame, type WidgetDef } from "./kit";
 
 type ThemeHub = "power" | "identity" | "memory" | "love" | "suffering";
@@ -292,7 +293,7 @@ function AnthologyPairingWidget() {
       caption={
         <div>
           <span className="font-bold text-brand">Woven Grade-9 Thesis (AO2 + AO3, zero AO4 biography): </span>
-          {wovenThesis}
+          <RichInline text={wovenThesis} />
         </div>
       }
     >

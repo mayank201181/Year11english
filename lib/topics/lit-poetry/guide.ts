@@ -32,33 +32,44 @@ export const guide: TopicGuide = {
 **High-yield AO3 comparative bridges inside Cluster 1**
 - **Authority & power over others**: Pair *My Last Duchess* (tyrannical patriarchal possession ending in murder) with *Half-past Two* (institutional adult authority *\"She\"* intimidating a young child, though the child briefly transcends tyranny through imagination) or *If—* (benevolent, conditional paternal guidance toward self-mastery rather than domination of others).
 - **Identity & inner selfhood**: Pair *Search For My Tongue* (reclaiming bilingual cultural identity against assimilation) with *Half-past Two* (preserving intuitive childhood wonder against rigid adult *\"schooltime\"*).`,
-      diagram: `<svg viewBox="0 0 640 225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Comparison grid of four Voice and Control Anthology poems showing how poetic form enacts authority or liberation">
-  <rect x="8" y="8" width="624" height="209" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
-  <text x="320" y="30" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#0f172a">How Poetic Form Enacts Control &amp; Identity (AO2 Form)</text>
-  <rect x="22" y="46" width="144" height="154" rx="9" fill="#eff6ff" stroke="#93c5fd"/>
-  <text x="94" y="66" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11.5" font-weight="700" fill="#1e3a8a">If— (Kipling)</text>
-  <text x="94" y="86" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#1e40af">1 Periodic Sentence</text>
-  <text x="94" y="104" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#334155">4 regular octaves</text>
-  <text x="94" y="124" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9.5" fill="#475569">"Triumph and Disaster"</text>
-  <text x="94" y="146" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700" fill="#1d4ed8">Stoic self-command</text>
-  <rect x="176" y="46" width="144" height="154" rx="9" fill="#fdf4ff" stroke="#d8b4fe"/>
-  <text x="248" y="66" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#6b21a8">Search For My Tongue</text>
-  <text x="248" y="86" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#7e22ce">3-Part Code-Switching</text>
-  <text x="248" y="104" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#334155">Central Gujarati script</text>
-  <text x="248" y="124" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9.5" fill="#475569">"rot" -&gt; "blossoms"</text>
-  <text x="248" y="146" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700" fill="#7e22ce">Bilingual reclamation</text>
-  <rect x="330" y="46" width="144" height="154" rx="9" fill="#fee2e2" stroke="#fca5a5"/>
-  <text x="402" y="66" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11.5" font-weight="700" fill="#991b1b">My Last Duchess</text>
-  <text x="402" y="86" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#b91c1c">Dramatic Monologue</text>
-  <text x="402" y="104" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#334155">Enjambed AABB couplets</text>
-  <text x="402" y="124" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9.5" fill="#475569">"all smiles stopped"</text>
-  <text x="402" y="146" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700" fill="#991b1b">Possessive tyranny</text>
-  <rect x="484" y="46" width="134" height="154" rx="9" fill="#fef3c7" stroke="#fcd34d"/>
-  <text x="551" y="66" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11.5" font-weight="700" fill="#92400e">Half-past Two</text>
-  <text x="551" y="86" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#b45309">11 Free-Verse Tercets</text>
-  <text x="551" y="104" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#334155">Compound child-words</text>
-  <text x="551" y="124" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9.5" fill="#475569">"clockless land"</text>
-  <text x="551" y="146" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700" fill="#92400e">Imaginative escape</text>
+      diagram: `<svg viewBox="0 0 640 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Comparison grid of all five Voice and Control Anthology poems showing how poetic form enacts authority, satire or liberation">
+  <rect x="8" y="8" width="624" height="214" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="320" y="30" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#0f172a">How Poetic Form Enacts Control &amp; Identity (Cluster 1: All 5 Poems)</text>
+  <rect x="18" y="46" width="114" height="160" rx="9" fill="#eff6ff" stroke="#93c5fd"/>
+  <text x="75" y="66" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#1e3a8a">If—</text>
+  <text x="75" y="80" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#475569">Kipling</text>
+  <text x="75" y="102" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9.5" fill="#1e40af">1 Periodic Sentence</text>
+  <text x="75" y="118" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#334155">4 regular octaves</text>
+  <text x="75" y="142" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#475569">"two impostors"</text>
+  <text x="75" y="168" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700" fill="#1d4ed8">Stoic self-command</text>
+  <rect x="140" y="46" width="114" height="160" rx="9" fill="#fdf4ff" stroke="#d8b4fe"/>
+  <text x="197" y="66" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10.2" font-weight="700" fill="#6b21a8">Search For My Tongue</text>
+  <text x="197" y="80" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#475569">Bhatt</text>
+  <text x="197" y="102" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9.5" fill="#7e22ce">Code-Switching</text>
+  <text x="197" y="118" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#334155">Gujarati script core</text>
+  <text x="197" y="142" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#475569">"rot" -&gt; "blossoms"</text>
+  <text x="197" y="168" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700" fill="#7e22ce">Bilingual rebirth</text>
+  <rect x="262" y="46" width="114" height="160" rx="9" fill="#ecfdf5" stroke="#6ee7b7"/>
+  <text x="319" y="66" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#065f46">Half-caste</text>
+  <text x="319" y="80" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#475569">John Agard</text>
+  <text x="319" y="102" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9.5" fill="#047857">Creole Free Verse</text>
+  <text x="319" y="118" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#334155">Unpunctuated flow</text>
+  <text x="319" y="142" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#475569">"whole of yu mind"</text>
+  <text x="319" y="168" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700" fill="#047857">Satirical challenge</text>
+  <rect x="384" y="46" width="114" height="160" rx="9" fill="#fee2e2" stroke="#fca5a5"/>
+  <text x="441" y="66" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10.8" font-weight="700" fill="#991b1b">My Last Duchess</text>
+  <text x="441" y="80" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#475569">Browning</text>
+  <text x="441" y="102" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9.5" fill="#b91c1c">Dramatic Monologue</text>
+  <text x="441" y="118" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#334155">Enjambed couplets</text>
+  <text x="441" y="142" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#475569">"all smiles stopped"</text>
+  <text x="441" y="168" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700" fill="#991b1b">Possessive tyranny</text>
+  <rect x="506" y="46" width="116" height="160" rx="9" fill="#fef3c7" stroke="#fcd34d"/>
+  <text x="564" y="66" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#92400e">Half-past Two</text>
+  <text x="564" y="80" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#475569">Fanthorpe</text>
+  <text x="564" y="102" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9.5" fill="#b45309">11 Free Tercets</text>
+  <text x="564" y="118" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#334155">Compound words</text>
+  <text x="564" y="142" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#475569">"clockless land"</text>
+  <text x="564" y="168" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9.5" font-weight="700" fill="#92400e">Imaginative escape</text>
 </svg>`,
       diagramCaption:
         "Never describe form neutrally ('it has couplets'): explain how form mirrors psychological control, liberation or fracture.",
@@ -90,6 +101,7 @@ export const guide: TopicGuide = {
       keyPoints: [
         "In *If—*, **Triumph** and **Disaster** are capitalised and personified as *\"two impostors\"* — teaching equanimity against both arrogance and despair.",
         "In *Search For My Tongue*, inserting untranslated **Gujarati script** in the poem's centre forces a monolingual English reader to experience momentary linguistic exclusion before the blossoming metaphor unites both voices.",
+        "In *Half-caste*, John Agard strips away standard punctuation and performs in phonetic **Caribbean Creole** (*\"Explain yuself / wha yu mean\"*), using absurd analogies (Picasso, English weather, Tchaikovsky) to turn racist labelling back onto the listener.",
         "In *Half-past Two*, Fanthorpe's **parentheses** (*\"(I forget what it was)\"*) expose the ironic triviality of adult rules compared with the child's capitalised terror (*\"Something Very Wrong\"*).",
       ],
       whyItWorks:
@@ -265,11 +277,12 @@ export const guide: TopicGuide = {
       ],
       keyPoints: [
         "In *La Belle Dame sans Merci*, Keats's **shortened fourth line** (*\"And no birds sing\"*) visually and rhythmically starves each ballad stanza, mirroring the Knight's drained vitality.",
+        "In *Do not go gentle into that good night*, Dylan Thomas locks his grief inside a 19-line **villanelle** whose obsessive twin refrains (*\"Do not go gentle\"* / *\"Rage, rage\"*) enact relentless refusal to accept his father's death passively.",
         "In *Hide and Seek*, Scannell refuses stanza breaks: one dense 27-line block traps the reader in the dark shed alongside the child before the chilling closing rhetorical question.",
         "In *Sonnet 116*, Shakespeare defines love first by what it does **not** do (*\"alters\"*, *\"bends\"*) before anchoring it in eternal navigational stars.",
       ],
       whyItWorks:
-        "Now you command **all 14 Edexcel Anthology poems** — every single question on Paper 1 Section A Part 2 names one poem (or lets you choose a companion) from this exact 14-poem bank.",
+        "Now you command **all 16 Edexcel Anthology poems** — every single question on Paper 1 Section A Part 2 names one poem (or lets you choose a companion) from this exact 16-poem bank.",
       strategies: [
         "Memorise **2 flexible companion poems per theme** so whichever poem Edexcel prints on the exam paper, an instant top-band partner is ready.",
         "Notice how *Hide and Seek* and *Half-past Two* both adopt a child's perspective on time and isolation — an effortless Grade-9 pairing!",
@@ -284,17 +297,18 @@ export const guide: TopicGuide = {
         idea:
           "**AO3** rewards **sustained, conceptual cross-comparison of ideas AND methods**. Writing two separate mini-essays glued together ('Poem A then Poem B') leaves comparison until the final five minutes; weaving both poems inside **every topic sentence** earns AO2 and AO3 simultaneously from sentence one.",
       },
-      body: `**The Master 14-Poem Pairing Matrix (Edexcel 4ET1 Part 2 — 30 Marks)**
+      body: `**The Master 16-Poem Pairing Matrix (Edexcel 4ET1 Part 2 — 30 Marks)**
 
 Remember: **AO2 (15 marks)** + **AO3 (15 marks)** = **30 marks**. Zero AO4 biography!
 
 | Exam Theme | Anchor Poem A | Ideal Companion Poem B | Grade-9 Divergent Thesis ('Both X, yet whereas A..., B...') |
 |---|---|---|---|
 | **Love & Devotion** | *Sonnet 116* (Shakespeare) | *Remember* (Rossetti) *or* *My Last Duchess* (Browning) | Shakespeare proclaims love an *\"ever-fixed\"* public ideal in confident quatrains, whereas Rossetti's Petrarchan **volta** tenderly permits forgetting — or Browning's monologue perverts devotion into lethal possession |
+| **Death & Bereavement** | *Do not go gentle into that good night* (Thomas) | *Remember* (Rossetti) *or* *Poem at Thirty-Nine* (Walker) | Both poets lock grief inside strict formal patterns, yet Thomas's obsessive **villanelle** refrains command fierce resistance (*"Rage, rage"*), whereas Rossetti's Petrarchan volta grants serene release (*"forget and smile"*) |
 | **Romantic Entrapment** | *La Belle Dame sans Merci* (Keats) | *My Last Duchess* (Browning) | Both expose destructive obsession, yet Keats's depleted ballad mourns a knight enthralled by an elusive femme fatale, whereas Browning's enjambed couplets indict a patriarchal Duke who silences his bride |
 | **Memory & Parents** | *Piano* (Lawrence) | *Poem at Thirty-Nine* (Walker) | Both revisit a beloved parent, yet Lawrence's surging **AABB** cadence *"betrays"* adult composure into helpless tears, whereas Walker's relaxed free verse integrates paternal warmth into independent maturity |
 | **Childhood & Time** | *Half-past Two* (Fanthorpe) | *Hide and Seek* (Scannell) | Both inhabit a child's sensory world, yet Fanthorpe's playful tercets grant momentary liberation in a *"clockless land"*, whereas Scannell's claustrophobic single block curdles triumph into existential abandonment |
-| **Identity & Growth** | *Search For My Tongue* (Bhatt) | *If—* (Kipling) *or* *Poem at Thirty-Nine* (Walker) | Bhatt reclaims fractured bilingual selfhood via visceral code-switching and organic rebirth, whereas Kipling constructs identity through disciplined conditional stoicism |
+| **Identity & Prejudice** | *Half-caste* (Agard) | *Search For My Tongue* (Bhatt) *or* *If—* (Kipling) | Both Bhatt and Agard champion marginalised linguistic selfhood, yet Bhatt turns inward through nocturnal Gujarati code-switching, whereas Agard weaponises satirical Creole analogies aloud to dismantle prejudice |
 | **Suffering & Cruelty** | *War Photographer* (Duffy) | *Prayer Before Birth* (MacNeice) | Both indict human brutality, yet Duffy contains post-conflict trauma inside rigid **ABBCDD** darkroom sestets against public apathy, whereas MacNeice's cascading free verse pleads pre-emptively against dehumanisation |
 | **Awe, Creation & Grace** | *The Tyger* (Blake) | *Blessing* (Dharker) | Both marvel at elemental force, yet Blake's trochaic anvil questions a dread Creator who forged terror, whereas Dharker's expanding free verse celebrates communal ecstasy under a *\"kindly god\"* |
 
@@ -497,8 +511,16 @@ Spend **7 minutes annotating** across four rapid passes, then **28 minutes writi
         back: "*Sonnet 116* uses 3 Shakespearean quatrains + wager couplet to proclaim unchanging love (*\"ever-fixed mark\"*); *Remember* uses a **Petrarchan octave + line-9 volta** (*\"Yet if you should forget\"*) to release the beloved from grief.",
       },
       {
-        front: "How does ballot metre enact depletion in Keats's ***La Belle Dame sans Merci***?",
+        front: "How does ballad metre enact depletion in Keats's ***La Belle Dame sans Merci***?",
         back: "Each `ABCB` ballad quatrain truncates its fourth line from tetrameter to short dimeter/trimeter (*\"And no birds sing\"*), starving the rhythm just as the faery lady enthrals and drains the *\"palely loitering\"* knight.",
+      },
+      {
+        front: "How does John Agard weaponise voice and satire in ***Half-caste***?",
+        back: "Unpunctuated phonetic **Caribbean Creole** performance free verse pairs mocking literalism (*\"standing on one leg\"*) with **Picasso / Tchaikovsky** analogies (*\"mix a black key / wid a white key\"*) before demanding the listener return with *\"de whole of yu mind\"*.",
+      },
+      {
+        front: "How does **villanelle** form mirror grief in Dylan Thomas's ***Do not go gentle into that good night***?",
+        back: "Across 19 lines (5 `ABA` tercets + `ABAA` quatrain), twin obsessive refrains (*\"Do not go gentle\"* / *\"Rage, rage against the dying of the light\"*) build through four archetypes before pleading directly to his dying father (*\"Curse, bless, me now\"*).",
       },
       {
         front: "Contrast parental memory in ***Piano*** (Lawrence) vs ***Poem at Thirty-Nine*** (Walker).",

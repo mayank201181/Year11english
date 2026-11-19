@@ -47,7 +47,7 @@ const BEATS: StageBeat[] = [
     ringHolder: "Gerald → Sheila ('Now I really feel engaged')",
     doorStatus: "Closed — sealed bourgeois fortress; Edna serving port",
     ao2Summary:
-      "Warm rose-tinted lighting Visually mirrors self-delusion while 1912/1945 dramatic irony ('unsinkable', 'nobody wants war') demolishes Birling's authority before the doorbell rings.",
+      "Warm rose-tinted lighting visually mirrors self-delusion while 1912/1945 dramatic irony ('unsinkable', 'nobody wants war') demolishes Birling's authority before the doorbell rings.",
     chars: {
       arthur: {
         conscience: 8,
@@ -185,7 +185,7 @@ const BEATS: StageBeat[] = [
         conscience: 100,
         stance: "Relentless Dismantler of Pretence",
         quote: "'Public men, Mr Birling, have responsibilities as well as privileges.'",
-        stageCue: "`[cutting in massively]` — refuses Sybil's social intimidation.",
+        stageCue: "[cutting in massively] — refuses Sybil's social intimidation.",
       },
     },
   },
@@ -263,7 +263,7 @@ const BEATS: StageBeat[] = [
         conscience: 15,
         stance: "Crushed by Shame, Not Empathy",
         quote: "'I didn't know — I didn't understand —'",
-        stageCue: "Staggered only because the culprit was *Eric*, not out of love for Eva.",
+        stageCue: "Staggered only because the culprit was Eric, not out of compassion for Eva.",
       },
       sheila: {
         conscience: 94,
@@ -528,7 +528,7 @@ const UPGRADES: Record<EssayFocus, UpgradePack> = {
     grade9Quote:
       "Her contemptuous distancing determiner in 'Girls of that class' treats morality as biologically fixed by wealth — an assumption Priestley inverts when destitute Eva refuses Eric's stolen fifty pounds.",
     grade9Stagecraft:
-      "Keeping Eric offstage throughout late Act 2 allows Goole (`[cutting in massively]`) to steer Sybil's wounded pride until Eric's silent doorway entrance drops the curtain.",
+      "Keeping Eric offstage throughout late Act 2 allows Goole ([cutting in massively]) to steer Sybil's wounded pride until Eric's silent doorway entrance drops the curtain.",
     grade9Irony:
       "Dramatic irony rebounds fatally as Sybil's demand that the 'drunken young idler' face public ruin destroys her own son and unborn grandchild.",
   },
@@ -593,24 +593,24 @@ function ParagraphUpgrader() {
         </div>
 
         {mode === "band2" ? (
-          <div className="space-y-3 rounded-xl border border-red-300 bg-red-50/70 p-4 text-sm text-ink">
+          <div className="space-y-3 rounded-xl border border-bad/40 bg-bad-soft p-4 text-sm text-ink">
             <p className="leading-relaxed">{pack.band2Text}</p>
-            <div className="rounded-lg bg-white/90 p-3 text-xs text-red-900 border border-red-200">
+            <div className="rounded-lg border border-bad/30 bg-surface p-3 text-xs text-bad">
               <strong>Examiner Diagnosis:</strong> {pack.band2Diagnosis}
             </div>
           </div>
         ) : (
-          <div className="space-y-2.5 rounded-xl border border-emerald-300 bg-emerald-50/60 p-4 text-sm text-ink">
+          <div className="space-y-2.5 rounded-xl border border-good/40 bg-surface p-4 text-sm text-ink">
             <p className="leading-relaxed">
-              <span className="rounded bg-emerald-200/70 px-1 font-semibold">{pack.grade9Thesis}</span>{" "}
+              <span className="rounded bg-good-soft px-1 font-semibold text-ink">{pack.grade9Thesis}</span>{" "}
               <span>{pack.grade9Quote}</span>{" "}
-              <span className="rounded bg-amber-200/70 px-1">{pack.grade9Stagecraft}</span>{" "}
-              <span className="rounded bg-sky-200/70 px-1">{pack.grade9Irony}</span>
+              <span className="rounded bg-warn-soft px-1 text-ink">{pack.grade9Stagecraft}</span>{" "}
+              <span className="rounded bg-info-soft px-1 text-ink">{pack.grade9Irony}</span>
             </p>
             <div className="flex flex-wrap gap-2 pt-1 text-xs font-bold">
-              <span className="rounded-md bg-emerald-200/80 px-2 py-0.5 text-emerald-950">AO1 Conceptual Thesis</span>
-              <span className="rounded-md bg-amber-200/80 px-2 py-0.5 text-amber-950">AO2 Stagecraft &amp; Props</span>
-              <span className="rounded-md bg-sky-200/80 px-2 py-0.5 text-sky-950">AO2 1912/1945 Dramatic Irony</span>
+              <span className="rounded-md bg-good-soft px-2 py-0.5 text-good">AO1 Conceptual Thesis</span>
+              <span className="rounded-md bg-warn-soft px-2 py-0.5 text-warn">AO2 Stagecraft &amp; Props</span>
+              <span className="rounded-md bg-info-soft px-2 py-0.5 text-info">AO2 1912/1945 Dramatic Irony</span>
             </div>
           </div>
         )}

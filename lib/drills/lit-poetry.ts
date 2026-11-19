@@ -238,6 +238,38 @@ const ANTHOLOGY: readonly AnthologyEntry[] = [
     ],
     craftNote: "Fourteen-line Petrarchan sonnet (ABBAABBA octave + CDDECE sestet) pivoting at line 9 from plea to selfless release.",
   },
+  {
+    title: "Half-caste",
+    acceptTitle: ["Half-caste", "Half caste", "Halfcaste"],
+    poet: "John Agard",
+    acceptPoet: ["John Agard", "Agard"],
+    foilTitle: "Search For My Tongue",
+    foilPoet: "Sujata Bhatt",
+    form: "performance free verse",
+    acceptForm: ["performance free verse", "free verse", "dramatic monologue", "performance poetry"],
+    quotes: [
+      "\"Excuse me / standing on one leg / I'm half-caste\"",
+      "\"mix a black key / wid a white key / is a half-caste symphony?\"",
+      "\"come back tomorrow / wid de whole of yu eye / an de whole of yu ear / an de whole of yu mind\"",
+    ],
+    craftNote: "Unpunctuated phonetic Caribbean Creole performance free verse using reductio ad absurdum analogies (Picasso, weather, Tchaikovsky) to dismantle racial essentialism.",
+  },
+  {
+    title: "Do not go gentle into that good night",
+    acceptTitle: ["Do not go gentle into that good night", "Do Not Go Gentle", "Do not go gentle"],
+    poet: "Dylan Thomas",
+    acceptPoet: ["Dylan Thomas", "Thomas"],
+    foilTitle: "Remember",
+    foilPoet: "Christina Rossetti",
+    form: "villanelle",
+    acceptForm: ["villanelle"],
+    quotes: [
+      "\"Do not go gentle into that good night, / Old age should burn and rave at close of day\"",
+      "\"Rage, rage against the dying of the light.\"",
+      "\"And you, my father, there on the sad height, / Curse, bless, me now with your fierce tears, I pray.\"",
+    ],
+    craftNote: "Nineteen-line villanelle (5 ABA tercets + closing ABAA quatrain in iambic pentameter) weaving twin defiant refrains toward a dying father.",
+  },
 ];
 
 interface PoeticDeviceItem {
@@ -395,6 +427,15 @@ const POETIC_DEVICES: readonly PoeticDeviceItem[] = [
     trapMsg: "Turning abstract nouns ('Triumph', 'Disaster', 'Time') into deceptive human characters ('impostors', 'Time's fool') is **personification**.",
     explanation: "**Personification** demystifies both victory and defeat as untrustworthy actors.",
   },
+  {
+    example: "\"Do not go gentle into that good night... / Rage, rage against the dying of the light.\" (*Do not go gentle into that good night*)",
+    question: "What 19-line fixed poetic form (5 `ABA` tercets + 1 `ABAA` quatrain locked around two alternating refrains) does Dylan Thomas use?",
+    term: "villanelle",
+    accept: ["villanelle"],
+    trap: "sonnet",
+    trapMsg: "A sonnet has 14 lines; a 19-line poem built from 5 tercets, 1 quatrain, and two interlocking refrains is a **villanelle**.",
+    explanation: "The **villanelle**'s obsessive twin refrains mirror the speaker's relentless refusal to surrender his dying father quietly to death.",
+  },
 ];
 
 interface PairingPrompt {
@@ -478,6 +519,26 @@ const PAIRING_PROMPTS: readonly PairingPrompt[] = [
     wrongPartner: "La Belle Dame sans Merci",
     wrongMsg: "*La Belle Dame* depicts helpless thralldom; Kipling's poem of stoic self-definition is **If—**.",
     thesis: "Bhatt reclaims bilingual selfhood through organic code-switching rebirth, whereas Kipling constructs identity through disciplined conditional self-command.",
+  },
+  {
+    theme: "linguistic heritage, cultural identity and challenging prejudice",
+    anchor: "Search For My Tongue (Sujata Bhatt)",
+    clue: "Name John Agard's phonetic Caribbean Creole performance poem mocking racist labelling via Picasso and Tchaikovsky analogies.",
+    bestPartner: "Half-caste",
+    acceptPartner: ["Half-caste", "Half caste", "Halfcaste"],
+    wrongPartner: "Half-past Two",
+    wrongMsg: "*Half-past Two* is U.A. Fanthorpe's poem about childhood clock-time; John Agard's satirical identity poem is **Half-caste**.",
+    thesis: "Both poets defend marginalised identity through non-standard voice, yet Bhatt turns inward to mourn and reclaim her bilingual root, whereas Agard confronts the listener aloud with satirical Creole wit.",
+  },
+  {
+    theme: "facing death, bereavement and love for a dying loved one",
+    anchor: "Remember (Christina Rossetti)",
+    clue: "Name Dylan Thomas's 19-line villanelle urging his dying father to 'Rage, rage against the dying of the light'.",
+    bestPartner: "Do not go gentle into that good night",
+    acceptPartner: ["Do not go gentle into that good night", "Do not go gentle"],
+    wrongPartner: "War Photographer",
+    wrongMsg: "*War Photographer* examines conflict trauma and public apathy; Dylan Thomas's defiant villanelle to his dying father is **Do not go gentle into that good night**.",
+    thesis: "Both poets deploy tightly patterned fixed forms to confront mortality, yet Rossetti's Petrarchan volta surrenders gently so the survivor can smile, whereas Thomas's obsessive villanelle refrains demand fierce resistance to death.",
   },
 ];
 

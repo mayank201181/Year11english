@@ -68,11 +68,8 @@ export const SOURCE_LABEL: Record<QuestionSource, string> = {
 };
 
 const STRAND_DOT: Record<string, string> = {
-  Skills: "bg-s-number",
-  Coasts: "bg-s-ratio",
-  Cities: "bg-s-algebra",
-  "Extreme Environments": "bg-s-geometry",
-  Population: "bg-s-stats",
+  "Language 9270": "bg-s-number",
+  "Literature 4ET1": "bg-s-algebra",
 };
 
 export function TopicTag({ topic }: { topic?: { title: string; icon: string; strand: string } | null }) {

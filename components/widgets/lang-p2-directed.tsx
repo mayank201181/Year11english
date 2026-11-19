@@ -49,7 +49,7 @@ const PACKS: Record<FormKind, TransformedPack> = {
       "Opponents claim teenagers can simply revise online using smartphones instead of council buildings.",
     rebuttalEthosHigh:
       "Admittedly, statutory social-care pressures force every council department to scrutinise fixed overheads; yet sacrificing frontline study infrastructure is a textbook false economy that undermines the borough's own social-mobility charter.",
-    signOff: "Yours sincerely,\nVanishree Menon (Year 11 Resident Representative)",
+    signOff: "Yours sincerely,\nVanishree (Year 11 Resident Representative)",
   },
   article: {
     formLabel: "Broadsheet Opinion Column",

@@ -44,17 +44,17 @@ const TABS: { id: TopicTab; label: string; icon: string }[] = [
   { id: "cram", label: "Exam Cram", icon: "🚨" },
 ];
 
-const parseTab = (v: string | null): TopicTab => (TABS.some((t) => t.id === v) ? (v as TopicTab) : "learn");
+const parseTab = (v: string | null): TopicTab => {
+  if (v === "practice") return "practise";
+  return TABS.some((t) => t.id === v) ? (v as TopicTab) : "learn";
+};
 
 /** Sticky site header height (h-14 + 1px border). */
 const HEADER_OFFSET = 57;
 
 const STRAND_STYLE: Record<string, { text: string; soft: string; border: string; bar: string }> = {
-  Skills: { text: "text-s-number", soft: "bg-s-number/10", border: "border-s-number/30", bar: "bg-s-number" },
-  Coasts: { text: "text-s-ratio", soft: "bg-s-ratio/10", border: "border-s-ratio/30", bar: "bg-s-ratio" },
-  Cities: { text: "text-s-algebra", soft: "bg-s-algebra/10", border: "border-s-algebra/30", bar: "bg-s-algebra" },
-  "Extreme Environments": { text: "text-s-geometry", soft: "bg-s-geometry/10", border: "border-s-geometry/30", bar: "bg-s-geometry" },
-  Population: { text: "text-s-stats", soft: "bg-s-stats/10", border: "border-s-stats/30", bar: "bg-s-stats" },
+  "Language 9270": { text: "text-s-number", soft: "bg-s-number/10", border: "border-s-number/30", bar: "bg-s-number" },
+  "Literature 4ET1": { text: "text-s-algebra", soft: "bg-s-algebra/10", border: "border-s-algebra/30", bar: "bg-s-algebra" },
 };
 
 /** In-app URL for a topic tab (optionally with an open practice runner or a hash). */
