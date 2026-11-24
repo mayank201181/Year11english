@@ -5,45 +5,32 @@ EP = dict(
 )
 
 DIAG_GENRE = (
-    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 190">'
-    '<rect x="10" y="10" width="500" height="170" rx="12" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/>'
-    '<text x="260" y="34" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#facc15">FAP-R GENRE LOCK: NEVER TWO S LETTERS</text>'
-    '<rect x="26" y="50" width="224" height="114" rx="8" fill="#1e293b" stroke="#60a5fa"/>'
-    '<text x="138" y="74" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#93c5fd">UNNAMED SALUTATION</text>'
-    '<text x="138" y="102" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#f8fafc">Dear Sir or Madam,</text>'
-    '<text x="138" y="132" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4ade80">Yours faithfully,</text>'
-    '<rect x="270" y="50" width="224" height="114" rx="8" fill="#1e293b" stroke="#f472b6"/>'
-    '<text x="382" y="74" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#f9a8d4">NAMED SALUTATION</text>'
-    '<text x="382" y="102" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#f8fafc">Dear Councillor Tan,</text>'
-    '<text x="382" y="132" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4ade80">Yours sincerely,</text>'
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260">'
+    '<rect x="8" y="8" width="584" height="244" rx="16" fill="#0f172a" stroke="#38bdf8" stroke-width="3"/>'
+    '<text x="300" y="50" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#facc15">LETTER SIGN-OFF LOCK</text>'
+    '<text x="300" y="106" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#93c5fd">Dear Sir/Madam → faithfully</text>'
+    '<text x="300" y="160" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#f9a8d4">Dear Cllr Tan → sincerely</text>'
+    '<text x="300" y="214" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#4ade80">Rule: NEVER two S letters!</text>'
     '</svg>'
 )
 
 DIAG_TRIAD = (
-    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 210">'
-    '<rect x="10" y="10" width="500" height="190" rx="12" fill="#0f172a" stroke="#a78bfa" stroke-width="2"/>'
-    '<polygon points="260,36 120,174 400,174" fill="#1e1b4b" stroke="#818cf8" stroke-width="2.5"/>'
-    '<text x="260" y="28" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#93c5fd">ETHOS: Fair Authority</text>'
-    '<text x="108" y="192" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4ade80">LOGOS: Re-Forged Proof</text>'
-    '<text x="412" y="192" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#f472b6">PATHOS: Human Stakes</text>'
-    '<circle cx="260" cy="126" r="30" fill="#facc15"/>'
-    '<text x="260" y="124" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#0f172a">GRADE</text>'
-    '<text x="260" y="138" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#0f172a">NINE</text>'
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260">'
+    '<rect x="8" y="8" width="584" height="244" rx="16" fill="#0f172a" stroke="#a78bfa" stroke-width="3"/>'
+    '<text x="300" y="50" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#facc15">RHETORICAL TRIAD</text>'
+    '<text x="300" y="106" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#93c5fd">ETHOS: Calm fair authority</text>'
+    '<text x="300" y="160" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#4ade80">LOGOS: Re-forged evidence</text>'
+    '<text x="300" y="214" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#f472b6">PATHOS: Human stakes</text>'
     '</svg>'
 )
 
 DIAG_ARC = (
-    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 185">'
-    '<rect x="10" y="10" width="500" height="165" rx="12" fill="#0f172a" stroke="#34d399" stroke-width="2"/>'
-    '<text x="260" y="34" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#facc15">STEELMAN REBUTTAL + PUNCTUATION FULCRUM</text>'
-    '<rect x="26" y="52" width="210" height="62" rx="8" fill="#3f2c1b" stroke="#fbbf24"/>'
-    '<text x="131" y="76" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#fde68a">CONCESSION</text>'
-    '<text x="131" y="98" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#f8fafc">Admittedly, budgets strain;</text>'
-    '<rect x="284" y="52" width="210" height="62" rx="8" fill="#143628" stroke="#4ade80"/>'
-    '<text x="389" y="76" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#86efac">REBUTTAL</text>'
-    '<text x="389" y="98" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#f8fafc">yet cuts cost double later.</text>'
-    '<path d="M240 83 L280 83" stroke="#facc15" stroke-width="3"/>'
-    '<text x="260" y="148" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#cbd5e1">Colon (:) = Spotlight Reveal   |   Semicolon (;) = Antithesis Balance</text>'
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260">'
+    '<rect x="8" y="8" width="584" height="244" rx="16" fill="#0f172a" stroke="#34d399" stroke-width="3"/>'
+    '<text x="300" y="50" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#facc15">STEELMAN + FULCRUM</text>'
+    '<text x="300" y="106" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fde68a">Concede: "Budgets strain;"</text>'
+    '<text x="300" y="160" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#86efac">Rebut: "yet cuts cost more."</text>'
+    '<text x="300" y="214" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#cbd5e1">(:) Reveal · (;) Antithesis</text>'
     '</svg>'
 )
 

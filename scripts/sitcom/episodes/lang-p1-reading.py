@@ -4,61 +4,38 @@ EP = dict(
     logline="Vanishree tries to survive an OxfordAQA Paper 1A unseen travelogue while Quill banishes every 'makes the reader want to read on' cliché in Tanglin.",
 )
 
-DIAG_ICEBERG = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 190">
-  <rect width="520" height="190" rx="12" fill="#0f172a"/>
-  <rect x="0" y="78" width="520" height="112" rx="12" fill="#0c4a6e"/>
-  <line x1="16" y1="78" x2="504" y2="78" stroke="#38bdf8" stroke-width="2" stroke-dasharray="6 4"/>
-  <polygon points="150,78 210,22 275,34 310,78" fill="#f8fafc" stroke="#7dd3fc" stroke-width="2"/>
-  <polygon points="150,78 122,138 195,176 298,170 336,126 310,78" fill="#38bdf8" opacity="0.35" stroke="#7dd3fc" stroke-width="2"/>
-  <text x="232" y="60" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#0f172a">EXPLICIT</text>
-  <text x="232" y="118" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#e0f2fe">IMPLICIT SUBTEXT</text>
-  <text x="232" y="148" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#bae6fd">Motive · Attitude · Power</text>
-  <text x="352" y="52" font-family="sans-serif" font-size="11" fill="#f8fafc">Stated fact above water</text>
-  <text x="352" y="122" font-family="sans-serif" font-size="11" fill="#7dd3fc">Deduce WITHOUT</text>
-  <text x="352" y="140" font-family="sans-serif" font-size="11" fill="#7dd3fc">paraphrasing!</text>
+DIAG_ICEBERG = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260">
+  <rect x="8" y="8" width="584" height="244" rx="16" fill="#0f172a" stroke="#38bdf8" stroke-width="3"/>
+  <rect x="10" y="116" width="580" height="134" rx="12" fill="#0c4a6e"/>
+  <line x1="20" y1="116" x2="580" y2="116" stroke="#38bdf8" stroke-width="3" stroke-dasharray="10 6"/>
+  <text x="300" y="54" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#f8fafc">EXPLICIT: Stated Fact</text>
+  <text x="300" y="96" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#93c5fd">Surface detail above water</text>
+  <text x="300" y="166" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#fde047">IMPLICIT SUBTEXT</text>
+  <text x="300" y="216" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#bae6fd">Motive · Attitude · Power</text>
 </svg>"""
 
-DIAG_BULLSEYE = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 185">
-  <rect width="520" height="185" rx="12" fill="#1e1b4b"/>
-  <circle cx="115" cy="92" r="68" fill="#312e81" stroke="#818cf8" stroke-width="2"/>
-  <circle cx="115" cy="92" r="44" fill="#4338ca" stroke="#a5b4fc" stroke-width="2"/>
-  <circle cx="115" cy="92" r="20" fill="#f59e0b"/>
-  <text x="115" y="96" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#0f172a">WORD</text>
-  <text x="210" y="46" font-family="sans-serif" font-size="12" font-weight="bold" fill="#c7d2fe">1. Embed 2-5 word micro-quote</text>
-  <text x="210" y="66" font-family="sans-serif" font-size="11" fill="#e0e7ff">"heat-scalpels peeled the skin"</text>
-  <text x="210" y="100" font-family="sans-serif" font-size="12" font-weight="bold" fill="#fde68a">2. Pull out ONE load-bearing word</text>
-  <text x="210" y="120" font-family="sans-serif" font-size="11" fill="#fef3c7">Compound noun "scalpels"</text>
-  <text x="210" y="152" font-family="sans-serif" font-size="12" font-weight="bold" fill="#6ee7b7">3. Unpack TWO connotations</text>
-  <text x="210" y="170" font-family="sans-serif" font-size="11" fill="#d1fae5">Surgical precision + pitiless dissection</text>
+DIAG_BULLSEYE = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260">
+  <rect x="8" y="8" width="584" height="244" rx="16" fill="#1e1b4b" stroke="#818cf8" stroke-width="3"/>
+  <text x="300" y="50" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#fde68a">WORD-ZOOM BULLSEYE</text>
+  <text x="300" y="104" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#c7d2fe">1. Embed 2-5 word quote</text>
+  <text x="300" y="158" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fde68a">2. Zoom on 1 word ("scalpels")</text>
+  <text x="300" y="212" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#6ee7b7">3. Unpack 2 connotations</text>
 </svg>"""
 
-DIAG_SYNTAX = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 175">
-  <rect width="520" height="175" rx="12" fill="#1c1917"/>
-  <rect x="20" y="34" width="330" height="86" rx="10" fill="#292524" stroke="#f59e0b" stroke-width="2"/>
-  <path d="M 34 102 Q 95 86, 150 90 T 260 64 T 335 48" fill="none" stroke="#fbbf24" stroke-width="3"/>
-  <text x="34" y="56" font-family="sans-serif" font-size="12" font-weight="bold" fill="#fde68a">Multi-Clause Periodic Buildup</text>
-  <text x="34" y="112" font-family="sans-serif" font-size="10" fill="#d6d3d1">Polysyndeton stretches breathless effort</text>
-  <rect x="372" y="68" width="128" height="52" rx="10" fill="#7f1d1d" stroke="#f87171" stroke-width="2"/>
-  <text x="436" y="91" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#fecaca">Minor Drop</text>
-  <text x="436" y="109" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#ffffff">"Dead zero."</text>
-  <text x="260" y="152" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#fbbf24">Colon (:) = stark reveal  |  Dashes (--) = candid aside</text>
+DIAG_SYNTAX = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260">
+  <rect x="8" y="8" width="584" height="244" rx="16" fill="#1c1917" stroke="#f59e0b" stroke-width="3"/>
+  <text x="300" y="50" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#fde68a">SYNTAX &amp; PACING</text>
+  <text x="300" y="106" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#f8fafc">Periodic buildup → suspense</text>
+  <text x="300" y="158" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fca5a5">Minor drop → "Dead zero."</text>
+  <text x="300" y="212" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fbbf24">(:) reveal · (—) candid aside</text>
 </svg>"""
 
-DIAG_ARC = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 175">
-  <rect width="520" height="175" rx="12" fill="#052e16"/>
-  <rect x="16" y="32" width="112" height="88" rx="8" fill="#14532d" stroke="#4ade80" stroke-width="1.8"/>
-  <text x="72" y="55" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#bbf7d0">SEC 1: WIDE</text>
-  <text x="72" y="76" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#dcfce7">Calm panorama</text>
-  <rect x="140" y="32" width="112" height="88" rx="8" fill="#14532d" stroke="#4ade80" stroke-width="1.8"/>
-  <text x="196" y="55" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#bbf7d0">SEC 2: ZOOM</text>
-  <text x="196" y="76" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#dcfce7">Rusted clue</text>
-  <rect x="264" y="32" width="112" height="88" rx="8" fill="#166534" stroke="#fde047" stroke-width="2"/>
-  <text x="320" y="55" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#fef08a">SEC 3: PIVOT</text>
-  <text x="320" y="76" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#fef9c3">Analepsis storm</text>
-  <rect x="388" y="32" width="116" height="88" rx="8" fill="#14532d" stroke="#4ade80" stroke-width="1.8"/>
-  <text x="446" y="55" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#bbf7d0">SEC 4: CYCLE</text>
-  <text x="446" y="76" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#dcfce7">Elegiac return</text>
-  <text x="260" y="152" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#86efac">Whole-text thesis: track how tone evolves across sections!</text>
+DIAG_ARC = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260">
+  <rect x="8" y="8" width="584" height="244" rx="16" fill="#052e16" stroke="#4ade80" stroke-width="3"/>
+  <text x="300" y="48" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#fef08a">WHOLE-TEXT ARC</text>
+  <text x="300" y="100" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#bbf7d0">1. Wide calm → 2. Zoom clue</text>
+  <text x="300" y="152" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fef08a">3. Pivot storm → 4. Cycle end</text>
+  <text x="300" y="210" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#86efac">Track tone shift across text!</text>
 </svg>"""
 
 # ---------------------------------------------------------------------------

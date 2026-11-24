@@ -68,7 +68,7 @@ for num, topic, short, title in ns["SEASON"]:
     tl_path = os.path.join(HERE, "out", topic, "timeline.json")
     if os.path.exists(tl_path):
         tl = json.load(open(tl_path, encoding="utf-8"))
-        segs = [s for s in tl.get("segs", []) if s.get("kind") == "line" and s.get("subs")]
+        segs = [s for s in (tl.get("segments") or tl.get("segs") or []) if s.get("kind") == "line" and s.get("subs")]
     else:
         lines_b = [b for b in ep_ns.get("B", []) if b.get("type") == "line" and b.get("text")]
         span_start = 6.0

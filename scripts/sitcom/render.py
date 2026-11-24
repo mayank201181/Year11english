@@ -66,16 +66,20 @@ async def render_all(out_dir: str, mp4_out: str, poster_out: str, workers: int =
                     ffmpeg_bin, "-y", "-loglevel", "error",
                     "-f", "image2pipe", "-framerate", str(fps), "-c:v", "mjpeg", "-i", "-",
                     "-vf", "scale=in_range=full:out_range=tv,format=yuv420p",
-                    "-c:v", "libx264", "-preset", "ultrafast", "-crf", "26",
+                    "-c:v", "libx264", "-threads", "2", "-preset", "fast", "-crf", "25",
                     "-pix_fmt", "yuv420p", "-color_range", "tv", "-tune", "animation", seg,
                 ],
                 stdin=subprocess.PIPE,
             )
             assert proc.stdin is not None
-            for i in range(a, b):
-                d = await pg.evaluate("(t) => window.frameJpeg(t, 0.90)", i / fps)
-                buf = base64.b64decode(d.split(",", 1)[1])
-                proc.stdin.write(buf)
+            for i in range(a, b, 24):
+                end = min(b, i + 24)
+                batch = await pg.evaluate(
+                    "([i0, i1, fps]) => { const out = []; for (let k = i0; k < i1; k++) out.push(window.frameJpeg(k / fps, 0.90)); return out; }",
+                    [i, end, fps],
+                )
+                for d in batch:
+                    proc.stdin.write(base64.b64decode(d.split(",", 1)[1]))
                 if w == 0 and (i - a) % 360 == 0:
                     print(f"  worker0 {i - a}/{b - a} frames (+{time.time() - t0:.0f}s)", flush=True)
             proc.stdin.close()
@@ -93,13 +97,28 @@ async def render_all(out_dir: str, mp4_out: str, poster_out: str, workers: int =
     with open(parts_txt, "w", encoding="utf-8") as f:
         f.write("\n".join(x for x in parts if x) + "\n")
 
+    wav_in = os.path.join(out_dir, "audio.wav")
+    # 2-pass EBU R128 loudnorm (-16 LUFS, TP=-1.8 dBTP headroom for 128k AAC) + fast lookahead peak guard
+    p1 = subprocess.run(
+        [ffmpeg_bin, "-y", "-i", wav_in, "-af", "loudnorm=I=-16:TP=-2.2:LRA=11:print_format=json", "-f", "null", "-"],
+        capture_output=True, text=True, check=True,
+    )
+    js_txt = p1.stderr[p1.stderr.rfind("{"):p1.stderr.rfind("}") + 1]
+    ln = json.loads(js_txt)
+    af = (
+        f"loudnorm=I=-16:TP=-2.2:LRA=11"
+        f":measured_I={ln['input_i']}:measured_LRA={ln['input_lra']}"
+        f":measured_TP={ln['input_tp']}:measured_thresh={ln['input_thresh']}"
+        f":offset={ln['target_offset']}:linear=true"
+        f",aresample=48000,alimiter=limit=0.70:attack=0.1:release=50:level=false"
+    )
     subprocess.run(
         [
             ffmpeg_bin, "-y", "-loglevel", "error",
             "-f", "concat", "-safe", "0", "-i", parts_txt,
-            "-i", os.path.join(out_dir, "audio.wav"),
+            "-i", wav_in,
             "-c:v", "copy",
-            "-af", "loudnorm=I=-16:TP=-1.5:LRA=11",
+            "-af", af,
             "-ar", "48000", "-c:a", "aac", "-b:a", "128k",
             "-movflags", "+faststart", "-shortest",
             mp4_out,

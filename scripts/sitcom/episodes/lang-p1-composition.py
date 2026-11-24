@@ -4,67 +4,38 @@ EP = dict(
     logline="Vanishree plans a chaotic five-plot-twist helicopter heist for Paper 1B until Quill and Ms Lim replace melodrama with 5-lens camera zooms, cyclical motifs, semicolons, and discursive steelmanning.",
 )
 
-DIAG_ZOOM5 = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 180">
-  <rect width="520" height="180" rx="12" fill="#0f172a"/>
-  <rect x="14" y="28" width="90" height="96" rx="8" fill="#1e3a8a" stroke="#60a5fa" stroke-width="1.8"/>
-  <text x="59" y="54" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#bfdbfe">1. SKY</text>
-  <text x="59" y="76" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#e0f2fe">Pathetic</text>
-  <text x="59" y="92" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#e0f2fe">fallacy</text>
-  <rect x="114" y="28" width="90" height="96" rx="8" fill="#1e3a8a" stroke="#60a5fa" stroke-width="1.8"/>
-  <text x="159" y="54" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#bfdbfe">2. MID</text>
-  <text x="159" y="76" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#e0f2fe">Extended</text>
-  <text x="159" y="92" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#e0f2fe">metaphor</text>
-  <rect x="214" y="28" width="92" height="96" rx="8" fill="#312e81" stroke="#fbbf24" stroke-width="2.2"/>
-  <text x="260" y="54" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#fde68a">3. MACRO</text>
-  <text x="260" y="76" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#fef3c7">1 tiny</text>
-  <text x="260" y="92" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#fef3c7">flaw/object</text>
-  <rect x="316" y="28" width="90" height="96" rx="8" fill="#1e3a8a" stroke="#60a5fa" stroke-width="1.8"/>
-  <text x="361" y="54" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#bfdbfe">4. SENSES</text>
-  <text x="361" y="76" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#e0f2fe">Olfactory</text>
-  <text x="361" y="92" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#e0f2fe">&amp; tactile</text>
-  <rect x="416" y="28" width="90" height="96" rx="8" fill="#1e3a8a" stroke="#60a5fa" stroke-width="1.8"/>
-  <text x="461" y="54" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#bfdbfe">5. ECHO</text>
-  <text x="461" y="76" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#e0f2fe">Altered</text>
-  <text x="461" y="92" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#e0f2fe">sky return</text>
-  <text x="260" y="154" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#93c5fd">ZOOM-5 Descriptive Plan: zero car chases, pure camera craft!</text>
+DIAG_ZOOM5 = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260">
+  <rect x="8" y="8" width="584" height="244" rx="16" fill="#0f172a" stroke="#60a5fa" stroke-width="3"/>
+  <text x="300" y="48" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#fde68a">ZOOM-5 CAMERA PLAN</text>
+  <text x="300" y="98" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#bfdbfe">1. Sky → 2. Mid metaphor</text>
+  <text x="300" y="146" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fde68a">3. Macro flaw → 4. Senses</text>
+  <text x="300" y="194" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#6ee7b7">5. Altered sky cyclical echo</text>
+  <text x="300" y="236" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#93c5fd">Zero car chases — pure craft!</text>
 </svg>"""
 
-DIAG_CYCLE = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 180">
-  <rect width="520" height="180" rx="12" fill="#2e1065"/>
-  <circle cx="105" cy="90" r="56" fill="none" stroke="#c084fc" stroke-width="3" stroke-dasharray="6 4"/>
-  <text x="105" y="86" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#f3e8ff">15-MIN</text>
-  <text x="105" y="102" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#e9d5ff">REAL TIME</text>
-  <text x="195" y="46" font-family="sans-serif" font-size="12" font-weight="bold" fill="#f5d0fe">1. In medias res + plant object motif</text>
-  <text x="195" y="78" font-family="sans-serif" font-size="12" font-weight="bold" fill="#e9d5ff">2. Brief past-perfect analepsis</text>
-  <text x="195" y="110" font-family="sans-serif" font-size="12" font-weight="bold" fill="#fde68a">3. Quiet 1-line fulcrum choice</text>
-  <text x="195" y="142" font-family="sans-serif" font-size="12" font-weight="bold" fill="#6ee7b7">4. Transformed cyclical motif close</text>
+DIAG_CYCLE = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260">
+  <rect x="8" y="8" width="584" height="244" rx="16" fill="#2e1065" stroke="#c084fc" stroke-width="3"/>
+  <text x="300" y="48" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#fde68a">15-MINUTE REAL-TIME ARC</text>
+  <text x="300" y="98" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#f5d0fe">1. In medias res + motif</text>
+  <text x="300" y="146" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#e9d5ff">2. Brief past-perfect flash</text>
+  <text x="300" y="194" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fde68a">3. Quiet 1-line fulcrum choice</text>
+  <text x="300" y="238" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#6ee7b7">4. Altered cyclical close</text>
 </svg>"""
 
-DIAG_SPLICE = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 175">
-  <rect width="520" height="175" rx="12" fill="#1c1917"/>
-  <rect x="18" y="22" width="484" height="42" rx="8" fill="#7f1d1d" stroke="#f87171" stroke-width="1.8"/>
-  <text x="260" y="48" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#fecaca">COMMA SPLICE: "Rain lashed the glass, the lamp died."</text>
-  <rect x="18" y="82" width="152" height="72" rx="8" fill="#064e3b" stroke="#34d399" stroke-width="1.8"/>
-  <text x="94" y="108" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#a7f3d0">Semicolon (;)</text>
-  <text x="94" y="130" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#d1fae5">Poised balance</text>
-  <rect x="184" y="82" width="152" height="72" rx="8" fill="#064e3b" stroke="#34d399" stroke-width="1.8"/>
-  <text x="260" y="108" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#a7f3d0">Colon (:)</text>
-  <text x="260" y="130" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#d1fae5">Complete -&gt; Reveal</text>
-  <rect x="350" y="82" width="152" height="72" rx="8" fill="#064e3b" stroke="#34d399" stroke-width="1.8"/>
-  <text x="426" y="108" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#a7f3d0">Dashes (--)</text>
-  <text x="426" y="130" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#d1fae5">Sensory zoom aside</text>
+DIAG_SPLICE = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260">
+  <rect x="8" y="8" width="584" height="244" rx="16" fill="#1c1917" stroke="#34d399" stroke-width="3"/>
+  <text x="300" y="48" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#fca5a5">KILL THE COMMA SPLICE</text>
+  <text x="300" y="102" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#a7f3d0">Semicolon (;) → poised balance</text>
+  <text x="300" y="156" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fde68a">Colon (:) → dramatic reveal</text>
+  <text x="300" y="210" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#93c5fd">Dashes (—) → sensory aside</text>
 </svg>"""
 
-DIAG_STEELMAN = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 175">
-  <rect width="520" height="175" rx="12" fill="#042f2e"/>
-  <polygon points="260,118 236,158 284,158" fill="#14b8a6"/>
-  <line x1="70" y1="118" x2="450" y2="104" stroke="#5eead4" stroke-width="4"/>
-  <rect x="24" y="44" width="196" height="60" rx="8" fill="#134e4a" stroke="#2dd4bf" stroke-width="1.8"/>
-  <text x="122" y="68" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#ccfbf1">STEELMAN CONCESSION</text>
-  <text x="122" y="88" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#99f6e4">"Admittedly, critics note..."</text>
-  <rect x="300" y="30" width="196" height="60" rx="8" fill="#115e59" stroke="#fde047" stroke-width="2"/>
-  <text x="398" y="54" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#fef08a">DEEPER REBUTTAL</text>
-  <text x="398" y="74" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#fef9c3">"; nevertheless, at root..."</text>
+DIAG_STEELMAN = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260">
+  <rect x="8" y="8" width="584" height="244" rx="16" fill="#042f2e" stroke="#2dd4bf" stroke-width="3"/>
+  <text x="300" y="50" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#fef08a">STEELMAN REBUTTAL</text>
+  <text x="300" y="106" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#ccfbf1">1. Concede strongest rival case</text>
+  <text x="300" y="158" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#99f6e4">"Admittedly, critics note..."</text>
+  <text x="300" y="214" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fde047">2. Pivot: "; nevertheless..."</text>
 </svg>"""
 
 # ---------------------------------------------------------------------------
