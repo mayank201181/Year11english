@@ -170,10 +170,10 @@ export const mcqPapers: Paper[] = [
         "id": "lit-of-mice-and-men-m1-q09",
         "question": "How does Steinbeck distinguish **Slim** (`'the jerkline skinner'`) from the Boss and Curley when Slim enters the bunkhouse in Section 2?",
         "options": [
-          "Slim wears silver spurs and high-heeled boots to assert institutional rank over the barley buckers",
+          "Slim wears polished silver spurs and high-heeled boots to signal superior institutional rank over the itinerant barley buckers",
           "Slim commands natural moral authority (`'prince of the ranch'`, `'gravity in his manner'`) earned through skill and empathy rather than inherited power",
-          "Slim promises to lend George and Lennie two hundred dollars from his skinner wages to buy their farm",
-          "Slim immediately demands that the Boss fire Curley for harassing new migrant labourers"
+          "Slim generously promises to lend George and Lennie two hundred dollars from his skinner wages so they can secure the ten-acre farm",
+          "Slim immediately confronts the Boss in the bunkhouse and demands that Curley be dismissed for bullying newly hired migrant workers"
         ],
         "answerIndex": 1,
         "explanation": "Whereas the Boss relies on high-heeled boots/spurs and Curley relies on bullying as the Boss's son, Slim's `'ageless'` dignity and `'quiet so profound that all talk stopped when he spoke'` establish organic respect and rare emotional perception.",
@@ -210,9 +210,9 @@ export const mcqPapers: Paper[] = [
         "id": "lit-of-mice-and-men-m1-q11",
         "question": "After Carlson shoots Candy's old sheepdog in Section 3, Candy whispers to George: `'I ought to of shot that dog myself, George. I shouldn't ought to of let no stranger shoot my dog.'` Why is this line structurally pivotal?",
         "options": [
-          "It convinces George to confront Carlson in a fistfight at the end of Section 3",
-          "It explains why Candy decides to buy one of Slim's newborn puppies before leaving for town",
-          "It reveals that Candy secretly hid Carlson's Luger beneath his bunkhouse mattress",
+          "It provokes George into challenging Carlson to a bitter bunkhouse fistfight over ranch cruelty at the close of Section 3",
+          "It explains why Candy purchases one of Slim's newborn pups for fifty dollars before travelling into Soledad on Saturday night",
+          "It hints that resentful Candy secretly hides Carlson's Luger pistol beneath his bunk mattress before the men return from work",
           "It plants the exact moral logic that compels George to shoot Lennie mercifully himself in Section 6 rather than surrendering him to Curley's mob"
         ],
         "answerIndex": 3,
@@ -231,9 +231,9 @@ export const mcqPapers: Paper[] = [
         "question": "Why does **Whit** enthusiastically show Slim a letter printed in a cheap pulp *Western Magazine* in Section 3?",
         "options": [
           "Seeing a former ranch mate's name (Bill Tenner) in print offers starved bindle-stiffs a fleeting sense of significance and escapism",
-          "The letter exposes illegal wage-fixing on Salinas Valley barley ranches",
-          "The magazine advertises Hollywood acting auditions that Curley's wife wants to attend",
-          "Bill Tenner writes that he successfully bought a fruit orchard in northern California"
+          "The printed letter publicly exposes illegal wage-fixing and union blacklisting across Salinas Valley barley ranches",
+          "The magazine prints Hollywood screen-test notices in Los Angeles that Curley's wife begs Whit to lend her in Section 4",
+          "Bill Tenner boasts in print that he saved his ranch wages and purchased a prosperous fruit orchard in northern California"
         ],
         "answerIndex": 0,
         "explanation": "Pulp Westerns romanticised cowboy heroism for monotonous 1930s farm hands; Whit's pride that he merely *knew* Bill Tenner underscores how starved anonymous migrant workers were for recognition and permanence.",
@@ -270,9 +270,9 @@ export const mcqPapers: Paper[] = [
         "id": "lit-of-mice-and-men-m1-q14",
         "question": "How does **Slim** prevent the Boss from firing (`'canning'`) George and Lennie after Lennie crushes Curley's hand (`'flopping like a fish on a line'`)?",
         "options": [
-          "Slim bribes the Boss by forfeiting a month of his skinner wages",
-          "Slim claims Carlson accidentally slammed the barn door onto Curley's fingers",
-          "Slim threatens to lead a union strike of all the barley buckers during harvest",
+          "Slim intervenes with the Boss privately and forfeits a month of his skinner wages to compensate for Curley's medical bills",
+          "Slim persuades Carlson and Candy to testify that a heavy barn door accidentally slammed onto Curley's fingers during work",
+          "Slim threatens to organise a collective strike among the barley buckers at peak harvest unless the Boss retains both men",
           "Slim warns Curley that if he tries to get them fired, everyone on the ranch will hear how Curley's hand was crushed and laugh at him"
         ],
         "answerIndex": 3,
@@ -316,9 +316,9 @@ export const mcqPapers: Paper[] = [
         "id": "lit-of-mice-and-men-m2-q01",
         "question": "At the opening of Section 4, Steinbeck lists the items in Crooks's harness room, including `'a tattered dictionary and a mauled copy of the California civil code for 1905'`. What does this `'mauled'` law book signify (**AO1 + AO4**)?",
         "options": [
-          "Crooks is studying at night to qualify as a county magistrate in Salinas",
-          "Crooks stole the books from the Boss's farmhouse office to sell in Soledad",
-          "California passed a 1905 law guaranteeing free ten-acre homesteads to retired stable bucks",
+          "Crooks studies California statutes every evening by lantern light in order to qualify as a county magistrate in Salinas",
+          "Crooks pilfered the leather-bound volumes from the Boss's farmhouse study hoping to pawn them for cash in Soledad",
+          "California passed a 1905 statute guaranteeing rent-free ten-acre homesteads to retired stable bucks after ten years' service",
           "Crooks is literate, proud and well-versed in his statutory rights, exposing the bitter gulf between written law and 1930s Jim Crow reality"
         ],
         "answerIndex": 3,
@@ -396,9 +396,9 @@ export const mcqPapers: Paper[] = [
         "id": "lit-of-mice-and-men-m2-q05",
         "question": "When Curley's wife enters Crooks's room in Section 4, she remarks: `'They left all the weak ones here.'` Who are the four characters gathered in that room, and why is their interaction tragic?",
         "options": [
-          "Crooks, Lennie, Candy and Whit — who form a secret pact to confront Curley",
-          "George, Lennie, Slim and Candy — who realise they lack the final hundred dollars for the farm",
-          "Crooks, Candy, Carlson and Curley's wife — who argue over who stole Carlson's Luger",
+          "Crooks, Lennie, Candy and Whit — four disillusioned labourers who swear a secret oath to confront Curley at the barn",
+          "George, Lennie, Slim and Candy — four allies who calculate they are still one hundred dollars short of buying the farm",
+          "Crooks, Candy, Carlson and Curley's wife — four suspicious ranch residents who argue fiercely over Carlson's missing Luger",
           "Crooks, Lennie, Candy and Curley's wife — four marginalised outcasts who attack one another across race, gender and disability instead of uniting"
         ],
         "answerIndex": 3,
@@ -456,9 +456,9 @@ export const mcqPapers: Paper[] = [
         "id": "lit-of-mice-and-men-m2-q08",
         "question": "In Section 5, Curley's wife tells Lennie about a man from a travelling show who told her `'I was a natural'` and promised to write so she could be `'in the pitchers'`. How does this detail deepen **AO4**?",
         "options": [
-          "It proves she genuinely had a signed Hollywood studio contract stolen by Curley",
-          "It shows that Hollywood studios routinely recruited actresses from Salinas barley ranches",
-          "It demonstrates that her mother strongly encouraged her to leave home at fifteen for Los Angeles",
+          "It proves she genuinely possessed a signed Hollywood studio contract that jealous Curley secretly destroyed before their wedding",
+          "It shows that major 1930s California film studios routinely sent talent scouts to recruit actresses from Salinas Valley barley ranches",
+          "It demonstrates that her ambitious mother enthusiastically encouraged her to leave home at fifteen to pursue stardom in Los Angeles",
           "It mirrors the farm dream through 1930s Golden Age cinema escapism, revealing her gullible teenage vulnerability to hollow promises of glamour"
         ],
         "answerIndex": 3,
@@ -476,10 +476,10 @@ export const mcqPapers: Paper[] = [
         "id": "lit-of-mice-and-men-m2-q09",
         "question": "Immediately after Curley's wife dies in the barn in Section 5, Steinbeck writes: `'And the meanness and the plannings and the discontent and the ache for attention were all gone from her face. She was very pretty and simple, and her face was sweet and young.'` Why is this omniscient shift vital?",
         "options": [
-          "It confirms Candy's angry claim that she was a manipulative 'tart' even in death",
+          "It validates Candy's bitter condemnation of her as a manipulative 'tart' whose calculated vanity caused the ranch tragedy",
           "It unmasks her provocative behaviour as a defensive performance born of loneliness, restoring youth and dignity once patriarchal scrutiny ceases",
-          "It suggests Lennie carefully arranged her hair and makeup to hide what happened",
-          "It implies she died peacefully in her sleep from natural causes before Lennie touched her"
+          "It implies that remorseful Lennie carefully combed her hair and smoothed her dress in the hay to disguise the violent struggle",
+          "It hints that she suffered a sudden natural collapse in the barn hay before Lennie inadvertently gripped her hair in panic"
         ],
         "answerIndex": 1,
         "explanation": "Steinbeck's polysyndetic listing (`'and the meanness and the plannings...'`) peels away the ranch hands' misogynistic labels, revealing that only death frees her from desperate performance and lets the reader see a lost young girl.",
@@ -497,9 +497,9 @@ export const mcqPapers: Paper[] = [
         "question": "Why is **Candy** especially terrified of being `'canned'` (fired) once he grows too old to sweep the bunkhouse in 1930s California (**AO4**)?",
         "options": [
           "Because disabled elderly farmworkers faced destitution in a utilitarian economy where agricultural labour lacked federal Social Security protection",
-          "Because the Boss has threatened to reclaim the $250 injury compensation if Candy leaves",
-          "Because California law required unemployed ranch hands to be deported to Oklahoma",
-          "Because Candy owes three hundred dollars in gambling debts at Old Susy's brothel"
+          "Because the Boss had warned him that leaving the ranch voluntarily would void his $250 workplace injury compensation payout",
+          "Because strict 1930s California county ordinances forced unemployed migrant labourers to be deported back to Dust Bowl states",
+          "Because Candy owed substantial gambling debts to Old Susy in Soledad that could only be settled through ongoing ranch wages"
         ],
         "answerIndex": 0,
         "explanation": "In 1930s agribusiness (and even under the 1935 Social Security Act, which excluded farmworkers), an aging, one-handed swamper had zero welfare safety net (`'put me on the county'`), making Carlson's disposal of Candy's old dog a chilling mirror of Candy's own future.",
@@ -536,10 +536,10 @@ export const mcqPapers: Paper[] = [
         "id": "lit-of-mice-and-men-m2-q12",
         "question": "In Section 4, why has **Candy** — despite working on the ranch for years — never once stepped inside **Crooks's** room before Saturday night?",
         "options": [
-          "The Boss padlocks the harness room every evening after the mules are fed",
-          "Candy was afraid of Crooks's fierce guard dog chained beside the manure pile",
+          "The Boss strictly forbade ranch hands from entering the stable harness room after dark to prevent theft of expensive mule tack",
+          "Candy feared the territorial guard dog Crooks kept chained beside the manure pile outside the doorway to protect his belongings",
           "Habitual *de facto* Jim Crow racial segregation kept white ranch hands out of Crooks's quarters except at Christmas once when they let Crooks in the bunkhouse to fight Smitty",
-          "Crooks only arrived at the ranch from Murray and Ready's the previous week"
+          "Crooks had only arrived from Murray and Ready's employment agency the week before and kept his stable shed locked against visitors"
         ],
         "answerIndex": 2,
         "explanation": "Candy's awkward hesitation at the doorway proves how deeply internalised racial boundaries were on 1930s California ranches, breached only momentarily by shared excitement over the farm dream.",
@@ -556,10 +556,10 @@ export const mcqPapers: Paper[] = [
         "id": "lit-of-mice-and-men-m2-q13",
         "question": "Contrast the two Saturday-night brothels **George and Whit** discuss in Section 3: **Old Susy's** versus **Clara's** house in Soledad. Why does George prefer Susy's even when he only goes to buy a drink and look at the chairs?",
         "options": [
-          "Susy's offers cheap comfort, jokes and human warmth (`'guys can sit in the front parlor and Susy cracks jokes'`), exposing that ranch men visit towns starving for companionship rather than mere vice",
-          "Clara's is owned by Lennie's Aunt Clara, who disapproves of George gambling",
-          "Susy lends money to itinerant barley buckers so they can purchase homesteads",
-          "Clara refuses entry to anyone carrying a Murray and Ready's agency work slip"
+          "Susy's offers cheap drinks, jokes and a welcoming front parlour, exposing that itinerant men visit town starving for warmth and companionship rather than mere vice",
+          "Clara's house is run by Lennie's stern Aunt Clara, who disapproves of George gambling his barley wages away on Saturday nights",
+          "Old Susy privately lends start-up savings to trusted Salinas Valley barley buckers hoping to purchase small California homesteads",
+          "Clara's expensive establishment refuses admission to migrant labourers carrying temporary Murray and Ready's employment agency slips"
         ],
         "answerIndex": 0,
         "explanation": "Susy's chatty parlour with comfy chairs costs half as much as Clara's pretentious house; Steinbeck uses comic ranch banter to reveal a poignant AO4 truth — lonely bindle-stiffs pay simply to sit in a domestic living room and feel human warmth.",
@@ -642,9 +642,9 @@ export const mcqPapers: Paper[] = [
         "id": "lit-of-mice-and-men-m3-q02",
         "question": "At the opening of Section 6, `'A silent head and beak lanced down and plucked it out by the head, and the beak swallowed the little snake while its tail waved frantically.'` How does this natural detail revise Section 1?",
         "options": [
-          "It shows that pollution from ranch machinery has poisoned the Salinas River fish",
-          "It symbolises Curley's wife triumphing over Curley from beyond the grave",
-          "It suggests nature is mourning Lennie through romantic pathetic fallacy of torrential rain",
+          "It demonstrates that chemical runoff from Salinas Valley ranch machinery has poisoned the river ecosystem and starved the local wildlife",
+          "It symbolises Curley's wife triumphing spiritually over Curley's abusive control from beyond the grave as nature punishes the ranch",
+          "It implies that the natural world grieves over Lennie's fate through conventional Romantic pathetic fallacy of darkening skies and rain",
           "It inverts Section 1's peaceful gliding water snake into cold Darwinian predation, foreshadowing how an indifferent world devours the vulnerable"
         ],
         "answerIndex": 3,
@@ -682,9 +682,9 @@ export const mcqPapers: Paper[] = [
         "id": "lit-of-mice-and-men-m3-q04",
         "question": "In Section 5, Carlson shouts `'The bastard's stole my Luger'` and Curley assumes Lennie is armed. Who actually took **Carlson's Luger**, and why?",
         "options": [
-          "Slim took it so hot-headed Curley could not shoot Lennie on sight",
-          "Candy hid it in the apple-box shelf to delay the lynch mob",
-          "Crooks locked it inside the harness shed to protect Lennie",
+          "Slim removed it from the bunkhouse so hot-headed Curley could not shoot Lennie on sight",
+          "Candy hid it inside his apple-box shelf to delay Curley's posse from hunting Lennie down",
+          "Crooks locked it inside his harness shed so the men could not blame him for a shooting",
           "George quietly took it from Carlson's bunk bag so he could give Lennie a painless, merciful death himself"
         ],
         "answerIndex": 3,
@@ -762,10 +762,10 @@ export const mcqPapers: Paper[] = [
         "id": "lit-of-mice-and-men-m3-q08",
         "question": "Why did Steinbeck conceive *Of Mice and Men* experimentally as a **'play-novelette'**?",
         "options": [
-          "Because 1930s censorship laws banned traditional third-person novels about California farm strikes",
-          "So he could include sung musical interludes performed by the ranch hands between chapters",
+          "Because 1930s California censorship laws prohibited conventional third-person novels depicting migrant labour disputes on ranches",
+          "So he could insert lyrical verse interludes and folk ballads performed by the ranch hands between each narrative section",
           "So each of the six sections functions like a self-contained stage scene with objective lighting/sound cues, minimal omniscient moralising and dramatic immediacy",
-          "Because George and Lennie speak entirely in Shakespearean blank verse"
+          "Because he modelled the ranch dialogue on Elizabethan blank-verse tragedy, giving George and Lennie formal rhetorical soliloquies"
         ],
         "answerIndex": 2,
         "explanation": "Each section opens with stage-like atmospheric framing (e.g. sunlight, dusk, clanging horseshoes outside the barn), unfolds in real time inside one set, and avoids heavy narrator preaching so audiences witness events directly — enabling its instant 1937 Broadway transfer.",
@@ -783,9 +783,9 @@ export const mcqPapers: Paper[] = [
         "question": "Consider the surnames **George Milton** and **Lennie Small**. What literary irony or allusion do critics identify in this pairing?",
         "options": [
           "Lennie's surname `'Small'` creates gentle verbal irony against his `'huge'` bear-like frame, while `'Milton'` evokes John Milton's *Paradise Lost* (loss of Eden)",
-          "Both surnames belonged to famous 1920s Wall Street investment bankers",
-          "`'Milton'` translates from Spanish as 'barley bucker', while `'Small'` refers to Lennie's quiet voice",
-          "Steinbeck named them after the two founders of Murray and Ready's employment agency"
+          "Both surnames deliberately honour prominent 1920s Wall Street financiers whose speculation triggered the Great Depression ranch crisis",
+          "`'Milton'` translates from California Spanish as 'barley bucker', while `'Small'` directly refers to Lennie's timid, whispering speaking voice",
+          "Steinbeck borrowed the two surnames from the historical founders of Murray and Ready's San Francisco employment agency to ground the realism"
         ],
         "answerIndex": 0,
         "explanation": "Naming the giant labourer *Lennie Small* highlights his childlike vulnerability via verbal irony, while *George Milton* subtly echoes John Milton's *Paradise Lost* — fitting a novella about cast-out wanderers yearning for a lost agrarian Eden.",
@@ -802,10 +802,10 @@ export const mcqPapers: Paper[] = [
         "id": "lit-of-mice-and-men-m3-q10",
         "question": "In Section 2, Candy praises former blacksmith **Whitey** as `'a clean guy'` who dressed up every Sunday even without anywhere to go, then abruptly quit saying `'Why—jes' quit, the way a guy will'` over the food. What **AO4** reality does Whitey illustrate?",
         "options": [
-          "Ranch food was poisoned by pesticides during Dust Bowl droughts",
+          "Contaminated ranch provisions during Dust Bowl droughts regularly forced skilled farmworkers to seek hospital treatment",
           "Chronic powerlessness left 1930s bindle-stiffs only one hollow gesture of agency — quitting one identical ranch to drift onto the next",
-          "Blacksmiths earned enough money to retire comfortably in San Francisco",
-          "The Boss fired anyone who wore clean clothes on Sundays"
+          "Experienced 1930s blacksmiths commanded such lucrative wages that they could retire comfortably to San Francisco at will",
+          "Ranch owners routinely dismissed fastidious workers who dressed in Sunday suits rather than staying in bunkhouse overalls"
         ],
         "answerIndex": 1,
         "explanation": "Denied land, unions or promotion, transient workers exercised a pathetic illusion of freedom (`'jes' quit, the way a guy will'`), walking down the highway only to buck the exact same barley under another identical Boss.",
@@ -822,9 +822,9 @@ export const mcqPapers: Paper[] = [
         "id": "lit-of-mice-and-men-m3-q11",
         "question": "How does Steinbeck use **sound** outside the barn in Section 5 (`'From outside came the clang of horseshoes on the playing peg and the shouts of men'`) while Lennie and Curley's wife talk inside?",
         "options": [
-          "The loud thunderstorm outside drowns out Lennie's cries for George",
-          "The Boss is ringing the iron dinner triangle to summon Curley's wife home",
-          "Crooks is hammering new horseshoes onto Slim's mule team in the yard",
+          "Pathetic fallacy of an approaching thunderstorm outside drowns out Lennie's panicked pleas for George to intervene",
+          "The Boss repeatedly strikes the iron ranch dinner triangle outside to summon Curley's wife back to the farmhouse",
+          "Crooks rhythmically hammers new horseshoes onto Slim's mule team in the yard, foreshadowing Curley's violent arrival",
           "Carefree male recreation outside heightens dramatic tension and underscores the quiet isolation of the two doomed figures inside the dim barn"
         ],
         "answerIndex": 3,
@@ -842,10 +842,10 @@ export const mcqPapers: Paper[] = [
         "id": "lit-of-mice-and-men-m3-q12",
         "question": "Which comparison most accurately contrasts **Candy** and **Crooks** in their response to the ten-acre farm dream?",
         "options": [
-          "Candy brings cynical disbelief from start to finish, whereas Crooks immediately invests three hundred dollars",
-          "Both men leave the ranch together in Section 6 to buy the farm without George",
+          "Candy maintains cynical disbelief from Section 2 to Section 6, whereas enthusiastic Crooks immediately pledges three hundred dollars toward the deposit",
+          "Both marginalised outcasts quietly abandon the Salinas ranch together in Section 6 to purchase the ten-acre homestead without waiting for George",
           "Candy clings desperately to the dream even after Curley's wife dies, whereas Crooks protects himself behind hardened scepticism and quickly retreats after racial humiliation",
-          "Neither man ever believes the farm exists because neither has seen the old couple's deed"
+          "Neither man ever believes the ten-acre farm actually exists because George refuses to show them the old couple's signed property deed in Section 4"
         ],
         "answerIndex": 2,
         "explanation": "Candy throws his life savings and soul into the dream (still asking George in Section 5 if the two of them could buy it), whereas Crooks — scarred deeper by lifelong Jim Crow racism — dares hope for only minutes before armouring himself again (`'I didn't mean nothing, jus' foolin''`).",
@@ -862,10 +862,10 @@ export const mcqPapers: Paper[] = [
         "id": "lit-of-mice-and-men-m3-q13",
         "question": "In Section 3, George confesses to Slim that back home he once played cruel jokes on Lennie — until the day he told Lennie to jump into the **Sacramento River**, even though Lennie could not swim, and Lennie nearly drowned. What made George stop forever?",
         "options": [
-          "Aunt Clara threatened to report George to the Weed county sheriff",
+          "Furious Aunt Clara threatened to report George to the Weed county sheriff for endangering Lennie's life in the river",
           "After George pulled him out, Lennie wasn't angry at all — he was simply grateful George saved him (`'he was so nice to me for pullin' him out'`)",
-          "Slim warned George that bullying weaker men brings bad luck on ranches",
-          "Lennie fought back and injured George's shoulder on the riverbank"
+          "Slim sternly warned George that mistreating vulnerable companions always provoked retaliation from other ranch hands",
+          "Lennie instinctively fought back in panic on the riverbank, bruising George's shoulder and frightening him into restraint"
         ],
         "answerIndex": 1,
         "explanation": "Lennie's total lack of resentment — thanking the very person who nearly drowned him — shamed George out of casual cruelty, marking George's moral awakening in contrast to Curley's and Crooks's downward bullying.",
@@ -882,10 +882,10 @@ export const mcqPapers: Paper[] = [
         "id": "lit-of-mice-and-men-m3-q14",
         "question": "Which Grade-9 thesis statement best answers an Edexcel 4ET1 essay question on **how Steinbeck presents power and powerlessness** in *Of Mice and Men*?",
         "options": [
-          "Curley is the meanest character in the book because he likes fighting big guys, while Slim is nice and Lennie is very strong.",
-          "In the 1930s the Great Depression happened after the 1929 Wall Street Crash and millions of Americans lost their jobs and migrated west.",
+          "Curley is the meanest character in the book because he picks fights with big ranch hands like Lennie, whereas Slim is kind, Carlson shoots Candy's old dog, and Curley's wife complains in the barn.",
+          "After the 1929 Wall Street Crash triggered the Great Depression, banks collapsed across America, Dust Bowl storms ruined Oklahoma farms, and millions of unemployed people migrated west to California.",
           "Steinbeck constructs the ranch as a brutal microcosm of 1930s America where economic capital, whiteness, patriarchy and physical utility stratify power — compelling even marginalised outcasts to police those beneath them.",
-          "Steinbeck uses similes, metaphors, adjectives and personification on every page to paint a vivid picture of power in the reader's head."
+          "Steinbeck uses similes, metaphors, descriptive adjectives, short sentences and personification on every page to paint a vivid picture of power in the reader's head and make them want to read on."
         ],
         "answerIndex": 2,
         "explanation": "A top-band 4ET1 thesis treats the ranch conceptually as a microcosm uniting AO1 (character hierarchy and downward cruelty) with AO4 (1930s class, race, gender and utility). The alternatives fall into childish plot chat, bolt-on history or empty technique-spotting clichés.",
@@ -903,9 +903,9 @@ export const mcqPapers: Paper[] = [
         "question": "Look at the progression of creatures Lennie accidentally kills across the novella: **mice (Section 1) -> Slim's puppy (Section 5) -> Curley's wife (Section 5)**. What structural technique is Steinbeck using?",
         "options": [
           "Climactic escalation (foreshadowing chain), steadily magnifying the size and human cost of each accidental death until catastrophe becomes inescapable",
-          "Comic bathos that gradually lowers the emotional stakes",
-          "In medias res flashback reversing chronological time",
-          "Unreliable first-person narration concealing Lennie's actions from the reader"
+          "Comic bathos, deliberately undercutting the ranch's tragic tension by lowering the emotional stakes across successive episodes",
+          "An in medias res flashback sequence that reverses chronological time so the reader learns of Curley's wife's death before Weed",
+          "Unreliable first-person narration that withholds Lennie's physical strength from the reader until Section 5's sudden barn climax"
         ],
         "answerIndex": 0,
         "explanation": "Moving from tiny fieldmice to a sturdy ranch puppy (`'You ain't so little as mice'`) to a human being builds inexorable tragic momentum, fulfilling the Burns title prophecy that fragile schemes collapse under blind force.",

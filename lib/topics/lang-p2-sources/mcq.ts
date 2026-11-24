@@ -80,9 +80,9 @@ export const mcqPapers: Paper[] = [
         question:
           "Read these two extracts on urban cycling lanes:\n\n> **Source A (Delivery courier's blog):** *'Painted white lines vanish the moment a delivery van double-parks; without concrete kerbs, every junction is a gamble with wing-mirrors.'*\n> **Source C (Transport planner's report):** *'Segregated cycle tracks increased commuter uptake by 48%, whereas advisory paint-only lanes yielded no statistically significant reduction in collisions.'*\n\nWhich sentence achieves **conceptual synthesis** rather than sequential summary?",
         options: [
-          "Source A is written by a courier about wing-mirrors, and Source C is written by a planner who mentions 48%.",
-          "Source A hates cycling in cities, whereas Source C thinks urban cycling is completely safe everywhere.",
-          "Both sources rely heavily on extended maritime metaphors to dramatise rush-hour congestion.",
+          "Source A is written by a city delivery courier complaining about double-parked vans and wing-mirrors at junctions, and Source C is written by a transport planner reporting a 48% rise in commuter numbers.",
+          "Source A reveals an outright hostility toward urban cycling as a recklessly dangerous hobby that ought to be discouraged, whereas Source C contends that cycling across British cities is already completely safe everywhere.",
+          "Both writers rely heavily on sustained maritime metaphors of treacherous currents and coastal navigation to dramatise how rush-hour congestion engulfs commuters across every major urban road junction.",
           "Both writers expose the inadequacy of superficial painted lanes and converge on physical segregation as essential for cyclist safety, pairing Source A's lived street hazard ('gamble with wing-mirrors') with Source C's empirical collision data.",
         ],
         answerIndex: 3,
@@ -168,10 +168,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Compare the syntax of two statements following a river chemical spill:\n\n> **Source B (Water utility press statement):** *'Elevated effluent thresholds were regrettably exceeded during routine valve recalibration.'*\n> **Source D (Anglers' association letter):** *'Executives dumped raw sewage into trout spawning beds to save maintenance overtime.'*\n\nHow do the writers' grammatical choices reflect their contrasting agendas?",
         options: [
-          "Both writers use identical colloquial slang to entertain younger readers",
-          "Source B uses active verbs to accept full legal blame, whereas Source D uses passive voice to soften criticism",
+          "Both extracts adopt identical colloquial register and informal street idioms in order to build lively, light-hearted solidarity with younger readers across the community",
+          "Source B deploys direct active verbs to accept unequivocal legal responsibility for the spill, whereas Source D relies on detached passive syntax to soften public criticism",
           "Source B uses agentless passive voice and euphemistic jargon to diffuse blame, whereas Source D uses concrete active syntax ('Executives dumped') to assign direct moral culpability",
-          "Neither sentence contains evaluative framing because both describe the same physical event",
+          "Neither statement exhibits persuasive framing or ideological bias, since both writers report the exact same physical river incident in neutral, interchangeable grammatical structures",
         ],
         answerIndex: 2,
         explanation:
@@ -191,9 +191,9 @@ export const mcqPapers: Paper[] = [
           "**Source A** condemns fast-food billboards near schools using emotive parental anecdotes, while **Source C** condemns the exact same billboards using municipal obesity datasets. Which comparative hinge most accurately links them in a WEAVE paragraph?",
         options: [
           "Corroborating Source A's call for tighter restrictions — albeit pivoting from intimate parental pathos to municipal epidemiological data — Source C...",
-          "Completely contradicting Source A's opposition to billboards, Source C argues...",
-          "Repeating the exact same personal anecdotes and emotional tone as Source A, Source C...",
-          "Ignoring the issue of advertising altogether, Source C instead...",
+          "Diametrically contradicting Source A's campaign against roadside advertising — and defending fast-food billboards as harmless commerce — Source C...",
+          "Replicating both Source A's intimate domestic anecdotes and its identical sentimental register without introducing statistical evidence, Source C...",
+          "Setting aside the debate over fast-food advertising completely to investigate unrelated public-transport fares near primary schools, Source C...",
         ],
         answerIndex: 0,
         explanation:
@@ -257,9 +257,9 @@ export const mcqPapers: Paper[] = [
           "Compare two Paper 2A stems:\n- **Question X:** *'Using Sources A and B, summarise the reasons why rural post offices have closed.'* [6 marks]\n- **Question Y:** *'Compare how the writers of Sources C and D convey their attitudes toward rural isolation.'* [14 marks]\n\nHow should your approach shift from Question X to Question Y?",
         options: [
           "Question X requires grouped implicit/explicit inferences with brief paired quotes (skipping lengthy imagery analysis), whereas Question Y requires sustained WEAVE comparison of perspectives, tone shifts, and rhetorical methods",
-          "Question X requires three pages of metaphor and syntax analysis, whereas Question Y requires a bullet-point list of facts",
-          "Both questions should be answered identically by listing techniques without quotations",
-          "Question X allows you to invent reasons from general knowledge without quoting Sources A and B",
+          "Question X requires three extended PETAL paragraphs zooming deeply into metaphor, sibilance, and clause rhythm, whereas Question Y rewards a brisk, unanalysed bullet-point tally of explicit factual dates",
+          "Both stems test identical assessment objectives, so candidates should write rapid feature-spotting catalogues of rhetorical terminology across all four sources without embedding textual quotations",
+          "Question X encourages candidates to draw freely on outside personal knowledge of rural commerce without grounding points in Sources A and B, whereas Question Y prohibits comparing more than one source per answer",
         ],
         answerIndex: 0,
         explanation:
@@ -372,10 +372,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Compare pronoun choices in two extracts on city air quality:\n\n> **Source A (Parent campaigner):** *'Every morning we walk our six-year-olds past idling diesel exhausts at the school gate.'*\n> **Source D (Municipal compliance memo):** *'Pedestrian stakeholders traversing arterial corridors experience transient particulate exposure.'*\n\nWhat contrast in reader positioning do these choices create?",
         options: [
-          "Source A uses distanced bureaucratic jargon, whereas Source D builds warm family intimacy",
+          "Source A hides behind distanced institutional euphemism to shield school leaders from scrutiny, whereas Source D builds warm family intimacy by celebrating shared neighbourhood walks",
           "Source A uses collective pronouns ('we', 'our') to enlist the reader in shared protective urgency, whereas Source D's abstract nouns ('Pedestrian stakeholders') sanitise human harm into administrative detachment",
-          "Both extracts use second-person imperatives to accuse the reader of driving diesel vans",
-          "Source D is more emotional than Source A because longer Latinate words express deeper grief",
+          "Both extracts deploy confrontational second-person imperatives directly accusing the reader of idling commercial diesel vans outside local primary-school gates during morning drop-off",
+          "Source D generates far deeper emotional pathos than Source A because polysyllabic Latinate phrases like 'transient particulate exposure' convey urgent parental grief more vividly than plain diction",
         ],
         answerIndex: 1,
         explanation:
@@ -416,9 +416,9 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this extract from a consumer rights columnist writing about gym membership contracts:\n\n> *'First comes the honeyed velvet tour; then the twelve-month shackle snaps shut, ransoming your direct debit behind a labyrinth of cancellation penalties.'*\n\nWhich **semantic field** dominates the second clause, and what perspective does it convey?",
         options: [
-          "A semantic field of medical healing ('velvet', 'direct debit') praising gym fitness",
-          "A semantic field of pastoral nature celebrating outdoor running",
-          "A purely literal legal glossary with zero figurative connotation",
+          "A semantic field of clinical medicine and rehabilitation ('velvet', 'direct debit', 'penalties'), endorsing long-term gym contracts as vital preventive healthcare",
+          "A semantic field of tranquil pastoral nature ('honeyed', 'labyrinth'), celebrating outdoor countryside endurance training over indoor commercial fitness studios",
+          "A strictly literal contract-law glossary devoid of figurative connotation, presenting consumer cancellation clauses with balanced, objective administrative neutrality",
           "A semantic field of captivity and extortion ('shackle', 'snaps shut', 'ransoming'), framing the gym not as a service provider but as a predatory captor",
         ],
         answerIndex: 3,
@@ -439,9 +439,9 @@ export const mcqPapers: Paper[] = [
           "Compare two writers reflecting on DIY home renovation:\n\n> **Source A:** *'Armed with three YouTube tutorials and unearned hubris, I turned a mildly wonky kitchen shelf into forty square feet of exposed Victorian lath.'*\n> **Source C:** *'Unlicensed rogue traders prey on elderly homeowners, charging thousands for botched rewiring before vanishing behind disconnected mobile numbers.'*\n\nHow do the writers' perspectives and purposes contrast?",
         options: [
           "Source A adopts rueful, self-deprecating humour to entertain readers with personal folly, whereas Source C adopts indignant moral advocacy to expose predatory fraud against vulnerable citizens",
-          "Both writers demand prison sentences for amateur homeowners who watch online tutorials",
-          "Source A writes a detached technical manual, whereas Source C writes lighthearted slapstick comedy",
-          "Both writers maintain a celebratory, triumphant tone about effortless craftsmanship",
+          "Both writers launch an indignant campaign demanding immediate custodial prison sentences for amateur homeowners who consult online repair tutorials instead of hiring certified builders",
+          "Source A delivers a cool, step-by-step carpentry instruction manual on repairing Victorian plasterwork, whereas Source C employs light-hearted slapstick satire to amuse domestic readers",
+          "Both writers maintain an upbeat, celebratory tone throughout, praising both self-taught home improvisation and unregulated contractors for making kitchen refurbishment quick and affordable",
         ],
         answerIndex: 0,
         explanation:
@@ -460,10 +460,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this extract from a firefighter's testimony on moorland wildfires:\n\n> *'Sixteen hours hauling hoses up blackened heather, choking on peat smoke, watching curlew nests vanish in seconds, praying the wind holds steady. All from one disposable barbecue.'*\n\nHow does the two-sentence syntactic pairing create its impact?",
         options: [
-          "Two identical compound-complex sentences create a soothing, lullaby-like symmetry",
+          "Two symmetrically matched compound-complex sentences maintain an unhurried, soothing rhythmic balance that reassures readers the moorland blaze was contained calmly without lasting ecological damage",
           "A breathless cumulative sequence of present participles builds exhausting scale, which the blunt minor sentence ('All from one disposable barbecue.') throws into devastating disproportion against its trivial, preventable cause",
-          "Technical chemical formulas prove the exact ignition temperature of peat moss",
-          "Comic bathos invites the reader to laugh at moorland wildlife",
+          "Clinical botanical jargon and quantified chemical ignition measurements establish detached scientific authority, stripping personal fatigue out of the firefighter's moorland incident report",
+          "Playful comic bathos turns the closing line into light-hearted outdoor banter, inviting weekend picnickers to laugh affectionately at the chaotic mishaps of summer moorland wildlife",
         ],
         answerIndex: 1,
         explanation:
@@ -482,10 +482,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Which opening topic sentence best launches a high-tariff Paper 2A paragraph comparing **Source B** (an airline CEO's keynote speech) and **Source E** (a flight attendant's anonymous memoir)?",
         options: [
-          "Source B is a speech and Source E is a memoir, and both use punctuation and adjectives.",
-          "In this paragraph I am going to talk about Source B first and then later on I will compare it to Source E.",
+          "Source B is a keynote speech written by an airline executive and Source E is an anonymous memoir written by a flight attendant, and both writers use lots of punctuation, varied sentences, and adjectives to engage the reader.",
+          "In this paragraph I am going to write about Source B first to summarise the airline CEO's views on low-cost flying, and then later on in the next paragraph I will compare those views to Source E's cabin-crew account.",
           "While both texts address budget aviation's rapid expansion, Source B's executive keynote celebrates streamlined turnaround metrics as democratic progress, whereas Source E's cabin-crew memoir exposes the exhausting human toll hidden behind those exact schedules.",
-          "Source B has lots of persuasive techniques that hook the audience from the very first line.",
+          "Source B deploys a wide array of impressive persuasive devices and ambitious rhetorical features from its very first opening line in order to hook the business conference audience and make them want to keep reading eagerly.",
         ],
         answerIndex: 2,
         explanation:
@@ -504,9 +504,9 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this extract from a broadsheet essay on artificial intelligence in radiology:\n\n> *'Granted, pattern-recognition algorithms can flag micro-fractures across ten thousand scans before a junior doctor finishes a cup of tea; yet no neural network can sit beside a trembling parent and translate a shadow on a screen into humane counsel.'*\n\nWhy does the writer begin with the concession *'Granted…'* before pivoting at *'yet'*?",
         options: [
-          "Because the writer accidentally forgot their own thesis halfway through the sentence",
-          "Because the writer believes human radiologists should be completely replaced by faster software",
-          "Because 'Granted' signals sarcastic mockery showing that algorithms cannot read scans at all",
+          "Because the columnist lost structural control midway through drafting the sentence, inadvertently contradicting their own opening argument before trying to rescue it after the semicolon",
+          "Because the writer ultimately advocates replacing human diagnostic radiologists with automated neural networks, using the closing clause only as a nostalgic tribute to retiring clinicians",
+          "Because opening with the adverb 'Granted' signals heavy sarcastic mockery, implying that medical imaging software fails completely at spotting micro-fractures across routine hospital scans",
           "Because steelmanning AI's genuine diagnostic speed establishes fair-minded ethos, making the subsequent defence of irreplaceable human empathy ('humane counsel') far harder to dismiss as technophobic nostalgia",
         ],
         answerIndex: 3,
@@ -527,9 +527,9 @@ export const mcqPapers: Paper[] = [
           "Read these two extracts about village night skies:\n\n> **Source A (Astronomer's letter):** *'Since the logistics depot installed floodlights on Junction 9, children in our parish have grown up able to name thirty courier logos but not Orion's belt.'*\n> **Source D (Ecologist's note):** *'Nocturnal moth pollination along hedgerows within two miles of illuminated roundabouts fell by 62% inside three summers.'*\n\nWhat **implicit synthesis** links Source A and Source D beyond the obvious fact that floodlights are bright?",
         options: [
           "Artificial light pollution inflicts invisible collateral loss across both cultural wonder and ecological survival — severing human generational connection to the cosmos while disrupting nocturnal food webs",
-          "Courier companies deliberately built floodlights in order to harm moths and astronomy clubs",
-          "Children in rural parishes prefer studying insects to studying constellations",
-          "Both writers argue that motorway junctions should never carry freight at any hour of day",
+          "Commercial logistics depots installed high-intensity Junction 9 floodlights intentionally to suppress local moth populations and discourage amateur village astronomy clubs from stargazing",
+          "Rural primary-school children across the parish now prefer studying nocturnal hedgerow insects and commercial courier branding over learning traditional constellations such as Orion's belt",
+          "Both writers campaign for a total daytime and night-time ban on motorway freight haulage across Britain, insisting rural roundabouts should never carry commercial delivery traffic at any hour",
         ],
         answerIndex: 0,
         explanation:
@@ -548,10 +548,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this extract from a community theatre director's appeal:\n\n> *'Without rehearsal rooms, young voices go unheard. Without ticket subsidies, working families stay locked outside. Without civic courage, culture shrinks into a private club.'*\n\nWhich pairing of syntactic methods drives the persuasive momentum here?",
         options: [
-          "Parenthetical asides and passive voice",
+          "Parenthetical dashed asides combined with agentless passive syntax to distance local councillors from theatre closure decisions",
           "Anaphora ('Without...') across a three-sentence tricolon, escalating from creative silence to social exclusion to civic decay",
-          "Oxymoron and rhyming heroic couplets",
-          "Colloquial slang and self-deprecating bathos",
+          "Self-contradictory oxymoron paired with rhyming heroic couplets to give the fundraising leaflet a playful theatrical cadence",
+          "Informal regional slang combined with self-deprecating comic bathos to puncture the director's own plea for arts subsidies",
         ],
         answerIndex: 1,
         explanation:
@@ -570,9 +570,9 @@ export const mcqPapers: Paper[] = [
         question:
           "An OxfordAQA Paper 2A pack pairs **Source A** (an 1892 railway traveller's letter complaining that 50 mph steam trains *'shatter the contemplative peace of the shires'*) with **Source C** (a 2024 commuter blog complaining that 125 mph Wi-Fi dropouts *'paralyse remote productivity'*). What insight does comparing their **historical eras** unlock?",
         options: [
-          "Victorian writers lacked vocabulary to describe speed accurately",
-          "Both writers share an identical desire to abolish railways and walk everywhere",
-          "Source A must be fictional because letters were not published in newspapers in 1892",
+          "Nineteenth-century letter writers lacked precise technical vocabulary for mechanical acceleration, forcing them to describe modest fifty-mile-per-hour locomotives in clumsy rural phrasing",
+          "Across both eras, British rail passengers share an identical reactionary hostility toward mechanised speed and unite in arguing that railways should be dismantled in favour of walking",
+          "Source A cannot be treated as authentic historical non-fiction in Paper 2A because Victorian broadsheets refused to print readers' letters complaining about steam-railway expansion in 1892",
           "Technological baselines shift expectations: what 1892 experienced as a violent intrusion on pastoral stillness, 2024 takes for granted as an invisible mobile office whose slightest digital hiccup sparks frustration",
         ],
         answerIndex: 3,
@@ -615,9 +615,9 @@ export const mcqPapers: Paper[] = [
           "A student compares **Source A** (*'tourists locust-swarmed the cobbled harbour'*) and **Source B** (*'summer footfall injected £4.2 million into coastal cafés'*). Which analytical comment reaches Grade-9 precision?",
         options: [
           "Source A's compound verb 'locust-swarmed' casts visitors as a biblical, devouring plague that strips the village bare, whereas Source B's medical metaphor 'injected' frames those same crowds as a vital financial transfusion reviving local trade.",
-          "Source A uses the word 'locust-swarmed' which is negative, while Source B uses 'injected' which is positive.",
-          "Source A is about insects in harbours, whereas Source B is about hospital injections in cafés.",
-          "Both writers use metaphors to make the reader picture the seaside clearly in their mind.",
+          "Source A chooses the negative descriptive phrase 'locust-swarmed' to make the reader feel negative about summer visitors, whereas Source B chooses the positive word 'injected' to create a positive impression of local cafés.",
+          "Source A documents a literal agricultural infestation of migratory insects descending on coastal harbours, whereas Source B investigates emergency clinical hospital injections administered inside seaside cafés during summer.",
+          "Both writers deploy colourful descriptive metaphors across their opening sentences in order to paint a vivid picture of the seaside clearly in the reader's mind and persuade the audience to keep reading their articles.",
         ],
         answerIndex: 0,
         explanation:
@@ -730,10 +730,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Read two extracts on declining teenage reading for pleasure:\n\n> **Source B (Secondary librarian):** *'When school libraries lose ring-fenced staffing budgets, reluctant readers lose the one adult trained to match a teenager with the right book.'*\n> **Source E (Tech columnist):** *'Short-form video feeds rewire adolescent attention spans into twelve-second loops, making a three-hundred-page novel feel like scaling Everest in flip-flops.'*\n\nHow do Sources B and E relate conceptually?",
         options: [
-          "Both deny that teenage reading has declined at all",
-          "Both blame school librarians for banning smartphones in classrooms",
+          "Both writers challenge the premise of a literacy crisis altogether, arguing that teenagers read just as widely today via digital platforms as earlier generations read printed novels",
+          "Both writers place primary blame on secondary-school librarians for refusing to confiscate pupils' smartphones and failing to police classroom screen-time policies more aggressively",
           "Both diagnose the same crisis (eroding teen reading), yet locate its root cause differently: Source B blames institutional funding cuts to human mentorship, whereas Source E blames algorithmic fracturing of attention",
-          "Source B focuses on university professors, whereas Source E focuses on nineteenth-century poetry",
+          "Source B investigates declining library attendance among postgraduate university lecturers, whereas Source E evaluates why nineteenth-century epic poetry no longer appeals to adult commuters",
         ],
         answerIndex: 2,
         explanation:
@@ -752,9 +752,9 @@ export const mcqPapers: Paper[] = [
         question:
           "In the extract *'making a three-hundred-page novel feel like scaling Everest in flip-flops'*, what persuasive effect does the simile achieve?",
         options: [
-          "It adopts a solemn, tragic tone mourning mountaineering fatalities in the Himalayas",
-          "It proves teenagers lack warm footwear during winter term",
-          "It provides an objective clinical measurement of reading speed per minute",
+          "It strikes a solemn, elegiac tone mourning fatal Himalayan mountaineering accidents in order to guilt-trip adolescent readers into taking classic literature seriously",
+          "It offers a literal socioeconomic observation about teenage poverty, demonstrating that modern pupils lack adequate thermal footwear during harsh winter school terms",
+          "It supplies an objective psychometric benchmark of average reading speed per minute, translating adolescent comprehension scores into clinical neurological terminology",
           "It uses wry, bathetic exaggeration pairing epic endurance ('scaling Everest') with flimsy unpreparedness ('in flip-flops') to dramatise how ill-equipped fragmented attention feels before sustained prose",
         ],
         answerIndex: 3,
@@ -818,10 +818,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Compare how two charity appeals open on clean water access:\n\n> **Source A:** *'Every dawn, nine-year-old Amina walks four kilometres carrying a yellow jerrycan heavier than her schoolbag.'*\n> **Source C:** *'Across sub-Saharan basins, 2.2 billion individuals lack safely managed potable infrastructure.'*\n\nWhy might Source A's opening overcome 'compassion fatigue' more effectively for general donors than Source C's?",
         options: [
-          "Because four kilometres is mathematically larger than 2.2 billion",
+          "Because four kilometres represents a more staggering physical scale than 2.2 billion, compelling analytical donors to respond more urgently to linear distance than population totals",
           "Because psychic numbing dulls emotional response to vast abstract billions, whereas naming one child and contrasting a concrete 'yellow jerrycan' against 'her schoolbag' individualises human cost and lost education",
-          "Because Source C uses informal slang that alienates educated readers",
-          "Because Source A avoids mentioning water altogether",
+          "Because Source C slips into sloppy conversational slang and ungrammatical fragments that alienate educated charitable donors accustomed to formal humanitarian reportage",
+          "Because Source A tactfully avoids referencing water scarcity or rural infrastructure altogether, keeping donors focused exclusively on primary-school curriculum reform",
         ],
         answerIndex: 1,
         explanation:
@@ -840,9 +840,9 @@ export const mcqPapers: Paper[] = [
         question:
           "In **Source C** (a newspaper report on rewilding wolves), a farmer is quoted saying *'They are silent four-legged assassins'*, while the reporter concludes *'Compensation schemes in three Alpine valleys reduced livestock disputes by 70%'*. Whose perspective is *'four-legged assassins'*?",
         options: [
-          "The newspaper reporter's own overarching conclusion",
-          "The official scientific terminology of Alpine wildlife biologists",
-          "Proof that the reporter supports shooting all protected wolves",
+          "The newspaper reporter's own overarching editorial thesis condemning every European wolf-rewilding programme as reckless",
+          "The standardised zoological classification adopted by Alpine wildlife biologists to describe apex predatory behaviour",
+          "Direct evidence that the journalist endorses lifting legal protections and culling all reintroduced wolves across the region",
           "An embedded stakeholder voice quoted inside the report — which the reporter subsequently tempers with balanced empirical evidence",
         ],
         answerIndex: 3,
@@ -863,9 +863,9 @@ export const mcqPapers: Paper[] = [
           "Read this extract from a cruise-ship executive responding to port pollution protests:\n\n> *'Critics gazing down from hillside villas forget that our vessels deliver three thousand eager diners every Tuesday to harbour taverna owners who would otherwise shutter by October.'*\n\nHow does the writer strategically reframe the debate?",
         options: [
           "By deploying ad hominem class contrast — painting protesters as privileged outsiders ('gazing down from hillside villas') while positioning the cruise line as the working-class economic saviour of local tavernas",
-          "By humbly apologising for diesel emissions and promising to cancel Tuesday dockings",
-          "By citing peer-reviewed marine air-quality measurements",
-          "By using elegiac poetic metre to praise quiet empty harbours",
+          "By offering a contrite corporate apology for heavy marine diesel emissions and pledging voluntarily to suspend all Tuesday port calls until local air quality improves",
+          "By anchoring the speech in peer-reviewed atmospheric air-quality studies that quantify sulphur particulates along the Mediterranean waterfront with clinical objectivity",
+          "By weaving lyrical, elegiac pastoral imagery throughout the statement to celebrate the quiet acoustic beauty of uncrowded coastal harbours during the autumn off-season",
         ],
         answerIndex: 0,
         explanation:
@@ -884,10 +884,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Why do Grade-9 Paper 2A scripts favour **2–5 word micro-quotations** over copying whole 25-word sentences?",
         options: [
-          "Examiners deduct two marks for every quotation longer than six words",
+          "OxfordAQA's Paper 2 Section A mark scheme enforces a strict negative penalty, deducting two AO2 marks for every quotation exceeding six words",
           "Micro-quotations embed seamlessly into your own comparative grammar, save crucial writing minutes, and force you to zoom directly onto high-value lexical/figurative choices",
-          "Long sentences are illegal under copyright rules in exam halls",
-          "Short quotations let you avoid explaining what the words mean",
+          "Copying complete twenty-five-word sentences from the unseen Source Booklet breaches examination-hall copyright rules and invalidates the response",
+          "Dropping brief two-word snippets into a paragraph speaks for itself, freeing candidates from having to explain word connotations or writers' attitudes",
         ],
         answerIndex: 1,
         explanation:
@@ -951,9 +951,9 @@ export const mcqPapers: Paper[] = [
           "How does careful reading of the 5–6 stimulus texts in **Paper 2 Section A** directly strengthen your performance on **Paper 2 Section B**?",
         options: [
           "Section B's writing tasks are thematically linked to the Section A pack, allowing you to harvest statistics, case studies, and counter-arguments from Section A and transform them into your own persuasive voice",
-          "Section B asks you to copy out your favourite Section A source word for word for 40 marks",
-          "Section B tests unseen Shakespearean tragedy with zero connection to Section A",
-          "You can skip Section A completely and still score 80 out of 80 on Section B",
+          "Section B explicitly rewards copying your favourite Section A source passage word-for-word onto the answer booklet to demonstrate thorough textual recall for forty marks",
+          "Section B pivots entirely into an unseen Shakespearean tragedy essay with zero thematic or factual crossover from the non-fiction source dossier examined in Section A",
+          "Because Section B carries all eighty marks of Paper 2 on its own, skimming Section A quickly and leaving the reading questions blank still permits a full-mark grade",
         ],
         answerIndex: 0,
         explanation:
@@ -972,10 +972,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Compare reader alignment in two extracts on electronic waste:\n\n> **Source B:** *'Open your kitchen drawer tonight and count the tangled graveyard of orphaned chargers you swore you might need.'*\n> **Source E:** *'Global e-waste streams reached 62 million metric tonnes in the preceding reporting cycle.'*\n\nHow does Source B's opening manoeuvre differ in effect from Source E's?",
         options: [
-          "Source B exonerates ordinary consumers completely, whereas Source E accuses the reader personally",
+          "Source B absolves everyday household consumers of all environmental responsibility by blaming manufacturers exclusively, whereas Source E confronts individual readers directly with accusatory second-person pronouns",
           "Source B uses an imperative ('Open') and domestic second-person ('your kitchen drawer') to implicate the reader in everyday complicity before they can deflect blame onto distant industry, whereas Source E maintains macro-institutional distance",
-          "Source B uses formal passive syntax, whereas Source E uses intimate conversational humour",
-          "Both sentences rely on nineteenth-century biblical allusions",
+          "Source B relies on stiff, agentless passive syntax and clinical waste-management metrics, whereas Source E adopts playful conversational comedy and intimate anecdotes about household clutter to warm up the reader",
+          "Both openings depend on elevated nineteenth-century biblical allusions and archaic formal cadence, distancing twenty-first-century readers from ordinary domestic electronics habits",
         ],
         answerIndex: 1,
         explanation:
@@ -994,9 +994,9 @@ export const mcqPapers: Paper[] = [
         question:
           "At the end of **Source A**, a flood survivor finishes with a blunt one-line paragraph: *'The insurance assessor still hasn't rung.'* At the end of **Source D**, a Flood Authority brochure finishes: *'Together, resilient communities build tomorrow's defences!'* Why is comparing these two **closing lines** such a powerful final WEAVE paragraph?",
         options: [
-          "Because shorter final sentences always prove a writer ran out of ink",
-          "Because examiners only read the final paragraph of your Paper 2A answer",
-          "Because both writers end on identical celebratory exclamation marks",
+          "Because ending on a crisp six-word sentence proves Source A's survivor ran out of ideas mid-draft, whereas Source D's longer slogan shows careful professional planning",
+          "Because Paper 2 Section A examiners judge whole-text comparative bands exclusively on the closing sentence of each source, ignoring opening tone and mid-text shifts",
+          "Because both closing lines rely on identical triumphant exclamation marks and celebratory inclusive pronouns, confirming both texts share a cheerful institutional optimism",
           "Because contrasting endings exposes the unresolved gulf between lived abandonment (Source A's clipped, present-tense stasis) and polished institutional PR optimism (Source D's inclusive slogan)",
         ],
         answerIndex: 3,

@@ -36,10 +36,10 @@ export const paper: ExamPaper = {
       "difficulty": "warmup",
       "question": "*An Inspector Calls* is set in spring **1912** but was first performed in **1945**. When Arthur Birling confidently declares the *Titanic* *\"unsinkable, absolutely unsinkable\"* and dismisses the possibility of war as *\"fiddlesticks\"*, what dramatic technique is Priestley weaponising?",
       "options": [
-        "Comic slapstick showing Birling is a harmless, lovable grandfather.",
+        "Comic slapstick, presenting Birling as a harmless, eccentric grandfather whose boastful blunders amuse his guests.",
         "Dramatic irony, instantly discrediting Birling's capitalist certainty before he utters his dismissal of social responsibility.",
-        "Soliloquy, allowing Birling to confess secret guilt privately to the audience.",
-        "Foreshadowing that the Birling family will sail to New York in Act 3."
+        "Private soliloquy, allowing Birling to confess secret guilt over his factory's working conditions directly to the audience.",
+        "Plot foreshadowing, hinting that the entire Birling family will board a transatlantic liner to New York at the end of Act 3."
       ],
       "answerIndex": 1,
       "explanation": "Every 1945 audience member had lived through TWO World Wars and knew the *Titanic* sank in April 1912; **dramatic irony** demolishes Birling's pomposity so the audience distrusts his laissez-faire politics ('a man has to mind his own business') seconds later.",
@@ -83,9 +83,9 @@ export const paper: ExamPaper = {
       "question": "Track **Sheila Birling's** dramatic arc across *An Inspector Calls*. Which transition most accurately captures her role in Priestley's structure?",
       "options": [
         "She evolves from infantilised Edwardian daughter ('mummy', 'squiffy') into the Inspector's sharpest moral proxy, warning her parents not to rebuild a 'wall' and refusing Gerald's ring automatically.",
-        "She starts as a radical socialist activist in Act 1 and becomes a ruthless factory owner by Act 3.",
-        "She joins Gerald and Mr Birling in celebrating that no girl really died once Goole leaves.",
-        "She leaves the stage permanently ten minutes into Act 1 and never returns."
+        "She begins the play as a committed socialist trade-union campaigner in Act 1 before gradually adopting her father's ruthless factory-management philosophy by Act 3.",
+        "She initially challenges her parents over Milwards, yet ultimately sides with Gerald and Arthur in Act 3 to celebrate escaping scandal once Goole leaves the house.",
+        "She obeys Gerald's chivalric plea to leave the dining room early in Act 1, remaining offstage throughout Acts 2 and 3 so Priestley can foreground the male characters."
       ],
       "answerIndex": 0,
       "explanation": "Sheila embodies Priestley's hope in the younger generation: she accepts moral culpability for Milwards, recognises 'these girls aren't cheap labour — they're people', decodes Goole's method before Sybil does, and refuses to Pretend nothing happened when the hoax theory emerges.",
@@ -125,9 +125,9 @@ export const paper: ExamPaper = {
       "difficulty": "core",
       "question": "In Act 2 of *An Inspector Calls*, why does **Sybil Birling's** condemnation of the unnamed 'young man' who got Eva/Daisy pregnant (*\"Go and look for the father of the child. It's his responsibility\"*) produce devastating dramatic tension?",
       "options": [
-        "Because Sybil is secretly praising the charity committee for giving Eva fifty pounds.",
-        "Because Inspector Goole is actually Eva Smith's biological father.",
-        "Because Gerald Croft immediately confesses that he is the father of the child.",
+        "Because Sybil is hypocritically boasting that her Brumley charity committee secretly granted pregnant Eva fifty pounds after learning who the father was.",
+        "Because the audience has already discovered from Sheila's Act 1 confession that Inspector Goole himself is Eva Smith's estranged biological father.",
+        "Because Gerald Croft immediately interrupts Sybil's interrogation to confess that he fathered Eva's unborn child while keeping her in Charlie Brunswick's rooms.",
         "Because the audience gradually realises — through Sheila's horrified warnings — that Sybil is unwittingly demanding the public ruin of her own son, Eric, right before Eric walks through the door."
       ],
       "answerIndex": 3,
@@ -168,10 +168,10 @@ export const paper: ExamPaper = {
       "difficulty": "challenge",
       "question": "Why does Priestley include the false-relief section in Act 3 (where Gerald and Birling deduce Goole was not a real police officer and that no girl has died at the Infirmary yet) **before** the final telephone call?",
       "options": [
-        "Priestley wanted to pad the play out by twenty minutes to fill an evening theatre booking.",
-        "It proves that Eva Smith invented the entire story as a harmless April Fool's prank.",
-        "Stripping away legal punishment tests each character's pure moral conscience: Sheila and Eric stay transformed by guilt, whereas Birling, Sybil and Gerald expose their hypocrisy by Caring only about public scandal — making the real inspector's impending arrival a deserved reckoning.",
-        "It shows Mr Birling genuinely repented and donated half his factory profits to charity."
+        "Extending the detective investigation allows Priestley to satisfy traditional well-made play length requirements while showing Gerald outsmarting an amateur impostor.",
+        "Exposing the hoax confirms that Eva Smith fabricated her charity interview and suicide story as a calculated attempt to blackmail two wealthy Brumley industrialist families.",
+        "Stripping away legal threat tests pure moral conscience: Sheila and Eric remain transformed, whereas Birling, Sybil and Gerald revert to caring only about scandal — making the real inspector's arrival a deserved reckoning.",
+        "The pause gives Arthur Birling time to demonstrate genuine Christian repentance by offering to endow the Brumley Women's Charity with half his factory's annual profits."
       ],
       "answerIndex": 2,
       "explanation": "The 'hoax' interlude is a moral litmus test: once external threat of prison/press vanishes, the older generation ('the famous younger generation who know it all') gleefully revert to Callousness, justifying the cyclical nemesis of the final phone call.",
@@ -317,10 +317,10 @@ export const paper: ExamPaper = {
       "difficulty": "core",
       "question": "In Act 1 Scene 1 of *Macbeth*, the Witches chant in **trochaic tetrameter** (*\"Fair is foul, and foul is fair\"*), and Macbeth's very first line in Act 1 Scene 3 is *\"So foul and fair a day I have not seen.\"*\n\nWhy is this metrical and lexical echo dramatically significant?",
       "options": [
-        "It proves Macbeth was physically hiding behind a rock listening to the Witches in Act 1 Scene 1.",
+        "The verbal repetition proves Macbeth was secretly eavesdropping on the Witches across the heath in Act 1 Scene 1 and already conspired with them against Duncan.",
         "Trochaic inversion and chiasmic paradox subvert natural iambic order, while Macbeth unconsciously echoing the Witches' exact antithesis links his psyche to moral inversion before they even meet.",
-        "It shows the Witches are benevolent angels sent by King Duncan to reward Macbeth.",
-        "It establishes a lighthearted comic subplot about Scottish weather."
+        "The rhythmic chant reveals that the Witches act as benevolent heavenly messengers sent by King Duncan to reward Macbeth for defeating Macdonwald in battle.",
+        "The playful weather paradox establishes a light-hearted comic subplot about Scottish storms, contrasting sharply with the serious political scenes at Forres."
       ],
       "answerIndex": 1,
       "explanation": "Shakespeare contrasts noble **iambic pentameter** (da-DUM × 5) with the Witches' **trochaic tetrameter** (DUM-da × 4) and chiasmus ('Fair is foul, and foul is fair'); Macbeth echoing their paradox before seeing them signals latent susceptibility rather than mere external bewitchment.",
@@ -361,9 +361,9 @@ export const paper: ExamPaper = {
       "question": "Compare **Lady Macbeth** in Act 2 Scene 2 (*\"A little water clears us of this deed\"*, spoken in controlled iambic verse) with Act 5 Scene 1 (*\"Out, damned spot! out, I say! … All the perfumes of Arabia will not sweeten this little hand\"*, spoken in **prose**). What structural pattern is Shakespeare crafting?",
       "options": [
         "Chiasmic psychological inversion and formal disintegration: her earlier dismissal of guilt rebounds as somnambulistic madness, marked by the collapse from blank verse into fragmented prose.",
-        "Linear triumph, showing Lady Macbeth growing calmer and more powerful as Queen.",
-        "Proof that the Gentlewoman and Doctor tricked Lady Macbeth with red paint.",
-        "Comic relief mocking Arabian perfume merchants."
+        "Linear political triumph: dropping formal rhymed verse for everyday prose shows Lady Macbeth growing more relaxed, practical, and assured in her role as Queen.",
+        "External supernatural deception: the fragmented prose proves the Gentlewoman and Doctor drugged Lady Macbeth and stained her hands with red dye to expose her.",
+        "Satirical comic relief: contrasting Scottish water with Arabian perfumes mocks Jacobean luxury imports to lighten the tragic tension before the final siege."
       ],
       "answerIndex": 0,
       "explanation": "Shakespeare constructs a **chiasmic** crossover: Lady Macbeth begins ruthless ('A little water') while Macbeth panics ('Neptune's ocean'), and ends broken by repressed guilt in disordered **prose** (Shakespeare's marker of mental collapse in noble characters) while Macbeth hardens into numb tyranny.",
@@ -404,9 +404,9 @@ export const paper: ExamPaper = {
       "difficulty": "core",
       "question": "After Duncan's murder, Lennox and the Old Man report unnatural prodigies in Act 2 Scene 4: darkness at noon, a towering owl killing a falcon, and Duncan's horses eating each other. Which **Jacobean contextual belief (AO4)** explains why regicide triggers chaos in nature?",
       "options": [
-        "Darwin's nineteenth-century theory of natural selection.",
-        "Republican democracy arguing that kings are merely ordinary employees.",
-        "The Industrial Revolution's coal-smoke pollution blocking sunlight over Scotland.",
+        "Charles Darwin's evolutionary theory of natural selection, proving ruthless predators inevitably displace weaker rulers in Scottish nature.",
+        "Early republican political theory, arguing that hereditary kings are mere salaried civil servants whose removal causes only brief confusion.",
+        "Industrial Revolution anxieties about urban coal smoke and factory furnaces blotting out midday sunlight across northern Scotland.",
         "The Great Chain of Being and the Divine Right of Kings, whereby murdering God's anointed monarch ruptures cosmic hierarchy from the heavens down to animals."
       ],
       "answerIndex": 3,
@@ -448,10 +448,10 @@ export const paper: ExamPaper = {
       "difficulty": "challenge",
       "question": "Read Macbeth's Act 5 Scene 5 response to Lady Macbeth's death:\n\n*\"Tomorrow, and tomorrow, and tomorrow, / Creeps in this petty pace from day to day… / Life's but a walking shadow, a poor player / That struts and frets his hour upon the stage / And then is heard no more. It is a tale / Told by an idiot, full of sound and fury, / Signifying nothing.\"*\n\nWhat do the **polysyndetic repetition**, **theatre meta-metaphor**, and final **trochaic drop** reveal about Macbeth's tragic endpoint?",
       "options": [
-        "He feels joyful relief that he can now rule Scotland in peace without Lady Macbeth.",
-        "He plans to retire from politics and become a playwright in London.",
-        "His regicide has hollowed out all human meaning into existential nihilism: time drags monotonously ('Tomorrow, and tomorrow'), kingship feels like a brief, fraudulent stage costume ('poor player'), and existence collapses into 'Signifying nothing'.",
-        "He repents pious Christian faith and begs Malcolm for forgiveness."
+        "News of his wife's death brings Macbeth quiet domestic relief, convincing him he can now abandon bloody tyranny and govern Scotland peacefully without her ambition.",
+        "The theatrical imagery reveals Macbeth's sudden plan to abdicate Dunsinane, seek sanctuary in England, and turn his martial exploits into a heroic chronicle play.",
+        "Regicide has hollowed meaning into existential nihilism: time drags monotonously ('Tomorrow, and tomorrow'), kingship feels like a fraudulent stage role ('poor player'), and life collapses into 'Signifying nothing'.",
+        "The weary rhythm marks Macbeth's pious Christian repentance, prompting him to confess his regicide before Heaven and surrender Dunsinane peacefully to Prince Malcolm."
       ],
       "answerIndex": 2,
       "explanation": "Polysyndeton ('and… and…') slows the line to an exhausted crawl ('Creeps'); metatheatrical imagery ('poor player') echoes the earlier 'borrowed robes' motif; and 'Signifying nothing' shows the ultimate spiritual punishment of tyranny is bleak nihilism.",
@@ -492,10 +492,10 @@ export const paper: ExamPaper = {
       "difficulty": "core",
       "question": "How does Shakespeare use **cyclical structural symmetry** between Act 1 Scene 2 and Act 5 Scene 8–9 of *Macbeth*?",
       "options": [
-        "Both Act 1 and Act 5 take place inside a peaceful sunny monastery in Rome.",
+        "Both opening and closing battles take place inside a tranquil Scottish monastery where Duncan and Malcolm formally bless the thanes before signing peace treaties.",
         "The play begins with Macbeth beheading the traitor Macdonwald to defend rightful kingship, and ends with Macduff beheading the 'butcher' Macbeth to restore rightful kingship under Malcolm.",
-        "King Duncan comes back to life in Act 5 Scene 9 and retakes the throne.",
-        "Banquo betrays Malcolm in Act 5 just as Cawdor betrayed Duncan in Act 1."
+        "King Duncan's ghost visibly returns to the throne at Scone in Act 5 Scene 9, crowning Macbeth's son to mirror Duncan's Act 1 triumph over the Norwegian army.",
+        "Banquo secretly betrays Prince Malcolm to the invading English forces in Act 5, mirroring how the original Thane of Cawdor betrayed King Duncan in Act 1."
       ],
       "answerIndex": 1,
       "explanation": "In Act 1, heroic Macbeth unseams the rebel Macdonwald and fixes his head upon the battlements; by Act 5, Macbeth has *become* the usurping traitor whose severed head Macduff presents ('Behold, where stands / Th' usurper's cursed head'), restoring moral and political order.",
@@ -535,10 +535,10 @@ export const paper: ExamPaper = {
       "difficulty": "core",
       "question": "In *An Inspector Calls*, why does **Gerald Croft** occupy a distinct middle position between Sheila/Eric and Mr/Mrs Birling?",
       "options": [
-        "Although younger and momentarily moved by genuine affection for Daisy Renton, his aristocratic privilege (son of Lord and Lady Croft) pulls him back into alibi-hunting and offering Sheila the engagement ring again as if nothing mattered.",
-        "Gerald is a working-class trade-union leader who organised the factory strike at Birling and Company.",
-        "Gerald never met Eva Smith or Daisy Renton at any point in the play.",
-        "Gerald is revealed in Act 3 to be Inspector Goole's younger brother."
+        "Though younger and momentarily moved by affection for Daisy Renton, his aristocratic privilege as Lord Croft's heir pulls him back into alibi-hunting and offering Sheila the ring as if nothing had happened.",
+        "Although engaged to a factory owner's daughter, Gerald secretly sympathises with Brumley's working class and helped Eva Smith organise the 1910 wage strike.",
+        "Unlike the rest of the Birling household, Gerald never actually encountered Eva Smith or Daisy Renton and stays onstage solely to defend Sheila's reputation.",
+        "Gerald bridges the two generations because Act 3 reveals he is Inspector Goole's estranged younger brother, sent to test whether the Birlings deserve to marry into Croft wealth."
       ],
       "answerIndex": 0,
       "explanation": "Priestley uses Gerald to show that **class interest can override youth**: unlike Sheila and Eric, Gerald leads the Act 3 detective effort to discredit Goole ('Everything's all right now, Sheila. What about this ring?'), proving entrenched aristocracy resists structural change.",

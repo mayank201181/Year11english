@@ -100,9 +100,9 @@ export const mcqPapers: Paper[] = [
           "Why did Arthur Birling dismiss Eva Smith from Birling and Company in autumn 1910?",
         options: [
           "She helped lead a strike to raise weekly wages from twenty-two and six to twenty-five shillings",
-          "She damaged expensive weaving machinery while working overtime",
-          "She stole petty cash from the factory wages office",
-          "She insulted Sybil Birling during a tour of the factory floor",
+          "She carelessly damaged expensive power looms while refusing to complete unpaid overtime shifts",
+          "She was caught embezzling fifty pounds in petty cash from the Birling and Company wages office",
+          "She publicly insulted Sybil Birling in front of guests during a charity tour of the factory floor",
         ],
         answerIndex: 0,
         explanation:
@@ -165,9 +165,9 @@ export const mcqPapers: Paper[] = [
         question:
           "How does Sheila explain why she had Eva Smith dismissed from Milwards department store?",
         options: [
-          "Eva accidentally tore the hem of Sheila's engagement gown",
-          "Eva refused to serve Sheila before closing time on Christmas Eve",
-          "Eva overcharged Sybil Birling's store account by fifty pounds",
+          "Careless while fitting garments, Eva accidentally tore the silk hem of Sheila's expensive engagement gown and refused to apologise",
+          "Exhausted after a long shift on Christmas Eve, Eva refused to serve Sheila and her mother five minutes before Milwards closed its doors",
+          "Suspicious of mistakes on the monthly ledger, Sheila accused Eva of overcharging Sybil Birling's department-store account by fifty pounds",
           "Furious that an unflattering dress suited pretty Eva far better, Sheila caught Eva smiling and threatened to close her mother's account",
         ],
         answerIndex: 3,
@@ -209,10 +209,10 @@ export const mcqPapers: Paper[] = [
         question:
           "How does Priestley construct the curtain cliffhanger bridging the end of Act 1 and the opening of Act 2?",
         options: [
-          "Birling orders Goole out of the house, and Act 2 opens the next morning at breakfast",
+          "Arthur Birling angrily orders Inspector Goole out of the house, and Act 2 resumes the next morning over a tense family breakfast",
           "Gerald betrays himself on hearing 'Daisy Renton', and Goole slowly opens the door to ask 'Well?' — the exact frozen moment on which Act 2 resumes",
-          "Sybil faints when shown the photograph, and Act 2 opens in the Brumley Infirmary",
-          "Eric confesses to stealing money, and Act 2 flashes back two years to autumn 1910",
+          "Sybil Birling faints onstage when Goole hands her Eva's photograph, and Act 2 opens in a quiet corridor of the Brumley Infirmary",
+          "Eric Birling blurts out his confession to stealing fifty pounds, and Act 2 shifts into a two-year flashback to autumn 1910",
         ],
         answerIndex: 1,
         explanation:
@@ -231,10 +231,10 @@ export const mcqPapers: Paper[] = [
         question:
           "In Edexcel 4ET1 Paper 2 Section A (*An Inspector Calls*), how are the 30 essay marks allocated across Assessment Objectives?",
         options: [
-          "10 marks AO1, 10 marks AO2, and 10 marks AO4 historical context",
-          "20 marks AO1 plot knowledge and 10 marks SPaG accuracy",
+          "10 marks AO1 (textual knowledge), 10 marks AO2 (dramatic methods), and 10 marks AO4 (1912 and 1945 historical context)",
+          "20 marks AO1 (chronological plot recall and character detail) alongside 10 marks for spelling, punctuation and grammar",
           "15 marks AO1 (knowledge & critical response) and 15 marks AO2 (language, form & structure), with AO4 not separately weighted",
-          "15 marks AO1 and 15 marks AO4, with no requirement to analyse stagecraft",
+          "15 marks AO1 (critical response) and 15 marks AO4 (Edwardian context), with zero requirement to analyse stagecraft",
         ],
         answerIndex: 2,
         explanation:
@@ -276,9 +276,9 @@ export const mcqPapers: Paper[] = [
           "When Birling tries to intimidate Goole by mentioning that Chief Constable Colonel Roberts dines with him and that he was Lord Mayor two years ago, how does Goole respond?",
         options: [
           "He cuts across Birling's name-dropping unimpressed, pointing out that senior connections have nothing to do with a girl's suicide",
-          "He apologises respectfully and offers to return the next morning with a warrant",
-          "He threatens to arrest Birling for bribing Brumley magistrates",
-          "He reveals that Colonel Roberts sent him personally to investigate Birling and Company",
+          "He apologises deferentially for disturbing the engagement dinner and offers to return the next morning with a magistrate's warrant",
+          "He warns Birling that bragging about golf games with Colonel Roberts constitutes bribery and threatens to arrest him immediately",
+          "He admits that Chief Constable Colonel Roberts privately ordered him to investigate Birling and Company's 1910 factory records",
         ],
         answerIndex: 0,
         explanation:
@@ -319,10 +319,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Which interpretation best explains the symbolic resonance of the name **Eva Smith**?",
         options: [
-          "It was the real name of a Bradford mill striker whom Priestley interviewed in 1912",
-          "It puns on 'evasive myth' to prove she never existed in any form",
+          "It reproduces the real name of an outspoken Bradford textile striker whom Priestley personally interviewed in spring 1912",
+          "It functions as a deliberate pun on 'evasive myth', signalling early on that no working-class woman ever existed in Brumley",
           "'Eva' echoes Eve (the archetypal woman) while 'Smith' is Britain's most common working-class surname, making her a universal Everywoman",
-          "It shows she belonged to a wealthy German manufacturing dynasty rival to Birling",
+          "It links her ironically to a rival Anglo-German industrial dynasty whose Brumley mill competed directly with Birling and Company",
         ],
         answerIndex: 2,
         explanation:
@@ -347,9 +347,9 @@ export const mcqPapers: Paper[] = [
         question:
           "At the start of Act 2, Sheila warns her mother: *'You mustn't try to build up a kind of wall between us and that girl.'* What does the metaphor *'wall'* represent?",
         options: [
-          "The brick perimeter around Birling and Company's Brumley factory",
-          "Gerald's refusal to speak while Sheila is still in the dining room",
-          "Eric's habit of locking his bedroom door when drinking heavily",
+          "The high brick perimeter surrounding Birling and Company's Brumley factory to deter union pickets",
+          "Gerald Croft's polite silence while Sheila remains seated inside the Birling dining room",
+          "Eric Birling's secretive habit of bolting his bedroom door whenever he drinks heavily at night",
           "Upper-middle-class snobbery and moral detachment used by Sybil to deny shared humanity with working-class women",
         ],
         answerIndex: 3,
@@ -391,10 +391,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Who is **Alderman Joe Meggarty**, mentioned during Gerald's Act 2 confession, and what is his dramatic function?",
         options: [
-          "A virtuous socialist councillor who tried to find Eva legal employment",
+          "A principled socialist town councillor who unsuccessfully petitioned Arthur Birling to reinstate Eva Smith after the 1910 strike",
           "A 'half-drunk and goggle-eyed' civic dignitary and notorious womaniser who exposes the moral hypocrisy behind Brumley's respectable elite",
-          "The chief surgeon at the Brumley Infirmary who tried to save Eva's life",
-          "The union shop steward who organised the strike at Birling and Company",
+          "The senior casualty surgeon at the Brumley Infirmary who treated Eva Smith and reported her death to Colonel Roberts",
+          "The outspoken trade-union shop steward who led the female factory hands out on strike at Birling and Company",
         ],
         answerIndex: 1,
         explanation:
@@ -413,10 +413,10 @@ export const mcqPapers: Paper[] = [
         question:
           "How does Sheila respond at the end of Gerald's confession in Act 2 when their engagement is addressed?",
         options: [
-          "She throws the engagement ring into the fireplace and vows never to speak to him again",
-          "She insists on marrying him the very next week to avoid Brumley gossip",
+          "She hurls the engagement ring dramatically into the dining-room grate and swears never to speak to Gerald Croft again in public",
+          "She urges Gerald to bring their wedding forward to the following week so Brumley society will dismiss rumours about Daisy Renton",
           "She hands back his engagement ring, saying they 'aren't the same people who sat down to dinner here', though she respects his partial honesty more than before",
-          "She asks Arthur Birling to decide on her behalf whether the wedding should proceed",
+          "She defers submissively to Arthur Birling, asking her father to negotiate privately with Sir George Croft over whether to proceed",
         ],
         answerIndex: 2,
         explanation:
@@ -435,9 +435,9 @@ export const mcqPapers: Paper[] = [
         question:
           "Why does Gerald's 'rescue' of Daisy Renton — installing her in Charlie Brunswick's empty rooms — remain deeply problematic in Priestley's critique?",
         options: [
-          "Gerald charged Daisy double the market rent for the rooms",
-          "Gerald secretly reported Daisy to Sybil Birling's charity committee",
-          "Gerald forced Daisy to work unpaid shifts at Crofts Limited",
+          "Gerald exploited Daisy financially by charging her twice the going Brumley lodging rent while secretly pocketing Charlie Brunswick's upkeep allowance",
+          "Gerald cynically used his private liaison to gather personal gossip about Daisy before reporting her anonymously to Sybil Birling's charity committee",
+          "Gerald made his shelter conditional upon Daisy working unpaid overtime shifts at Crofts Limited to undercut Arthur Birling's rival manufacturing costs",
           "Despite genuine affection, their unequal class power meant Daisy became emotionally dependent ('the most important person in her life') while Gerald could discard her cleanly when convenient",
         ],
         answerIndex: 3,
@@ -479,10 +479,10 @@ export const mcqPapers: Paper[] = [
         question:
           "What immediately provoked Sybil Birling's admitted *'prejudice'* against pregnant Eva at the Brumley Women's Charity Organisation?",
         options: [
-          "Eva arrived late to the committee interview smelling of whisky",
+          "Eva arrived half an hour late to the charity interview smelling strongly of whisky from the Palace bar",
           "Eva introduced herself to the committee under the name 'Mrs Birling', which Sybil called 'a piece of gross impertinence'",
-          "Eva threatened to publish Gerald Croft's letters in the Brumley newspaper",
-          "Eva demanded fifty pounds in cash rather than food vouchers",
+          "Eva threatened to hand Gerald Croft's private letters to the local Brumley press unless granted relief",
+          "Eva rudely demanded fifty pounds in hard cash instead of accepting the committee's standard food vouchers",
         ],
         answerIndex: 1,
         explanation:
@@ -501,10 +501,10 @@ export const mcqPapers: Paper[] = [
         question:
           "In Act 2, Sybil dismisses Eva's refusal to take stolen money by saying: *'As if a girl of that sort would ever refuse money!'* How does Priestley make this line rebound on Sybil?",
         options: [
-          "Goole reveals Eva actually inherited a fortune from an aunt in London",
-          "Edna interrupts to admit she lent Eva five shillings from her own wages",
+          "Inspector Goole immediately reveals that Eva had inherited a modest legacy from a London relative and had no need of charity relief",
+          "Edna nervously steps forward from the sideboard to admit she secretly lent Eva five shillings from her own parlourmaid wages",
           "It exposes Sybil's moral inferiority: destitute Eva possessed stricter ethical principles against theft than Sybil's own son Eric, who stole the money",
-          "Arthur admits he also offered Eva hush money in 1910",
+          "Arthur Birling sheepishly confesses that he privately offered Eva hush money after the 1910 strike, which she gratefully pocketed",
         ],
         answerIndex: 2,
         explanation:
@@ -523,9 +523,9 @@ export const mcqPapers: Paper[] = [
         question:
           "How does Priestley build intense dramatic irony at the climax of Act 2 right before Eric walks through the front door?",
         options: [
-          "Sybil praises Eric as a teetotal role model who never goes out at night",
-          "Arthur boasts that Birling and Company's cash accounts have never been a penny short",
-          "Gerald returns early to announce he saw Eric boarding a train to London",
+          "Sybil effusively praises Eric to Inspector Goole as a disciplined, teetotal son who never visits public bars or stays out late at night",
+          "Arthur confidently boasts to Goole that Birling and Company's office cash ledgers have never once been a single shilling out of balance",
+          "Gerald rushes back from his walk to announce that he watched Eric board the late-night express train to London with Daisy Renton's diary",
           "Sheila realises Eric is the child's father and begs her mother to stop while blind Sybil self-righteously demands the 'drunken young idler' be publicly punished",
         ],
         answerIndex: 3,
@@ -546,9 +546,9 @@ export const mcqPapers: Paper[] = [
           "Why do Gerald and Arthur repeatedly urge Sheila to leave the dining room during Acts 1 and 2?",
         options: [
           "Under Edwardian patriarchal conventions, upper-middle-class women were treated as fragile ornaments to be shielded from 'unpleasant' realities — a shelter Sheila pointedly refuses",
-          "They want Sheila to telephone Colonel Roberts secretly from the drawing room",
-          "They worry Sheila will faint because of poor ventilation in the dining room",
-          "Goole legally requires female witnesses to wait outside during male testimony",
+          "They want Sheila to slip into the hallway quietly and telephone Chief Constable Colonel Roberts so he can verify Inspector Goole's badge",
+          "They are genuinely concerned that the heavy cigar smoke and warm gaslight in the Birling dining room will cause Sheila to faint onstage",
+          "Edwardian magistrates' regulations legally obliged female household witnesses to wait outside the room during male police testimony",
         ],
         answerIndex: 0,
         explanation:
@@ -567,10 +567,10 @@ export const mcqPapers: Paper[] = [
         question:
           "What symbolic meaning is encoded in Eva's second name, **Daisy Renton**?",
         options: [
-          "It honours a famous Edwardian suffragette leader from Manchester",
+          "It directly honours a prominent Edwardian Manchester suffragette campaigner whom Priestley met in 1912",
           "'Daisy' suggests a common, fragile flower easily plucked and crushed, while 'Renton' evokes being rented and discarded by wealthy men",
-          "It indicates she legally married a Brumley landlord named Mr Renton",
-          "It proves she came from a titled landed gentry family in Derbyshire",
+          "It reveals that Eva legally married a sympathetic Brumley lodging-house owner named Mr Renton in 1911",
+          "It hints that she secretly descended from an impoverished aristocratic county family in Derbyshire",
         ],
         answerIndex: 1,
         explanation:
@@ -589,10 +589,10 @@ export const mcqPapers: Paper[] = [
         question:
           "In Act 2, how does Sheila's tone toward her parents shift compared with Act 1?",
         options: [
-          "She becomes even more submissive, addressing Arthur as 'Papa' and obeying every command",
-          "She falls completely silent for the entirety of Act 2 out of grief",
+          "She becomes noticeably more deferential, addressing Arthur formally as 'Papa' and obeying Sybil's instructions to remain silent",
+          "Overwhelmed by remorse over Milwards, she withdraws into total silence for the whole of Act 2 and leaves the questioning to Gerald",
           "Her childish Act 1 'mummy/daddy' register sharpens into ironic, perceptive warnings ('Mother — stop — stop!') as she effectively acts as Goole's co-interrogator",
-          "She adopts Arthur's business jargon and defends keeping factory wages low",
+          "She gradually adopts Arthur's pragmatic business terminology and argues alongside her parents that factory wages must remain low",
         ],
         answerIndex: 2,
         explanation:
@@ -634,9 +634,9 @@ export const mcqPapers: Paper[] = [
           "Why does Priestley keep Eric **offstage** during the second half of Act 2 while Sybil is being interrogated?",
         options: [
           "Eric's absence prevents him from stopping Sybil before she publicly traps herself into condemning the unborn child's father",
-          "So the actor playing Eric can double as Inspector Goole in the same scene",
-          "Because Eric is at the Brumley police station confessing to Colonel Roberts",
-          "To suggest Eric has fled Brumley permanently and will not appear in Act 3",
+          "So the actor cast as Eric can quickly change costume backstage and double as Inspector Goole in the same act",
+          "Because Eric has walked down to the Brumley police station to confess his office theft directly to Colonel Roberts",
+          "To establish that Eric has permanently abandoned the Birling household and will not reappear onstage during Act 3",
         ],
         answerIndex: 0,
         explanation:
@@ -655,10 +655,10 @@ export const mcqPapers: Paper[] = [
         question:
           "How does Priestley subvert the conventions of the classic Golden Age **country-house whodunnit** across Acts 1 and 2?",
         options: [
-          "By revealing that the detective himself committed the physical murder",
+          "By deploying an Agatha Christie twist at the end of Act 2 revealing that Inspector Goole himself administered the disinfectant to Eva Smith",
           "Instead of narrowing suspicion down to exonerate innocent bystanders and catch one lone killer, Goole expands moral guilt outward until every person in the room shares collective responsibility",
-          "By having the victim walk in alive halfway through Act 2",
-          "By setting every scene in a different Brumley street location",
+          "By allowing Eva Smith to enter the Birling dining room alive halfway through Act 2 to confront each member of the family directly onstage",
+          "By abandoning the drawing-room unity of place and shifting every interrogation scene into a different Brumley factory, shop, or public bar",
         ],
         answerIndex: 1,
         explanation:
@@ -683,10 +683,10 @@ export const mcqPapers: Paper[] = [
         question:
           "In Act 3, how much money did Eric steal from Arthur Birling's office accounts to support pregnant Eva — and what was Arthur's primary reaction on hearing it?",
         options: [
-          "Five pounds; Arthur weeps over Eva's poverty",
-          "Five hundred pounds; Arthur immediately calls a constable",
+          "About five pounds; Arthur weeps openly over Eva Smith's desperate poverty and offers to pay her debts",
+          "About five hundred pounds; Arthur immediately telephones a constable to have Eric formally arrested",
           "About fifty pounds; Arthur explodes about covering up the missing cash rather than mourning his dead grandchild",
-          "Twenty-five shillings; Arthur praises Eric's generosity",
+          "Twenty-five shillings; Arthur commends Eric's generous chivalry and promises to double his allowance",
         ],
         answerIndex: 2,
         explanation:
@@ -705,9 +705,9 @@ export const mcqPapers: Paper[] = [
         question:
           "Read Eric's bitter accusation to his mother in Act 3: *'you killed her — and the child she'd have had too — my own child — your own grandchild.'* How does Priestley use punctuation and repetition here?",
         options: [
-          "Smooth hypotactic clauses show Eric calmly forgiving his mother",
-          "Parenthetical brackets indicate Eric is speaking an aside unheard by Sybil",
-          "Playful rhyme lightens the mood before Inspector Goole's departure",
+          "Measured hypotactic clauses and calm repetition demonstrate that Eric has regained self-control and is forgiving his mother's error",
+          "Parenthetical pauses signal that Eric is delivering a quiet dramatic aside directly to the audience that Sybil cannot hear onstage",
+          "Light internal rhyme and balanced phrasing deliberately soften the accusation to lower domestic tension before Inspector Goole exits",
           "Fractured em-dashes and the escalating possessive shift from 'my own child' to 'your own grandchild' hammer home the familial bond Sybil's class cruelty destroyed",
         ],
         answerIndex: 3,
@@ -749,10 +749,10 @@ export const mcqPapers: Paper[] = [
         question:
           "In Goole's final warning — *'if men will not learn that lesson, then they will be taught it in fire and blood and anguish'* — which rhetorical technique amplifies the final phrase?",
         options: [
-          "Comic bathos",
+          "Comic bathos undercutting tragic tension through cliché",
           "Polysyndetic tricolon with apocalyptic/biblical imagery",
-          "Colloquial understatement (litotes)",
-          "Sibilant lullaby rhythm",
+          "Colloquial understatement (litotes) softening the threat",
+          "Sibilant lullaby cadence soothing the family's anxiety",
         ],
         answerIndex: 1,
         explanation:
@@ -771,10 +771,10 @@ export const mcqPapers: Paper[] = [
         question:
           "What pun is embedded in **Inspector Goole's** surname?",
         options: [
-          "It echoes 'gold', showing his secret wealth",
-          "It echoes 'gull', suggesting he is easily tricked by Gerald",
+          "It echoes the noun 'gold', hinting ironically at his secret aristocratic wealth and commercial greed",
+          "It echoes the verb 'gull', foreshadowing that Gerald Croft will easily outwit him in Act 3",
           "It is a homophone of 'ghoul', suggesting an uncanny spirit from beyond the grave haunting the Birlings' conscience",
-          "It echoes 'goal', referring to Brumley's football club",
+          "It echoes the sporting noun 'goal', referencing Arthur Birling's ambition to sponsor Brumley's football team",
         ],
         answerIndex: 2,
         explanation:
@@ -816,9 +816,9 @@ export const mcqPapers: Paper[] = [
           "Why is the **false-hoax interlude** in Act 3 (between Goole's exit and the final phone call) structurally essential to Priestley's play?",
         options: [
           "By temporarily removing fear of legal arrest and public scandal, it exposes who possesses genuine internal conscience (Sheila and Eric) versus who cared only about reputation (Arthur, Sybil, and Gerald)",
-          "It pads out the running time so Act 3 matches the length of Act 1",
-          "It proves Inspector Goole was actually a socialist journalist playing a harmless joke",
-          "It gives Birling time to write a cheque donating money to the Brumley Charity",
+          "It deliberately extends the Act 3 running time to balance the length of Act 1 while giving actors a calm comic pause before the final curtain falls",
+          "It confirms that Inspector Goole was really an activist socialist journalist from Bradford staging an elaborate newspaper hoax to embarrass Birling",
+          "It creates dramatic space for Arthur Birling to prove his sincerity by drafting a generous cheque for the Brumley Women's Charity before the phone rings",
         ],
         answerIndex: 0,
         explanation:
@@ -837,10 +837,10 @@ export const mcqPapers: Paper[] = [
         question:
           "During the Act 3 hoax celebration, Sheila cries: *'Fire and blood and anguish. And it frightens me the way you talk.'* What does Priestley show by having Sheila quote Inspector Goole verbatim?",
         options: [
-          "Sheila has memorised a script because she helped Goole plan the prank",
+          "Sheila memorised a rehearsed theatrical script earlier in the evening because she secretly conspired with Goole to stage the hoax",
           "Goole's prophetic register has been permanently internalised by the younger generation, turning Sheila into his onstage moral successor after his exit",
-          "Sheila is mocking Goole's melodramatic phrasing to amuse Gerald",
-          "Sheila has forgotten which family member originally spoke those words",
+          "Sheila is sarcastically mocking Goole's melodramatic rhetorical clichés to entertain Gerald and restore the celebratory dinner mood",
+          "Sheila has grown so distraught over losing her engagement ring that she misattributes Arthur Birling's Act 1 speech to Inspector Goole",
         ],
         answerIndex: 1,
         explanation:
@@ -881,9 +881,9 @@ export const mcqPapers: Paper[] = [
         question:
           "What exact news does Arthur Birling relay to his family from the final telephone call at the end of Act 3?",
         options: [
-          "King George V has awarded Birling his long-awaited knighthood",
-          "Workers at Birling and Company have walked out on a new strike",
-          "Inspector Goole has been arrested by Colonel Roberts for impersonating an officer",
+          "King George V's secretary has telephoned from London to confirm Birling's inclusion on the next Honours List for a knighthood",
+          "Night-shift workers at Birling and Company have walked out on a fresh Brumley factory strike demanding twenty-five shillings",
+          "Chief Constable Colonel Roberts has arrested Inspector Goole outside the Palace Theatre for impersonating a Brumley officer",
           "A girl has just died on her way to the Infirmary after swallowing disinfectant, and a police inspector is on his way to ask questions",
         ],
         answerIndex: 3,
@@ -925,10 +925,10 @@ export const mcqPapers: Paper[] = [
         question:
           "When Gerald offers Sheila the engagement ring a second time near the end of Act 3 (*'Everything's all right now, Sheila. What about this ring?'*), why is his line so revealing?",
         options: [
-          "It proves Gerald secretly bought a more expensive diamond while walking outside",
+          "It reveals Gerald quietly replaced the original ring with a more expensive Crofts family heirloom while walking outside in Act 2",
           "Assuming 'Everything's all right now' solely because there will be no police scandal proves Gerald learned nothing morally from Daisy's suffering",
-          "It shows Gerald wants to sell the ring and donate the proceeds to Eva's family",
-          "It demonstrates that Gerald never had an affair with Daisy Renton at all",
+          "It shows Gerald intends to sell the diamond ring in Brumley and donate the full proceeds to Eva Smith's surviving relatives",
+          "It demonstrates that Gerald has proved conclusively to Sheila that he never kept Daisy Renton in Charlie Brunswick's rooms",
         ],
         answerIndex: 1,
         explanation:
@@ -947,10 +947,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Read Eric's rebuke to his father in Act 3: *'You're not the kind of father a chap could go to when he's in trouble — that's why.'* What myth about Edwardian bourgeois life does Priestley puncture here?",
         options: [
-          "That factory owners understood modern accounting systems",
-          "That Brumley had reliable public transport late at night",
+          "The myth that Edwardian industrialists mastered modern double-entry bookkeeping, proving Birling rarely checked his office accounts",
+          "The myth that provincial northern towns like Brumley operated reliable late-night trams connecting the Palace bar to residential suburbs",
           "The myth of respectable Edwardian 'family values', revealing that Birling's patriarchal authority bred fear and alienation rather than paternal care",
-          "That Eric was secretly adopted by Arthur and Sybil",
+          "The myth of aristocratic bloodlines, hinting that Eric was secretly adopted by Arthur and Sybil Birling from a Brumley orphanage",
         ],
         answerIndex: 2,
         explanation:
@@ -992,9 +992,9 @@ export const mcqPapers: Paper[] = [
           "Why does Priestley include the quiet parlourmaid **Edna** (*'Please, sir, an inspector's called'*) onstage at the edges of the Birling dining room?",
         options: [
           "As a silent working-class presence serving port and opening the door for Goole, Edna visually reminds the audience of the invisible labour sustaining Birling luxury inside their own home",
-          "Because Edna turns out in Act 3 to be Daisy Renton's twin sister",
-          "To provide slapstick comic relief between tense interrogations",
-          "Because Colonel Roberts planted Edna in the house as an undercover police spy",
+          "Because Priestley plants Edna early in Act 1 to set up a melodramatic Act 3 twist revealing she is actually Daisy Renton's estranged twin sister",
+          "To supply light Edwardian drawing-room slapstick and witty below-stairs banter that eases the dramatic tension between Goole's interrogations",
+          "Because Chief Constable Colonel Roberts stationed Edna inside the Birling household as an undercover informant monitoring Arthur's business deals",
         ],
         answerIndex: 0,
         explanation:

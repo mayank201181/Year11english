@@ -63,9 +63,9 @@ export const practice: TopicPractice = {
         "Why does restricting your narrative's present-day action to roughly **10–15 minutes of clock time** dramatically improve your Paper 1B mark?",
       options: [
         "It prevents rushed 'and then…' plot summary, giving you space to craft sensory micro-detail, interiority, and a transformed recurring motif.",
-        "Examiners stop reading after fifteen sentences.",
-        "OxfordAQA bans using past perfect flashbacks in narratives.",
-        "Short timelines require zero punctuation.",
+        "OxfordAQA Paper 1B examiners stop awarding AO5 credit once a narrative exceeds fifteen sentences, penalising any story that spans longer.",
+        "Restricting clock time is mandatory because OxfordAQA forbids past-perfect flashbacks or reflective memory shifts inside Section B fiction.",
+        "Compressing the action into a brief real-time window eliminates the need for complex sentence punctuation, dialogue layout, or paragraph shifts.",
       ],
       answerIndex: 0,
       hints: [
@@ -162,10 +162,10 @@ export const practice: TopicPractice = {
       question:
         "Why should you NEVER write *\"According to a survey done yesterday at Oxford University, 97.3% of teenagers hate books\"* in a discursive exam?",
       options: [
-        "OxfordAQA prefers statistics rounded to four decimal places.",
+        "OxfordAQA's discursive mark scheme accepts numerical survey claims only when candidates quote percentages rounded to at least four decimal places.",
         "Examiners immediately recognise implausible fabricated statistics as juvenile filler; concrete real-world mechanisms and logical reasoning are far more persuasive.",
-        "Universities are never mentioned in broadsheet journalism.",
-        "Percentages must always be written in Roman numerals.",
+        "Citing real or fictional universities inside an argumentative composition breaches broadsheet style rules and shifts the piece into academic coursework.",
+        "Formal British English conventions require every statistical figure and percentage in Paper 1B essays to be written out in Roman numerals or full words.",
       ],
       answerIndex: 1,
       hints: [
@@ -231,10 +231,10 @@ export const practice: TopicPractice = {
       question:
         "In the **PACE** proofreading checklist, what does **A** stand for?",
       options: [
-        "Alliteration in every sentence",
+        "Alliteration & Assonance audit (inserting repeated sound patterns into every paragraph)",
         "Agreement & Tense consistency (eliminating accidental shifts between past and present)",
-        "Adding extra exclamation marks",
-        "Avoiding all paragraphs",
+        "Amplified Exclamation check (adding emphatic punctuation to heighten dramatic endings)",
+        "Abridged Paragraph trimming (merging shorter narrative breaks into one continuous block)",
       ],
       answerIndex: 1,
       hints: [
@@ -1211,10 +1211,10 @@ export const practice: TopicPractice = {
       question:
         "Examine the subtle grammatical difference between these two sentences:\n1. *\"Had the lighthouse lamp failed ten minutes earlier, the trawler would have struck the reef.\"*\n2. *\"If the lighthouse lamp had failed ten minutes earlier, the trawler would have struck the reef.\"*\n\nWhat high-register syntactic upgrade is used in Sentence 1?",
         options: [
-          "Passive voice deletion",
+          "Agentless passive deletion — removing the human subject completely so the vessel appears to act by chance",
           "Conditional subject-auxiliary inversion — dropping 'if' and fronting auxiliary 'Had' for elevated formal/literary poise",
-          "Present-participle dangling modification",
-          "Colloquial ellipsis",
+          "Dangling participial modification — opening with an unattached `-ing` phrase that delays the main clause",
+          "Colloquial spoken ellipsis — omitting standard grammatical articles to mimic urgent maritime dialogue",
         ],
       answerIndex: 1,
       hints: [
@@ -1260,10 +1260,10 @@ export const practice: TopicPractice = {
       question:
         "In classical and modern discursive rhetoric, why is **nominalisation** (turning active verbs/clauses into abstract noun phrases, e.g. *'The rapid privatisation of municipal water infrastructure precipitated…'* ) useful in moderation — yet fatal when overused?",
       options: [
-        "Nominalisation is illegal in OxfordAQA exams.",
-        "Nominalisation makes writing sound like nursery rhymes.",
+        "Turning active verbs into abstract noun phrases is prohibited under OxfordAQA's AO6 guidelines because nominalised subjects automatically read as grammatical fragments.",
+        "Nominalising verbs strips away intellectual register and simplifies vocabulary into sing-song, rhythmic phrasing suited only to informal personal anecdotes and verse.",
         "Used selectively at topic-sentence openings, nominalisation compresses prior arguments into crisp conceptual subjects; overused in every clause, it turns prose into turgid, lifeless bureaucratic sludge lacking human verbs.",
-        "Nominalisation automatically fixes all spelling mistakes.",
+        "Nominalisation automatically eliminates tense drift and subject-verb agreement mistakes across an essay, though using it sparingly weakens the writer's authoritative tone.",
       ],
       answerIndex: 2,
       hints: [

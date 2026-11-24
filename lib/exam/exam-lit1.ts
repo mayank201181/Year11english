@@ -56,9 +56,9 @@ export const paper: ExamPaper = {
       "question": "Read these lines from Robert Browning's ***My Last Duchess***:\n\n*\"This grew; I gave commands; / Then all smiles stopped together. There she stands / As if alive.\"*\n\nHow do **caesura** and **rhyming couplets** work together in these lines?",
       "options": [
         "Abrupt mid-line semi-colons enact cold, euphemistic finality, while tight heroic couplets mirror the Duke's obsessive desire for total control.",
-        "They prove the Duchess chose freely to retire to a peaceful convent.",
-        "They show the Duke weeping uncontrollably with remorse over his wife's accidental illness.",
-        "They create a carefree nursery-rhyme rhythm celebrating egalitarian marriage."
+        "Measured pauses and rhymed couplets confirm the Duchess retired freely to a peaceful convent after negotiating politely with Ferrara's envoy.",
+        "Broken pauses and hesitant rhymes reveal the Duke breaking down in genuine remorse after his young wife's sudden accidental illness.",
+        "Bouncy end-rhymes and brief clauses create a light-hearted ballad rhythm celebrating egalitarian Renaissance marriage between equals."
       ],
       "answerIndex": 0,
       "explanation": "The clipped three-part caesurae ('This grew; I gave commands; / Then all smiles stopped together') chill the reader with unspoken murder, while unbroken iambic pentameter rhyming couplets (plus enjambment) embody the Duke's suffocating possessiveness.",
@@ -99,9 +99,9 @@ export const paper: ExamPaper = {
       "difficulty": "core",
       "question": "Read these lines from Carol Ann Duffy's ***War Photographer***:\n\n*\"In his dark room he is finally alone / with spools of suffering set out in ordered rows.\"*\n\nWhy is the sibilant phrase **\"spools of suffering set out in ordered rows\"** structurally and thematically central to the poem?",
       "options": [
-        "It proves the photographer views war purely as a profitable commercial hobby.",
-        "It shows that developing film completely erases all traumatic memories.",
-        "It describes soldiers marching in formation across a rural English churchyard.",
+        "It implies the photographer treats foreign conflicts purely as a lucrative commercial assignment devoid of personal emotional cost.",
+        "It shows that developing photographic film in solitude allows him to erase traumatic battlefield memories cleanly once prints dry.",
+        "It literally depicts uniformed soldiers marching in ceremonial parade formation across a peaceful rural English churchyard.",
         "It juxtaposes chaotic human agony ('suffering') with neat physical containment ('ordered rows'), mirroring his attempt to impose artistic order on trauma."
       ],
       "answerIndex": 3,
@@ -143,10 +143,10 @@ export const paper: ExamPaper = {
       "difficulty": "core",
       "question": "Compare D.H. Lawrence's ***Piano*** and Alice Walker's ***Poem at Thirty-Nine***. How do the two adult speakers differ in their emotional response to childhood memories of a parent?",
       "options": [
-        "Lawrence's speaker feels triumphant pride in adulthood, whereas Walker's speaker collapses in despair at the piano.",
-        "Both speakers resent their parents bitterly and wish to erase every childhood memory.",
+        "Lawrence's speaker celebrates his mature emotional detachment with pride, whereas Walker's speaker collapses into inconsolable weeping over her father's music.",
+        "Both adult speakers resent their parents' strict domestic discipline bitterly and resolve to banish every nostalgic childhood memory from their adult identities.",
         "Lawrence's speaker resists yet is overwhelmed into weeping for a lost childhood past, whereas Walker's speaker moves from grieving her father's absence to celebrating how his qualities live on inside her.",
-        "Neither poem uses first-person memory or sensory imagery of home."
+        "Neither poem employs first-person nostalgic reminiscence or domestic sensory imagery, focusing instead on detached third-person observations of public events."
       ],
       "answerIndex": 2,
       "explanation": "In *Piano*, memory pulls the speaker involuntarily backward ('my manhood is cast / Down in the flood of remembrance, I weep like a child for the past'); in *Poem at Thirty-Nine*, initial grief ('How I miss my father.') resolves into warm self-acceptance ('He would have grown / to admire / the woman I've become').",
@@ -245,9 +245,9 @@ export const paper: ExamPaper = {
       "question": "In John Keats's ballad ***La Belle Dame sans Merci***, why is the final line of each quatrain noticeably **truncated** to iambic dimeter/trimeter (*e.g. \"And no birds sing.\"*) compared with the longer preceding lines?",
       "options": [
         "The clipped fourth line creates a hollow, dying fall that mirrors the knight's drained vitality and eerie entrapment.",
-        "Keats ran out of ink on the final line of every stanza.",
-        "It creates a joyful marching beat celebrating the knight's military victory.",
-        "It imitates modern newspaper headlines from 20th-century London."
+        "The shortened fourth line reflects Romantic haste, showing Keats deliberately trimmed stanzas to fit narrow magazine columns.",
+        "The punchy final beat generates an upbeat military march celebrating the knight's chivalric victory over enchantment.",
+        "The terse concluding line imitates clipped twentieth-century journalism to distance modern readers from medieval folklore."
       ],
       "answerIndex": 0,
       "explanation": "Shortening the fourth line of each ballad stanza slows and hollows out the cadence ('And no birds sing'), enacting physical and spiritual depletion.",
@@ -407,10 +407,10 @@ export const paper: ExamPaper = {
       "difficulty": "core",
       "question": "Why does Steinbeck withhold any personal first name from **Curley's wife** throughout *Of Mice and Men*, and how does his description of her in death in Section 5 shift the reader's perspective?",
       "options": [
-        "Steinbeck forgot to invent a name for her, and Section 5 proves Candy was right to call her a wicked temptress.",
-        "She hides her real name because she is an undercover federal government inspector.",
+        "Steinbeck omits her first name to distance readers from an unsympathetic villain, and Section 5's barn scene confirms Candy's verdict that she was a wicked temptress.",
+        "She conceals her given name throughout the novella because she is travelling incognito on the ranch while investigating labour abuses for California state inspectors.",
         "Defining her solely through Curley's possessive noun exposes her patriarchal objectification on the ranch, while in death the 'ache for attention' vanishes to reveal a 'pretty and simple' young woman robbed of agency.",
-        "Section 5 describes her smiling triumphantly because she achieved her Hollywood acting contract."
+        "Her namelessness reflects her ambition for stage fame, and Section 5 depicts her smiling serenely in death because she finally secured a signed Hollywood film contract."
       ],
       "answerIndex": 2,
       "explanation": "The genitive label *'Curley's wife'* reduces her to male property; in Section 5, once performative rouge and restlessness Lift, Steinbeck's compassionate narrator ('the meanness and the plannings and the discontent and the ache for attention were all gone from her face') indicts the misogynistic ranch culture that scapegoated her.",
@@ -450,10 +450,10 @@ export const paper: ExamPaper = {
       "difficulty": "core",
       "question": "In Section 3 of *Of Mice and Men*, why is the shooting of **Candy's old sheepdog** with Carlson's Luger pistol structurally crucial to the novella?",
       "options": [
-        "It provides comic relief before Curley's fist-fight.",
+        "It introduces light-hearted bunkhouse comic relief after the tense card game, easing the mood right before Curley's sudden fistfight with Lennie breaks out.",
         "It parallels utilitarian ranch disposal of the weak ('he ain't no good to himself'), instils Candy's guilt ('I ought to of shot that dog myself'), and supplies the exact weapon George uses out of mercy in Section 6.",
-        "It convinces the Boss to promote Carlson to ranch foreman.",
-        "It proves Slim hates animals and encourages cruelty in the bunkhouse."
+        "It impresses the Boss with Carlson's ruthless efficiency and persuades him to promote Carlson to ranch foreman over Slim by the beginning of Section 4.",
+        "It exposes Slim's hidden cruelty toward ageing ranch animals, encouraging the other barley buckers to abandon loyalty and mistreat Candy in the bunkhouse."
       ],
       "answerIndex": 1,
       "explanation": "Candy's regret at letting a stranger shoot his companion ('I ought to of shot that dog myself, George') directly motivates George's agonising decision in Section 6 to shoot Lennie gently at the back of the head with Carlson's Luger before Curley's mob arrives.",
@@ -496,9 +496,9 @@ export const paper: ExamPaper = {
       "question": "In Section 4, Crooks initially torments Lennie (*\"S'pose George don't come back no more\"*), briefly dares to offer to hoe a patch on the dream farm for nothing, and then abruptly retracts his offer (*\"I didn' mean it. Jus' foolin'\"*) after Curley's wife threatens him with lynching. What tragic truth is Steinbeck exposing?",
       "options": [
         "Internalised racial trauma and the lethal reality of 1930s Jim Crow violence ('strung up on a tree') force marginalised people both to project their pain downward and to armour themselves in cynicism against hope.",
-        "Crooks prefers living in the manure pile beside the stable buck's bunk rather than owning land.",
-        "Crooks secretly owns a wealthy ranch in southern California and was testing Candy's honesty.",
-        "Lennie insulted Crooks and refused to allow him onto the dream farm."
+        "Crooks genuinely prefers the quiet independence of living beside the manure pile in the harness room over sharing cramped quarters on an unfamiliar ten-acre farm.",
+        "Crooks already owns a prosperous family chicken ranch in southern California and only pretends interest in George's plan to test Candy's financial honesty.",
+        "Lennie angrily insults Crooks after the teasing and persuades Candy to expel Crooks from the farm partnership before Curley's wife even reaches the doorway."
       ],
       "answerIndex": 0,
       "explanation": "Section 4 is a microcosm of hierarchy: Crooks inflicts loneliness on Lennie to make someone else feel his isolation, softens briefly when Candy's cash makes the dream tangible, and snaps shut in self-protection the instant Curley's wife invokes racialized lynching.",
@@ -537,9 +537,9 @@ export const paper: ExamPaper = {
       "difficulty": "core",
       "question": "Read these lines from William Shakespeare's ***Sonnet 116***:\n\n*\"O no! it is an ever-fixed mark / That looks on tempests and is never shaken; / It is the star to every wand'ring bark\"*\n\nWhich extended semantic field does Shakespeare deploy here to define true love's constancy?",
       "options": [
-        "Botanical decay and autumn harvest.",
-        "Medieval feudal warfare and siege weaponry.",
-        "Commercial banking, debt, and courtroom litigation.",
+        "Botanical decay and seasonal harvest (withered woodland bark facing autumnal frost).",
+        "Medieval feudal warfare and siege weaponry (fortified battlements enduring assault).",
+        "Commercial banking, legal debt, and courtroom litigation (fixed contracts and fines).",
         "Celestial and maritime navigation (a sea-beacon / lighthouse and the Pole Star guiding storm-tossed ships)."
       ],
       "answerIndex": 3,

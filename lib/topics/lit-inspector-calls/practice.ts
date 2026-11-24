@@ -1201,9 +1201,9 @@ export const practice: TopicPractice = {
         "Compare Arthur Birling's Act 1 statement (*'It's my duty to keep labour costs down'*) with Inspector Goole's Act 2 refusal of hospitality (*'No, thank you... I'm on duty'*). How does Priestley use lexical repetition across speakers here?",
       options: [
         "Repeating the contested noun 'duty' exposes the chasm between capitalist duty to private shareholder profit and socialist moral duty to collective human welfare",
-        "It shows both men share an admirable Edwardian Protestant work ethic",
-        "It proves Inspector Goole previously worked as a manager at Birling and Company",
-        "It suggests Goole is subtly asking Birling for a higher-paying job",
+        "Repeating the noun 'duty' demonstrates that both Birling and Goole share an admirable Edwardian Protestant work ethic of civic discipline",
+        "Repeating the phrase hints subtly that Inspector Goole previously worked as an accounts manager at Birling and Company before joining the force",
+        "Repeating Birling's workplace vocabulary implies that Goole is angling for a lucrative private security appointment once his visit concludes",
       ],
       answerIndex: 0,
       explanation:
@@ -1248,10 +1248,10 @@ export const practice: TopicPractice = {
       question:
         "How does Priestley's engagement with **J.W. Dunne's and P.D. Ouspensky's time theories** illuminate the ending of *An Inspector Calls*?",
       options: [
-        "It proves the play is science fiction set aboard a time machine in the year 2045",
+        "Dunne's serial-time model casts the play as literal science fiction, implying Inspector Goole travelled back in a physical machine from 1945 to warn Brumley",
         "Ouspensky argued unrepentant individuals are doomed to relive their life-cycles until they choose differently — enacted when the Birlings fail Goole's premonitory rehearsal and trigger the real suicide and inspector",
-        "It implies Eva Smith never died in either timeline",
-        "It shows Arthur Birling was right that historical progress happens automatically without effort",
+        "Ouspensky's cyclical model implies that Eva Smith never actually died in any timeline and that the closing phone call merely repeats Gerald's hoax theory",
+        "Dunne's philosophy validates Arthur Birling's Act 1 optimism, proving that linear historical progress inevitably prevents future wars without moral reform",
       ],
       answerIndex: 1,
       explanation:

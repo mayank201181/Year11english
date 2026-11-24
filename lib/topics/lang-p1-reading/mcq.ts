@@ -121,10 +121,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this extract from an Arctic diary:\n\n*\"Outside the canvas tent, the blizzard sharpened its knives against the guy-ropes and tested every seam for weakness.\"*\n\nWhich analytical comment achieves **Grade-9 precision** rather than Band-2 waffle?",
         options: [
-          "The writer uses personification to paint a vivid picture in the reader's mind and make the reader want to read on.",
+          "The writer deploys vivid personification across the whole sentence in order to paint a vivid picture in the reader's mind and make the reader want to read on eagerly.",
           "Personifying the blizzard as a calculating assailant that 'sharpened its knives' and 'tested every seam' transforms blind weather into premeditated malice, exposing the explorers' acute vulnerability behind thin 'canvas'.",
-          "The word 'knives' is a noun that shows the wind is very sharp and cold, which hooks the reader effectively.",
-          "The sibilance in 'sharpened' and 'seam' creates a soothing, peaceful bedtime sound across the campsite.",
+          "The concrete noun 'knives' is a strong word that tells the reader the Arctic wind feels very sharp and intensely cold, which hooks the reader effectively into the diary.",
+          "The gentle sibilance across 'sharpened', 'its', and 'seam' establishes a soft, soothing bedtime whisper that reassures the explorers inside their warm sheltered campsite.",
         ],
         answerIndex: 1,
         hints: [
@@ -142,10 +142,10 @@ export const mcqPapers: Paper[] = [
         question:
           "What is the precise distinction between **pathetic fallacy** and **personification** in close-reading analysis?",
         options: [
-          "Pathetic fallacy uses 'like' or 'as', whereas personification states that one thing literally is another.",
-          "Pathetic fallacy applies only to animals, whereas personification applies only to buildings.",
+          "Pathetic fallacy compares two things explicitly using 'like' or 'as', whereas personification asserts directly that one non-human object literally is another.",
+          "Pathetic fallacy is restricted exclusively to attributing speech to wild animals, whereas personification is restricted exclusively to inanimate buildings and machinery.",
           "Pathetic fallacy specifically attributes human emotion or mood to weather and nature to mirror atmosphere, whereas personification gives human actions or agency to any non-human thing.",
-          "Pathetic fallacy means an argument based on weak logic, whereas personification means first-person narration.",
+          "Pathetic fallacy refers to a flawed persuasive argument based on weak logic, whereas personification refers to writing an autobiography in the first-person voice.",
         ],
         answerIndex: 2,
         hints: [
@@ -205,10 +205,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this nature-writing extract:\n\n*\"Dawn did not break over the fen; it seeped upward through black peat-water, staining the reeds the colour of old pewter.\"*\n\nWhy is the writer's rejection of the cliché *'Dawn did not break'* in favour of the verb **'seeped'** analytically significant?",
         options: [
-          "It demonstrates that sunrise occurred several hours earlier than predicted by meteorologists.",
+          "It signals a factual meteorological anomaly, showing that sunrise arrived hours earlier than expected above the low-lying fenland horizon.",
           "Negating triumphant 'breaking' and substituting 'seeped' strips morning of warmth or sudden relief, making light feel sluggish, damp, and contaminated by the marsh.",
-          "It uses hyperbole to celebrate a dazzling, multicoloured sunrise across the countryside.",
-          "It proves the narrator was underground inside a cave unable to see the reeds.",
+          "It deploys energetic hyperbole to celebrate a dazzling, prismatic sunrise sweeping dramatically across the open countryside in golden brilliance.",
+          "It indicates literally that the narrator was trapped underground inside a flooded limestone cavern and could not observe the marsh reeds directly.",
         ],
         answerIndex: 1,
         hints: [
@@ -226,10 +226,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this sentence from a mountaineering memoir:\n\n*\"With the rope frozen stiff as iron cable, my crampons skittering on blue verglas, and dusk swallowing the crampon-scars below, I let go of the axe.\"*\n\nGrammatically, why is this classified as a **periodic sentence**, and what is its effect?",
         options: [
-          "It repeats the same word at the start of three successive sentences to sound persuasive.",
-          "It omits all verbs completely so the sentence becomes a minor fragment.",
+          "It repeats the exact same opening phrase at the start of three successive sentences, creating a persuasive rhetorical rhythm that calms the reader.",
+          "It intentionally omits any finite main verb across the whole structure, turning the sentence into a breathless minor fragment without grammatical resolution.",
           "It stacks subordinate/participial phrases of escalating peril before withholding the main clause ('I let go of the axe') until the final words, building acute suspense.",
-          "It places the main clause first and adds relaxed, nostalgic afterthoughts.",
+          "It delivers the decisive main action in the opening three words and trails off into relaxed, nostalgic descriptive clauses that soften the mountaineering peril.",
         ],
         answerIndex: 2,
         hints: [
@@ -247,9 +247,9 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this extract from a wildfire evacuation account:\n\n*\"Ash coated the windscreen, clogged the air-vents, stung our eyelids, greyed our tongues.\"*\n\nWhich syntactic technique is used here, and how does it reinforce the scene?",
         options: [
-          "Syndetic listing (polysyndeton) slows the sentence into a dreamy, nostalgic lullaby.",
-          "Hypophora answers a rhetorical question to reassure the reader that safety is near.",
-          "Parenthetical dashes interrupt the narrator with a humorous childhood memory.",
+          "Syndetic listing (polysyndeton) inserts repeated 'and' conjunctions to slow the clause into a dreamy, measured rhythm of quiet awe.",
+          "Hypophora poses and immediately answers a rhetorical question, reassuring the evacuees that emergency relief is close at hand.",
+          "Paired parenthetical dashes break off the main clause mid-sentence to slip in a wry, self-deprecating aside about the journey.",
           "Asyndetic listing (asyndeton) strips out conjunctions so invasive verbs pile up in rapid, relentless succession, mirroring sensory siege.",
         ],
         answerIndex: 3,
@@ -269,9 +269,9 @@ export const mcqPapers: Paper[] = [
           "In Section 1 of a travelogue, the writer describes a vast Himalayan valley gleaming under crisp morning sun; in Section 2, the focus narrows onto a single discarded oxygen canister half-buried in scree. What is the primary **structural effect** of this shift?",
         options: [
           "Zooming from untouched panoramic grandeur onto human debris punctures the romantic wilderness myth and introduces an undertone of mortal risk and intrusion.",
-          "It proves the writer forgot what topic Section 1 was describing.",
-          "It uses alliteration to make the valley sound musical and carefree.",
-          "It shifts the text from first-person memoir into second-person instructional manual.",
+          "Abruptly abandoning the landscape proves the writer lost structural focus and drifted off-topic without linking Section 2 back to the setting.",
+          "Repeating consonant sounds across 'canister' and 'scree' introduces a lyrical, light-hearted musicality that reinforces the sunlit valley's carefree mood.",
+          "Narrowing onto climbing equipment converts the passage from a first-person literary travelogue into an impersonal second-person safety instruction manual.",
         ],
         answerIndex: 0,
         hints: [
@@ -383,10 +383,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this sentence from an investigative journalism piece on abandoned gold mines:\n\n*\"Investors had been promised veins of pure quartz glittering beneath every ridge: they found flooded shafts and arsenic sludge.\"*\n\nHow does the **colon (`:`)** function as a craft device here?",
         options: [
-          "It introduces a polite bulleted shopping list of mining equipment.",
+          "It introduces a formal, neutral inventory of standard industrial equipment required for nineteenth-century mining.",
           "It acts as a stark syntactic hinge, pivoting abruptly from gilded promotional fantasy to toxic, disillusioning reality.",
-          "It softens the tone to show that the investors remained optimistic.",
-          "It indicates that a second speaker has interrupted the narrator mid-word.",
+          "It softens the transition between clauses to suggest the speculators remained calmly optimistic about future yields.",
+          "It marks broken direct speech where a second speaker interrupts the journalist mid-clause to correct a factual error.",
         ],
         answerIndex: 1,
         hints: [
@@ -404,10 +404,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this memoir sentence:\n\n*\"I assured the guide — in a voice that squeaked like a wet boot — that heights had never bothered me in the slightest.\"*\n\nWhat is the effect of the **parenthetical dashes (`— … —`)**?",
         options: [
-          "They provide formal geographical data about mountain elevation.",
-          "They accelerate the sentence into breathless heroic triumph.",
+          "They pause the anecdote to supply objective geographical data about the ridge's altitude and climbing gradient.",
+          "They accelerate the sentence's pace into breathless heroic momentum, confirming the climber's fearless composure.",
           "They slice open the narrator's boast mid-sentence to insert a comic, self-exposing confession that completely undercuts his bravado.",
-          "They prove the guide could not hear what the narrator was saying.",
+          "They signal an acoustic gap proving that wind noise prevented the mountain guide from hearing the narrator's assurance.",
         ],
         answerIndex: 2,
         hints: [
@@ -425,9 +425,9 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this reflection from a coastal memoir:\n\n*\"The tourists came for the postcard sunsets; the fishermen stayed for the winter herring.\"*\n\nWhy is a **semicolon (`;`)** so effective between these two clauses?",
         options: [
-          "It marks an incomplete grammatical fragment lacking a subject.",
-          "It introduces a quotation spoken aloud by a local fisherman.",
-          "It shows chaotic panic and loss of emotional control.",
+          "It signals a deliberate grammatical fragment where the second half omits both a finite verb and a clear subject.",
+          "It introduces a direct spoken quotation from a local trawler skipper commenting on seasonal coastal visitors.",
+          "It fractures the sentence rhythm abruptly to convey rising panic and a breakdown in the narrator's emotional control.",
           "It balances two parallel independent clauses in poised antithesis, contrasting fleeting leisure against enduring livelihood.",
         ],
         answerIndex: 3,
@@ -488,10 +488,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Between two dense, descriptive twelve-line paragraphs about a noisy Cairo market, a travel writer inserts a standalone **single-sentence paragraph**:\n\n*\"Then the call to prayer rose from a single minaret, and a thousand bargains froze mid-breath.\"*\n\nWhy isolate this sentence as its own paragraph?",
         options: [
-          "Newspaper printers forbid paragraphs longer than twelve lines.",
-          "It hides an unimportant transition so readers can skip ahead.",
+          "Editorial house rules in British journalism prohibit any narrative paragraph from exceeding twelve printed lines of continuous prose.",
+          "Setting the line apart downgrades a routine transitional filler so impatient readers can skim straight to the next descriptive block.",
           "Visually and rhythmically, the isolated white space acts as a structural fulcrum — enacting the sudden collective hush separating clamour from stillness.",
-          "It proves the narrator immediately left the market and flew home.",
+          "Breaking the text signals a leap forward of several weeks, indicating that the narrator immediately abandoned the market and returned home.",
         ],
         answerIndex: 2,
         hints: [
@@ -509,9 +509,9 @@ export const mcqPapers: Paper[] = [
         question:
           "Which of the following sentences makes a genuine **structural** point rather than a disguised **lexical/language** point?",
         options: [
-          "The dynamic verb 'shattered' has violent connotations of irreversible destruction.",
-          "The adjective 'phosphorescent' creates an eerie visual glow on the water.",
-          "The simile 'cold as a chisel' emphasises how bitterly freezing the wind felt.",
+          "The forceful dynamic verb 'shattered' carries violent connotations of irreversible fracture, conveying the abrupt shock of the impact on the narrator.",
+          "The polysyllabic adjective 'phosphorescent' evokes an eerie, unnatural luminance across the dark harbour water, heightening the scene's spectral mood.",
+          "The tactile simile 'cold as a chisel' pairs sub-zero temperature with metalworking sharpness, emphasising how painfully the coastal gale cuts through clothing.",
           "Withholding the source of the metallic tapping across Sections 1 and 2 before revealing the trapped gull in Section 3 sustains disorientation, aligning the reader with the narrator's dread.",
         ],
         answerIndex: 3,
@@ -531,9 +531,9 @@ export const mcqPapers: Paper[] = [
           "Read this two-sentence pivot in a polar travelogue:\n\n*\"For six pages of my journal I composed lofty philosophical reflections on humanity's timeless communion with the sublime eternal ice. Then my Primus stove exploded and singed off my left eyebrow.\"*\n\nWhat literary/structural device drives the shift between Sentence 1 and Sentence 2?",
         options: [
           "Bathos — an abrupt drop from elevated grandeur to ridiculous physical anti-climax",
-          "Pathetic fallacy — weather mourning human tragedy",
-          "Foreshadowing of a tragic death",
-          "Formal academic synthesis",
+          "Pathetic fallacy — projecting solemn human grief onto hostile polar weather",
+          "Ominous foreshadowing — subtly predicting a fatal expedition tragedy ahead",
+          "Formal academic synthesis — merging philosophical reflection with technical data",
         ],
         answerIndex: 0,
         hints: [
@@ -551,10 +551,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this extract about an antique clockmaker's workshop:\n\n*\"Brass escapements ticked in tiny, competing heartbeats along the velvet bench while the old man bent over his jeweller's loupe like a surgeon coaxing pulse back into gold.\"*\n\nHow do the metaphor **'heartbeats'** and simile **'like a surgeon'** work together?",
         options: [
-          "They imply the workshop is unsanitary and dangerous to enter.",
+          "They evoke an unsettling clinical sterility, suggesting the cramped workshop feels hazardous and forbidding to outside visitors.",
           "They elevate mechanical repair into delicate, life-giving devotion — treating inert clockwork as living organisms under tender medical care.",
-          "They suggest the clockmaker wishes he had studied medicine instead of horology.",
-          "They show that the clocks are loud enough to cause painful headaches.",
+          "They hint at latent professional regret, implying the ageing craftsman secretly wishes he had trained in medicine rather than horology.",
+          "They amplify auditory irritation, showing that dozens of overlapping brass mechanisms tick loudly enough to trigger pounding migraines.",
         ],
         answerIndex: 1,
         hints: [
@@ -572,10 +572,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this extract from a memoir of moving to a new country:\n\n*\"Every evening my mother practised saying 'Lovely weather, isn't it?' to the bathroom mirror until the vowels lost their Warsaw corners.\"*\n\nWhat can we **infer** from *\"until the vowels lost their Warsaw corners\"*?",
         options: [
-          "She had forgotten how to speak Polish entirely within a week.",
-          "The bathroom mirror had sharp, square wooden edges imported from Poland.",
+          "She had completely forgotten her native Polish vocabulary within days of arriving in Britain and struggled to communicate.",
+          "The family bathroom contained an antique square-framed wooden mirror that her parents had shipped over from Poland.",
           "She laboured anxiously in private to smooth away her native accent so she could blend seamlessly into English small-talk.",
-          "She worked professionally as a television meteorologist.",
+          "She was rehearsing scripts professionally each night in preparation for auditioning as a regional television weather presenter.",
         ],
         answerIndex: 2,
         hints: [
@@ -593,9 +593,9 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this extract from a storm-chasing article:\n\n*\"Hail hammered the bonnet — golf-ball white, deafening, relentless — denting steel in seconds.\"*\n\nWhich **two** craft features combine inside the dashed interruption?",
         options: [
-          "Syndetic listing and euphemism",
-          "Rhetorical question and oxymoron",
-          "Simile and passive voice",
+          "Polysyndetic listing linked with understated diplomatic euphemism",
+          "Direct rhetorical interrogation paired with contradictory oxymoron",
+          "Extended figurative simile framed inside detached passive syntax",
           "Parenthetical dashes enclosing an asyndetic tricolon of modifiers",
         ],
         answerIndex: 3,
@@ -615,9 +615,9 @@ export const mcqPapers: Paper[] = [
           "Read this journalism extract on high-speed rail cutting through an ancient woodland:\n\n*\"Undoubtedly, shaving nineteen minutes off the commuter sprint to Birmingham is a triumph of modern concrete; three hundred-year-old oaks, after all, contribute painfully little to quarterly productivity spreadsheets.\"*\n\nHow does the writer convey condemnation of the rail project?",
         options: [
           "Through biting, sardonic irony — adopting the cold corporate jargon of 'quarterly productivity spreadsheets' to expose how short-sightedly ancient nature is sacrificed for trivial time savings.",
-          "Through sincere, enthusiastic praise for modern concrete engineering and faster commuting.",
-          "Through tearful, sentimental begging addressed directly to the oak trees.",
-          "Through neutral, balanced objectivity that refuses to take any side.",
+          "Through sincere, pragmatic endorsement of high-speed engineering — praising modern concrete infrastructure for delivering vital economic efficiency across commuter routes.",
+          "Through sentimental, tearful apostrophe — addressing the three-hundred-year-old oak trees directly in impassioned second person to beg forgiveness for urban expansion.",
+          "Through scrupulously neutral reportage — presenting balanced financial and ecological metrics side by side while withholding any personal judgement on the railway scheme.",
         ],
         answerIndex: 0,
         hints: [
@@ -709,9 +709,9 @@ export const mcqPapers: Paper[] = [
           "Read this extract from a volcanic eruption eyewitness account:\n\n*\"In the kitchen, fine pumice dust furred the teacups like grey velvet and muffled the ticking wall-clock to a padded thud.\"*\n\nWhy is the simile **'like grey velvet'** unsettling rather than comforting in this context?",
         options: [
           "Juxtaposing soft, luxurious domestic texture ('velvet') with toxic volcanic fallout inside a family kitchen creates an uncanny, sinister quietness as catastrophe invades intimate space.",
-          "It proves the volcano actually improved the house's interior decoration.",
-          "It shows the narrator was dreaming about shopping for expensive curtains.",
-          "It demonstrates that pumice dust is warm and safe to drink.",
+          "Describing the ash in affluent interior-design terms implies the narrator felt oddly grateful that the eruption had given the drab kitchen a fashionable new finish.",
+          "The plush fabric comparison signals a disorienting dream sequence in which the narrator hallucinates shopping for expensive upholstery rather than witnessing an eruption.",
+          "Comparing fine pumice dust to gentle textile fibres reassures the reader that volcanic fallout cools rapidly indoors and poses no respiratory danger to residents.",
         ],
         answerIndex: 0,
         hints: [
@@ -750,10 +750,10 @@ export const mcqPapers: Paper[] = [
         question:
           "In grammatical agency analysis, look at who performs the active verbs in this extract:\n\n*\"The fog swallowed the headland, erased the jetty lamps, and backed me step by hesitant step against the harbour wall.\"*\n\nHow does **grammatical agency** reinforce the narrator's helplessness?",
         options: [
-          "The narrator is the active subject of three transitive verbs, proving total mastery over the coast.",
-          "Every clause is written in future tense to predict tomorrow's weather forecast.",
+          "The narrator serves as the active grammatical subject of three forceful transitive verbs, demonstrating steady physical mastery over the coastal path despite poor visibility.",
+          "Every clause shifts into future predictive tense with modal auxiliary verbs, casting the fog as a hypothetical weather forecast rather than an immediate physical threat.",
           "Inanimate 'fog' occupies the active subject slot driving three forceful transitive verbs ('swallowed', 'erased', 'backed'), reducing the human narrator to the grammatical direct object ('me') being cornered.",
-          "There are zero verbs anywhere in the sentence.",
+          "The writer strips out all finite action verbs in favour of verbless minor fragments, freezing the coastal scene into a motionless photograph devoid of narrative progression.",
         ],
         answerIndex: 2,
         hints: [
@@ -771,9 +771,9 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this extract from an essay on examination halls:\n\n*\"Three hundred pens scratched; three hundred wrists ached; three hundred futures narrowed to black ink on lined paper.\"*\n\nWhich **two** devices work in tandem across this sentence?",
         options: [
-          "Oxymoron and colloquial slang",
-          "Euphemism and parenthetical brackets",
-          "Onomatopoeia and rhetorical question",
+          "Self-contradictory oxymoron paired with casual colloquial slang to undercut the solemnity of the exam hall",
+          "Polite institutional euphemism enclosed within parenthetical brackets to soften candidates' physical fatigue",
+          "Comic sound-effect onomatopoeia combined with direct rhetorical questioning to address the invigilators aloud",
           "Anaphoric tricolon ('Three hundred…') balanced across semicolons, escalating from physical sound to existential stakes",
         ],
         answerIndex: 3,
@@ -793,9 +793,9 @@ export const mcqPapers: Paper[] = [
           "A biography extract begins mid-crisis (*\"When the rudder snapped off Cape Horn, nobody screamed.\"*), then steps back in Section 2 to explain how the crew had been recruited in Plymouth six months earlier. What structural opening technique is used in Section 1?",
         options: [
           "In medias res — plunging straight into peak jeopardy before supplying chronological backstory via analepsis",
-          "Chronological cradle-to-grave exposition",
-          "Epistolary sign-off",
-          "Didactic conclusion",
+          "Chronological exposition — tracing the voyage steadily from recruitment in Plymouth forward to the crisis",
+          "Epistolary framing — opening with a formal dated letter sign-off before recounting earlier harbour scenes",
+          "Didactic resolution — delivering the author's final moral verdict upfront without any narrative dramatisation",
         ],
         answerIndex: 0,
         hints: [
@@ -813,10 +813,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this nature column extract:\n\n*\"We call the urban fox a 'pest' for raiding wheely-bins we overfill on land we concreted over its burrows.\"*\n\nHow do the scare quotes around **'pest'** and the inclusive pronoun **'we'** align the reader?",
         options: [
-          "They encourage readers to call pest-control officers immediately.",
+          "Scare quotes highlight 'pest' as an official ecological classification, while repeated 'we' rallies neighbourhood residents to demand stricter municipal wildlife removal.",
           "Scare quotes problematise the label 'pest' as hypocritical human projection, while repeated 'we' implicates both writer and reader in collective responsibility for habitat destruction.",
-          "They prove the writer has never seen a fox in a city.",
-          "They distance the writer completely from human society using formal third-person detachment.",
+          "Scare quotes admit the journalist is citing second-hand rumour because they have never observed urban foxes directly, while 'we' signals a royal editorial plural.",
+          "Scare quotes maintain neutral scientific objectivity toward wildlife terminology, while 'we' detaches the writer cleanly from urban society through formal third-person distance.",
         ],
         answerIndex: 1,
         hints: [
@@ -834,10 +834,10 @@ export const mcqPapers: Paper[] = [
         question:
           "What is **retrospective distance** in autobiographical non-fiction, and why do examiners reward candidates who spot it?",
         options: [
-          "Writing a travelogue from at least ten kilometres away using binoculars.",
-          "Using only third-person pronouns ('he/she') in newspaper reports.",
+          "The physical separation between a travel writer and a remote landscape observed through binoculars or from a distant ridge, which creates detached geographical precision.",
+          "The editorial convention of rewriting personal experiences exclusively in objective third-person pronouns ('he' or 'she') so a memoir reads like impartial newspaper reportage.",
           "The dual perspective between the experiencing younger self inside the moment (often naïve, terrified, or proud) and the wiser older narrator shaping the memory with irony or hindsight.",
-          "Forgetting key dates and names because too many years have passed.",
+          "The factual unreliability that creeps into an autobiography when decades have elapsed, causing the writer to omit exact calendar dates, place-names, and sequential chronology.",
         ],
         answerIndex: 2,
         hints: [
@@ -855,9 +855,9 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this extract about an abandoned desert railway station:\n\n*\"Sand had drifted across the ticket-hall tiles, burying the fallen clock-hands under pale, wind-rippled dunes.\"*\n\nBeyond literal weather, what symbolic weight comes from *sand burying fallen clock-hands*?",
         options: [
-          "It shows local cleaners are on a lunch break.",
-          "It proves desert clocks run faster than city clocks.",
-          "It suggests a bustling modern railway hub is about to open.",
+          "It highlights temporary staffing neglect, implying station cleaners simply delayed sweeping the concourse tiles.",
+          "It illustrates how arid desert heat warps brass clockwork mechanisms until railway timetables run ahead of schedule.",
+          "It signals optimistic regional renewal, anticipating that a bustling modern railway hub is about to be refurbished.",
           "It symbolises geological time and nature effortlessly reclaiming and erasing human schedules and imperial ambition.",
         ],
         answerIndex: 3,
@@ -877,9 +877,9 @@ export const mcqPapers: Paper[] = [
           "Why is claiming *\"the writer uses sibilance to create a calm, soothing atmosphere\"* dangerous on an unseen storm or predator extract?",
         options: [
           "Phonetic effects have zero fixed emotional meaning on their own — in hostile contexts, repeated /s/ and /sh/ sounds amplify sinister hissing, whipping sleet, or stealth rather than calm.",
-          "Sibilance is banned from OxfordAQA mark schemes.",
-          "Sibilance only exists in Shakespearean verse, never in prose.",
-          "Repeated /s/ sounds are actually called plosives.",
+          "OxfordAQA Paper 1A mark schemes prohibit commenting on phonetic or sound-patterning techniques, awarding AO2 credit solely for metaphors, similes, and sentence length.",
+          "Sibilance is a metrical feature confined strictly to rhyming Shakespearean verse and lyric poetry, so citing it in non-fiction prose automatically caps analysis at Level 1.",
+          "Repeated /s/ and /sh/ fricatives are technically categorised as harsh plosive consonants in linguistics, so labelling them sibilance is a terminological error on any extract.",
         ],
         answerIndex: 0,
         hints: [
@@ -897,10 +897,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Across a four-section mountain rescue article, Sections 1–3 use sprawling 35-word sentences packed with blizzard chaos, whereas Section 4 — set inside the rescue hut — shifts to calm, balanced 12-word sentences. How should you analyse this shift?",
         options: [
-          "Claim the writer ran out of vocabulary by Section 4.",
+          "Critique the shift as a lapse in stylistic control, arguing that dropping from thirty-five-word clauses to twelve-word sentences reveals lexical fatigue after the dramatic climax.",
           "Connect the macro-syntactic shift directly to the narrative arc: breathless, overloaded clauses enact disorienting exposure on the ridge, whereas measured syntax in Section 4 mirrors restored warmth, shelter, and cognitive control.",
-          "Ignore Section 4 and only quote the dramatic storm in Section 2.",
-          "Count every syllable in the entire article and draw a bar chart.",
+          "Concentrate exclusively on the high-jeopardy storm passages in Sections 1–3, since calm shelter scenes in Section 4 contain no overt figurative imagery worth evaluating in AO2.",
+          "Audit sentence length quantitatively by tabulating the exact word and syllable counts across all four sections, proving objectively that Section 4 is mathematically simpler prose.",
         ],
         answerIndex: 1,
         hints: [
@@ -918,10 +918,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this food memoirist's description of an ultra-expensive minimalist restaurant:\n\n*\"After forty minutes of hushed liturgical waiting, a black-gloved acolyte arrived bearing a porcelain platter the size of a hubcap, at whose exact geometric centre shivered one solitary pea anointed with foam.\"*\n\nWhat semantic field does the writer deploy to satirise pretentious fine dining?",
         options: [
-          "Heavy agricultural machinery",
-          "Naval warfare and artillery",
+          "Heavy industrial and agricultural machinery ('platter', 'hubcap', 'geometric') contrasting with delicate dining cutlery",
+          "Naval warfare and tactical artillery ('forty minutes', 'black-gloved', 'exact') evoking a disciplined military campaign",
           "Solemn religious ritual ('liturgical', 'acolyte', 'anointed') juxtaposed bathetically with 'hubcap' and 'one solitary pea'",
-          "Primary-school playground games",
+          "Childhood playground games and domestic whimsy ('hushed', 'shivered', 'foam') mocking diners' impatient table manners",
         ],
         answerIndex: 2,
         hints: [
@@ -939,9 +939,9 @@ export const mcqPapers: Paper[] = [
         question:
           "In a 14-mark whole-text evaluation question asking *\"How effectively does the writer convey the harshness of life on the island?\"*, which paragraph structure best secures **Level 4 / Grade 9**?",
         options: [
-          "Four short paragraphs that each name two techniques without quoting or explaining connotations.",
-          "A personal anecdote about a rainy beach holiday you once took with your family.",
-          "Three paragraphs summarizing every event on the island in chronological order without naming any writer's methods.",
+          "Four brisk feature-spotting paragraphs that catalogue as many named literary devices as possible per line without unpacking individual connotations or tonal shifts.",
+          "An engaging personal reflection comparing the islander's winter struggles with a memorable rainy coastal holiday from your own life to prove authentic empathy.",
+          "Three chronological summary paragraphs retelling every physical hardship on the island in sequential order from start to finish without evaluating the writer's craft.",
           "Three to four PETAL paragraphs sampling Opening, Middle Pivot, and Ending — weaving 2–5 word micro-quotes, single-word connotative zoom, syntactic/structural craft, and nuanced tonal shifts.",
         ],
         answerIndex: 3,
@@ -961,9 +961,9 @@ export const mcqPapers: Paper[] = [
           "Read this closing line from an interview with a retired lighthouse keeper:\n\n*\"He still wakes every night at two minutes to midnight, reaches for a brass logbook that has been in the maritime museum since 2008, and listens to the silent radiator.\"*\n\nWhat poignant subtext does this final detail leave with the reader?",
         options: [
           "Decades of solitary duty have permanently etched themselves into his body clock, leaving a lingering phantom ache of displacement and lost purpose in retirement.",
-          "He plans to break into the maritime museum to steal back his brass logbook.",
-          "His apartment radiator is broken and needs an emergency plumber at midnight.",
-          "He never enjoyed working in the lighthouse and sleeps peacefully until noon.",
+          "His midnight preoccupation hints at a brewing obsession with reclaiming state property, foreshadowing a plan to retrieve the brass logbook from the museum.",
+          "Listening intently to the silent radiator reveals practical domestic anxiety, indicating that his retirement flat suffers from faulty heating during winter nights.",
+          "Having finally relinquished the gruelling night watches he resented, he celebrates his retirement by sleeping effortlessly past dawn in quiet domestic relief.",
         ],
         answerIndex: 0,
         hints: [

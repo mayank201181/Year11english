@@ -20,9 +20,9 @@ for T in "$@"; do
   if [ -s "$MP4" ] && [ -s "$JPG" ] && "$PY" -c "
 import subprocess, static_ffmpeg
 static_ffmpeg.add_paths()
-out = subprocess.check_output(['ffprobe','-v','error','-show_entries','stream=codec_name','-show_entries','format=duration','-of','compact','$MP4'], text=True)
+out = subprocess.check_output(['ffprobe','-v','error','-show_entries','stream=codec_name,pix_fmt,color_range,r_frame_rate','-show_entries','format=duration','-of','compact','$MP4'], text=True)
 dur = [float(l.split('duration=')[1]) for l in out.splitlines() if 'duration=' in l][0]
-assert 'codec_name=h264' in out and 'codec_name=aac' in out and dur > 60
+assert 'codec_name=h264' in out and 'codec_name=aac' in out and 'pix_fmt=yuv420p' in out and 'color_range=tv' in out and 'r_frame_rate=24/1' in out and dur > 60
 " 2>/dev/null; then
     echo "=== $T: valid MP4 + poster already present, skipping render"
     if [ ! -s "out/$T/timeline.json" ]; then

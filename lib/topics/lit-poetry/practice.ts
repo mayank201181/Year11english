@@ -206,9 +206,9 @@ export const practice: TopicPractice = {
       question:
         "On Pearson Edexcel 4ET1 Paper 1 Section A, why must you **avoid** writing paragraphs of poet biography (e.g. Keats's tuberculosis or Browning's marriage)?",
       options: [
-        "Because biographies are tested in Section C instead.",
-        "Because poets never draw on personal life.",
-        "Because only Unseen Poetry tests biography.",
+        "Because biographical knowledge of the Anthology poets is assessed separately in a dedicated Paper 1 Section C essay.",
+        "Because Edexcel examiners assume lyric poets invent purely fictional scenarios that never draw upon personal life.",
+        "Because AO4 biographical context is rewarded exclusively on Part 1 Unseen Modern Poetry rather than the set Anthology.",
         "Because AO4 context carries zero marks anywhere in Paper 1 Section A — only AO2 (craft) and AO3 (comparison) are credited.",
       ],
       answerIndex: 3,
@@ -1162,10 +1162,10 @@ export const practice: TopicPractice = {
       question:
         "In Robert Browning's ***My Last Duchess***, the Duke claims *\"Even had you skill / In speech — which I have not —\"* in the middle of a dazzlingly manipulative fifty-six-line dramatic monologue. What classical rhetorical ploy is the Duke using, and how does Browning turn it against him?",
       options: [
-        "Paralipsis / false modesty (apophasis): feigning blunt inarticulacy so his lethal warning to the Count's envoy sounds like plain honesty, generating dramatic irony that exposes his calculating narcissism.",
-        "Genuine humility proving the Duke suffers from stage fright.",
-        "Pathetic fallacy aligning Ferrara's weather with grief.",
-        "Anagnorisis in which the Duke repents of murdering his wife.",
+        "Paralipsis / false modesty (apophasis): feigning blunt inarticulacy so his veiled threat to the envoy sounds like plain honesty, creating dramatic irony that exposes his narcissism.",
+        "Sincere self-deprecation (humilitas): confessing awkward stage fright before a foreign diplomat so the reader sympathises deeply with an anxious widower struggling to voice his grief.",
+        "Sustained pathetic fallacy: projecting the Duke's unpolished courtly manners onto Ferrara's gloomy autumn architecture to signal his regret over neglecting his late wife.",
+        "Tragic anagnorisis: undergoing a sudden moment of moral self-recognition mid-speech as the repentant Duke realises his jealous obsession destroyed an innocent woman and begs pardon.",
       ],
       answerIndex: 0,
       hints: [
@@ -1211,10 +1211,10 @@ export const practice: TopicPractice = {
       question:
         "In William Blake's ***The Tyger***, every line of Stanza 1 (`TY-ger TY-ger, BURN-ing BRIGHT`) drops the final unstressed syllable of its fourth trochaic foot (7 syllables instead of 8, ending on a hard stressed beat). What exact prosodic term describes dropping that final unstressed syllable?",
       options: [
-        "Feminine ending",
+        "Feminine ending (trailing unstressed syllable)",
         "Catalexis (catalectic trochaic tetrameter)",
-        "Alexandrine hexameter",
-        "Free-verse prose rhythm",
+        "Alexandrine (twelve-syllable iambic hexameter)",
+        "Caesura (mid-line punctuation division)",
       ],
       answerIndex: 1,
       hints: [
@@ -1263,10 +1263,10 @@ export const practice: TopicPractice = {
       question:
         "In Carol Ann Duffy's ***War Photographer***, Stanza 3 describes a developing photograph:\n\n> *\"Something is happening. A stranger's features*\n> *faintly start to twist before his eyes,*\n> *a half-formed ghost.\"*\n\nWhy does the **double meaning** of the verb *\"twist\"* earn top-band AO2 marks?",
       options: [
-        "It refers solely to curling photographic paper drying on a wire.",
-        "It shows the camera lens was broken during the explosion.",
-        "Literally it captures chemical development emerging in the darkroom tray, while metaphorically it re-enacts the dying man's facial contortion of agony — collapsing past atrocity into the present room.",
-        "It proves the photographer fabricated the image digitally.",
+        "It functions purely as literal technical jargon describing wet photographic paper curling unevenly on a drying wire, establishing cool journalistic realism without deeper symbolism.",
+        "It introduces dark physical irony, suggesting that shrapnel from a nearby blast damaged the photographer's camera lens and permanently warped the dead man's captured face.",
+        "Literally it captures chemical development emerging in the darkroom tray, while metaphorically it re-enacts the dying man's facial contortion — collapsing past agony into the present.",
+        "It exposes cynical professional deceit, implying that the callous journalist digitally altered the stranger's expression to make a minor skirmish look dramatic for Sunday newspapers.",
       ],
       answerIndex: 2,
       hints: [
@@ -1361,10 +1361,10 @@ export const practice: TopicPractice = {
       question:
         "Suppose Edexcel Paper 1 Part 2 asks: *\"Compare how the writer of **Blessing** and the writer of **one other Anthology poem** present **moments of intense emotion or transformation**.\"* Which pairing and structural argument gives the richest **AO2 + AO3** scope?",
       options: [
-        "Pair Blessing with Search For My Tongue: both use irregular multi-part free verse and organic/elemental extended metaphors ('liquid sun' / 'blossoms out of my mouth') to chart transformation from parched or rotting deprivation into ecstatic renewal — one communal and socio-physical, the other intimate and linguistic.",
-        "Pair Blessing with My Last Duchess and argue both poets celebrate generous community sharing.",
-        "Write solely about Mumbai's monsoon climate and Gujarati grammar history.",
-        "Pair Blessing with an unseen poem from Part 1 instead of the Anthology.",
+        "Pair Blessing with Search For My Tongue: both use dynamic free verse and organic metaphors ('liquid sun' / 'blossoms out of my mouth') to chart rebirth from deprivation or rot — one communal and physical, the other linguistic.",
+        "Pair Blessing with My Last Duchess: argue that both poets employ strict rhyming heroic couplets to celebrate generous communal sharing as wealthy patrons distribute precious treasures among grateful local citizens.",
+        "Pair Blessing with Search For My Tongue by focusing four paragraphs on Mumbai's monsoon infrastructure and Indian language politics, since detailed AO4 socio-historical context secures the majority of Part 2 marks.",
+        "Pair Blessing with the Part 1 Unseen Modern Poem printed earlier on the exam paper: comparing a studied Anthology poem against the unseen text demonstrates superior AO3 spontaneity and satisfies the Part 2 rubric.",
       ],
       answerIndex: 0,
       hints: [

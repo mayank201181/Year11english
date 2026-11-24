@@ -38,10 +38,10 @@ export const paper: ExamPaper = {
       "difficulty": "core",
       "question": "Read these two stimulus extracts on fast fashion:\n\n*Source A ( investigative report): \"Every second, the equivalent of one rubbish truck of textiles is landfilled or incinerated; polyester fibres shed in domestic washes now outnumber plankton in coastal samples.\"*\n*Source B (teenage thrift-shopper's blog): \"Digging through charity rails feels like treasure hunting — why pay forty pounds to look like a mannequin clone when a five-pound vintage jacket has a soul?\"*\n\nWhich statement best **synthesises** a shared underlying stance while distinguishing their focus?",
       "options": [
-        "Source A strongly supports fast fashion factories, whereas Source B wants charity shops banned.",
+        "Source A defends industrial fast-fashion supply chains as economically vital, whereas Source B argues that high-street charity shops ought to be regulated and closed.",
         "Both writers reject disposable mass-produced clothing, yet Source A condemns its planetary ecological toll whereas Source B celebrates thrift as affordable individuality.",
-        "Both writers rely exclusively on marine biology statistics to persuade policymakers.",
-        "Source A is an informal diary entry, whereas Source B is a peer-reviewed scientific journal."
+        "Both writers construct a formal scientific case grounded in coastal marine statistics in order to lobby parliamentary committees for immediate textile legislation.",
+        "Source A is a nostalgic personal diary reflecting on childhood shopping habits, whereas Source B is a peer-reviewed environmental study of synthetic ocean fibres."
       ],
       "answerIndex": 1,
       "explanation": "Synthesis identifies the conceptual common ground (critique of throwaway mass fashion) AND the divergence in focus/angle (global environmental destruction vs personal budget & self-expression).",
@@ -92,9 +92,9 @@ export const paper: ExamPaper = {
       "question": "Read these two extracts about school start times:\n\n*Source C (sleep neurologist): \"Adolescent melatonin release shifts roughly two hours later during puberty; forcing 7:30 a.m. lessons truncates REM sleep by up to 28%.\"*\n*Source D (parent columnist): \"Every weekday at 6:45 a.m. I prise a hibernating teenager from beneath a duvet fortress and pour lukewarm porridge into a zombie.\"*\n\nWhich comparison accurately contrasts **how** the two writers convey the same problem?",
       "options": [
         "Source C establishes clinical authority through physiological terminology and quantified data, whereas Source D uses domestic hyperbole and comic metaphor to make sleep deprivation relatable.",
-        "Source C uses informal slang and jokes, whereas Source D relies strictly on laboratory percentages.",
-        "Source C argues lessons should start at 5:00 a.m., whereas Source D argues school should be abolished.",
-        "Both writers use identical neutral, emotionless encyclopaedia prose."
+        "Source C relies on colloquial humour and exaggerated domestic caricature to entertain readers, whereas Source D constructs a formal clinical argument grounded in laboratory percentages.",
+        "Source C advocates shifting secondary school lessons even earlier to boost productivity, whereas Source D argues that compulsory secondary education should be replaced with home study.",
+        "Both writers adopt an identically detached, encyclopaedic tone without figurative language, ensuring that neither extract displays any discernible attitude toward morning start times."
       ],
       "answerIndex": 0,
       "explanation": "Source C builds scientific **logos/ethos** ('melatonin', 'REM sleep', '28%'), while Source D builds warm **humour/relatability** via hyperbolic metaphors ('hibernating', 'duvet fortress', 'zombie').",
@@ -146,9 +146,9 @@ export const paper: ExamPaper = {
       "difficulty": "core",
       "question": "Why does a **block-by-block** answer (*three paragraphs exclusively on Source A, followed by three paragraphs on Source B with 'They are somewhat similar' tacked on the end*) cap marks on an OxfordAQA 9270 comparative question?",
       "options": [
-        "Comparative connectives like 'whereas' and 'conversely' are penalised in Paper 2.",
-        "Examiners stop marking after paragraph three on every Paper 2 question.",
-        "OxfordAQA requires discussing at least twelve texts in every single sentence.",
+        "OxfordAQA examiners penalise explicit comparative connectives such as 'whereas' and 'conversely' unless they appear only in a separate conclusion.",
+        "Paper 2 Section A mark schemes cap candidates at three paragraphs in total, so any analysis written in paragraphs four to six receives zero credit.",
+        "Comparative questions require candidates to quote identical word counts from every single source in the booklet inside each individual sentence.",
         "It leaves comparison implicit until the final line instead of weaving sustained point-by-point analytical connections across both texts throughout."
       ],
       "answerIndex": 3,
@@ -208,10 +208,10 @@ export const paper: ExamPaper = {
       "difficulty": "core",
       "question": "Section A Source 3 states: *\"City bus ridership among 14–18-year-olds fell by 34% after single fares rose above £2.80 in 2024.\"* \n\nIn Paper 2 Section B (a speech to the Transport Committee arguing for free youth travel), which sentence **transforms** this source fact at a Grade-9 level without lifting?",
       "options": [
-        "Did you know that 99% of buses in the city are completely empty because tickets cost £50 each?",
-        "City bus ridership among 14–18-year-olds fell by 34% after single fares rose above £2.80 in 2024.",
+        "Can this committee seriously ignore the fact that 99% of city buses now run completely empty because reckless operators hiked teenage fares to £50 a journey?",
+        "As Source 3 explicitly reports in Section A, 'City bus ridership among 14–18-year-olds fell by 34% after single fares rose above £2.80 in 2024' without doubt.",
         "Pricing young people off public transport is false economy: the moment a single bus fare crept past £2.80, a third of teenage passengers vanished from our routes.",
-        "Buses have wheels and doors and teenagers sometimes ride them to school."
+        "Public buses carry thousands of commuters across our boroughs every morning, and secondary pupils have traditionally relied on local routes to reach lessons."
       ],
       "answerIndex": 2,
       "explanation": "Grade-9 directed writing harvests the accurate anchor from Section A (~34% → 'a third', >£2.80) and recasts it in persuasive speech syntax ('false economy', 'vanished from our routes') rather than copying verbatim or fabricating fake statistics.",
@@ -587,9 +587,9 @@ export const paper: ExamPaper = {
       "difficulty": "core",
       "question": "Why does overusing ALL CAPS, triple exclamation marks (*\"ACT NOW!!!\"*), and rhetorical questions in every single sentence (*\"Don't you care? Aren't you ashamed? Won't someone think?\"*) **lower** your Paper 2B mark?",
       "options": [
-        "Speeches are never allowed to address the audience directly.",
-        "Exclamation marks are illegal in the English language.",
-        "Examiners subtract two marks per question mark used in Section B.",
+        "Formal speeches and articles in Paper 2 Section B prohibit addressing the audience directly or asking even a single rhetorical question.",
+        "Exclamation marks and interrogative sentences are excluded from Standard English punctuation, so using either automatically caps AO6 at Level 1.",
+        "Examiners apply a strict negative-marking tariff in Section B, deducting two AO6 marks for every question mark or capital letter they count.",
         "Relentless shouting flattens tonal modulation, turning controlled rhetoric into monotonous melodrama that alienates an intelligent audience."
       ],
       "answerIndex": 3,

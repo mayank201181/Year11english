@@ -403,10 +403,10 @@ export const paper: ExamPaper = {
       "difficulty": "core",
       "question": "Why do OxfordAQA 9270 examiners advise against planning a 45-minute narrative around a bank heist, car chase, plane crash, amnesia twist, and *\"it was all a dream\"*?",
       "options": [
-        "OxfordAQA bans all fictional stories in Paper 1 Section B.",
+        "OxfordAQA's Paper 1 Section B mark scheme disqualifies thrillers and crime plots in favour of realistic domestic memoirs written strictly in third person.",
         "Cramming multiple melodramatic events forces rushed summary ('and then…') instead of controlled characterisation, atmosphere and linguistic craft.",
-        "Narratives must exceed 3,000 words to include dialogue.",
-        "Examiners only award marks for stories set inside a school classroom."
+        "Examiners require every Paper 1 Section B narrative to cover at least three decades of a protagonist's biography using a formal chronological timeline.",
+        "High-action plots leave insufficient space for the mandatory five-paragraph discursive conclusion that OxfordAQA expects at the end of every narrative."
       ],
       "answerIndex": 1,
       "explanation": "In 45 minutes (~450–650 words), a single small human moment explored in psychological and sensory depth earns far higher AO5/AO6 marks than breathlessly summarising a blockbuster plot; *'it was all a dream'* also destroys narrative stakes.",
@@ -497,9 +497,9 @@ export const paper: ExamPaper = {
       "difficulty": "challenge",
       "question": "Compare two student revisions of the same sentence:\n\n*Draft 1: \"The cerulean, lugubrious, lachrymose precipitation cascaded tumultuously upon the edifice.\"*\n*Draft 2: \"All afternoon, grey rain sluiced down the slate gable and pooled in the worn threshold.\"*\n\nWhy does an IGCSE examiner reward **Draft 2** higher than **Draft 1** for vocabulary?",
       "options": [
-        "Draft 2 avoids using any verbs or adjectives at all.",
-        "Draft 2 is shorter and examiners always award more marks to shorter sentences.",
-        "Draft 1 loses marks because Latin-derived adjectives are banned in IGCSE English.",
+        "Draft 2 removes all descriptive modifiers and figurative detail, relying on plain factual reporting that OxfordAQA prefers over sensory imagery in Section B.",
+        "Draft 2 avoids polysyllabic Latinate vocabulary entirely, since AO6 penalises candidates whenever a descriptive sentence uses words of three or more syllables.",
+        "Draft 1 commits a grammatical comma splice between 'cerulean' and 'lugubrious', whereas Draft 2 earns full AO6 marks solely by using a fronted adverbial phrase.",
         "Draft 2 selects precise, natural verbs and concrete nouns ('sluiced', 'slate gable', 'worn threshold'), whereas Draft 1 suffers from strained, unnatural thesaurus-stuffing."
       ],
       "answerIndex": 3,

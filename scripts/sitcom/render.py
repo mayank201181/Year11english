@@ -25,7 +25,7 @@ def start_server():
 async def render_all(out_dir: str, mp4_out: str, poster_out: str, workers: int = 1):
     with open(os.path.join(out_dir, "timeline.json"), "r", encoding="utf-8") as f:
         tl = json.load(f)
-    fps = tl["fps"]
+    fps = int(tl.get("fps") or 24)
     total_frames = math.ceil(tl["duration"] * fps)
     per = math.ceil(total_frames / workers)
     ffmpeg_bin = shutil.which("ffmpeg")
@@ -65,8 +65,9 @@ async def render_all(out_dir: str, mp4_out: str, poster_out: str, workers: int =
                 [
                     ffmpeg_bin, "-y", "-loglevel", "error",
                     "-f", "image2pipe", "-framerate", str(fps), "-c:v", "mjpeg", "-i", "-",
+                    "-vf", "scale=in_range=full:out_range=tv,format=yuv420p",
                     "-c:v", "libx264", "-preset", "ultrafast", "-crf", "26",
-                    "-pix_fmt", "yuv420p", "-tune", "animation", seg,
+                    "-pix_fmt", "yuv420p", "-color_range", "tv", "-tune", "animation", seg,
                 ],
                 stdin=subprocess.PIPE,
             )

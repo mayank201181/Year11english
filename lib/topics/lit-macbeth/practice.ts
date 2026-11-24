@@ -11,9 +11,9 @@ export const practice: TopicPractice = {
         "Which reigning monarch watched early performances of *Macbeth* around 1606, authored *Daemonologie* (1597), and claimed descent from **Banquo**?",
       options: [
         "King James I (James VI of Scotland)",
-        "King Henry VIII",
-        "Queen Mary I",
-        "King Charles II",
+        "Queen Elizabeth I (last Tudor queen)",
+        "King Henry VIII (second Tudor ruler)",
+        "Queen Mary I (Catholic Tudor queen)",
       ],
       answerIndex: 0,
       hints: [
@@ -83,10 +83,10 @@ export const practice: TopicPractice = {
       question:
         "In Act 1 Scene 5, Lady Macbeth cries *\"Come, you spirits / That tend on mortal thoughts, unsex me here.\"* How does Act 5 Scene 1 (*\"Out, damned spot!\"*) structurally answer this speech?",
       options: [
-        "It shows the spirits rewarded her with peaceful eternal sleep.",
+        "Through divine intervention, the spirits grant her prayer for permanent emotional numbness, leaving her untouched by sleepwalking guilt.",
         "Through chiasmic reversal, her confident blank verse collapses into fragmented sleepwalking prose as her repressed conscience destroys her.",
-        "It shows her persuading Macbeth to confess peacefully to Malcolm.",
-        "It proves she never knew about the murder of Lady Macduff.",
+        "Through calm iambic persuasion, she urges Macbeth to lay down his crown and confess King Duncan's murder openly before Malcolm's army.",
+        "Through rational soliloquy, she proves to the Scottish Doctor that she remained completely ignorant of the slaughter of Lady Macduff's family.",
       ],
       answerIndex: 1,
       hints: [
@@ -1160,9 +1160,9 @@ export const practice: TopicPractice = {
         "In Act 1 Scene 2, King Duncan rewards Macbeth with the **Thane of Cawdor's** title immediately after Cawdor's treason, unaware that Macbeth will soon betray him identically; in Act 1 Scene 4, Duncan reflects on Cawdor: *\"There's no art / To find the mind's construction in the face: / He was a gentleman on whom I built / An absolute trust\"* — at the exact instant Macbeth walks through the door. What structural technique is Shakespeare using?",
       options: [
         "Proleptic dramatic irony via cue-timed entrance, turning Macbeth into Cawdor's living double.",
-        "Comic stichomythia mocking Scottish military titles.",
-        "Trochaic catalexis signalling supernatural possession.",
-        "Aristotelian catharsis resolving the plot in Act 1.",
+        "Comic stichomythia via rapid half-lines, mocking Scottish military titles and royal honours.",
+        "Catalectic trochaic tetrameter via chanted rhyme, signalling Macbeth's supernatural possession.",
+        "Aristotelian catharsis via delayed exposition, resolving the play's tragic conflict in Act 1.",
       ],
       answerIndex: 0,
       hints: [
@@ -1212,10 +1212,10 @@ export const practice: TopicPractice = {
       question:
         "In Act 1 Scene 7, Macbeth imagines Duncan's virtues pleading against regicide:\n\n> *\"And pity, like a naked new-born babe,*\n> *Striding the blast, or heaven's cherubim, horsed*\n> *Upon the sightless couriers of the air,*\n> *Shall blow the horrid deed in every eye,*\n> *That tears shall drown the wind.\"*\n\nWhy is this paradoxical simile (*\"naked new-born babe, / Striding the blast\"*) central to the play's moral vision?",
       options: [
-        "It predicts that Lady Macbeth will give birth to a royal heir in Act 3.",
+        "It functions as literal prophetic foreshadowing that Lady Macbeth will bear a legitimate royal heir in Act 3, securing Macbeth's contested crown against Banquo's surviving Stuart descendants.",
         "It fuses extreme vulnerability ('naked new-born babe') with irresistible cosmic power ('Striding the blast'), prefiguring how murdered innocence (Duncan, Banquo's line, Macduff's babes) ultimately topples armed tyranny.",
-        "It proves Macbeth despises children from the very beginning of Act 1.",
-        "It describes the Bloody Child apparition speaking to Banquo.",
+        "It exposes Macbeth's deep-seated contempt for childhood weakness from the very opening of Act 1, revealing that he already intends to murder Macduff's household before touching King Duncan.",
+        "It directly recounts the Bloody Child apparition's later warning to Banquo on the blasted heath, collapsing Shakespeare's five-act chronology to link Duncan's virtues with demonic witchcraft.",
       ],
       answerIndex: 1,
       hints: [
@@ -1264,10 +1264,10 @@ export const practice: TopicPractice = {
       question:
         "Compare two lines spoken by Lady Macbeth:\n- Act 3 Scene 2 (to Macbeth): *\"Things without all remedy / Should be without regard: what's done is done.\"*\n- Act 5 Scene 1 (sleepwalking): *\"To bed, to bed; there's knocking at the gate. Come, come, come, come, give me your hand. What's done cannot be undone.\"*\n\nHow does the syntactic transformation from *\"what's done is done\"* to *\"What's done cannot be undone\"* encapsulate her tragedy?",
       options: [
-        "Both lines express identical pragmatic confidence.",
-        "The second line shows her forgiving Macbeth for killing Banquo.",
+        "Both statements express the same crisp pragmatic resolve, proving that even in Act 5 Lady Macbeth remains philosophically detached from past bloodshed and immune to remorse.",
+        "The grammatical expansion marks her conscious Christian reconciliation with Macbeth, offering spousal forgiveness for his unilateral decision to have Banquo murdered in Act 3.",
         "Her brisk tautology ('is done' = case closed) mutates into a haunted negative passive ('cannot be undone' = eternal trap), exposing time as a prison in which Act 2's knocking repeats forever.",
-        "The shift proves the Doctor has cured her insomnia.",
+        "The shift into steady modal verbs confirms that the Scottish Doctor's remedies have finally soothed her troubled conscience and restored restful sleep ahead of Dunsinane's siege.",
       ],
       answerIndex: 2,
       hints: [
@@ -1362,10 +1362,10 @@ export const practice: TopicPractice = {
       question:
         "In Act 2 Scene 2, Macbeth laments that he could not say *\"Amen\"* when the sleeping grooms cried *\"God bless us!\"*: *\"Wherefore could not I pronounce 'Amen'? / I had most need of blessing, and 'Amen' / Stuck in my throat.\"* Why is this detail devastating within a **1606 Protestant Jacobean** context?",
       options: [
-        "It shows Macbeth forgot the Latin liturgy taught at Scottish schools.",
-        "It proves the grooms were awake and plotting against Macbeth.",
+        "It satirises Macbeth's ignorance of traditional Latin church liturgy taught in medieval Scottish schools, portraying his spiritual dread as mere uneducated clerical embarrassment.",
+        "It proves that King Duncan's drugged chamberlains were secretly wide awake and whispering a coded prayer to alert Inverness's guards before Macbeth could flee the bedchamber.",
         "It dramatises immediate spiritual excommunication: the physical choking on 'Amen' symbolises regicide severing Macbeth instantaneously from divine grace before any human discovers the crime.",
-        "It provides comic relief ahead of the Porter's monologue.",
+        "It introduces ironic comic bathos through physical slapstick, mocking Macbeth's superstitious anxiety right before the drunken Porter's arrival lightens the atmosphere further.",
       ],
       answerIndex: 3 - 1,
       hints: [

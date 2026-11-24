@@ -160,9 +160,9 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this hostile Section A extract:\n> *Source C (Retail Park Developer): 'Paving Orchard Common will create 80 part-time checkout roles and 400 free parking bays.'*\n\nYou are writing a speech **opposing** the development. Which approach makes the strongest Grade-9 use of Source C?",
         options: [
-          "Pretend Source C's employment claim does not exist so nobody thinks about jobs",
-          "Copy Source C's sentence word-for-word and add 'This is a lie!' afterwards",
-          "Claim the developer actually plans to fire 8,000 hospital nurses instead",
+          "Omit any reference to Source C's employment claim altogether so the audience never considers the economic case for local jobs",
+          "Quote Source C's exact sentence word-for-word at the start of the speech and dismiss it immediately by declaring 'This is a lie!'",
+          "Counter the developer's figure by fabricating a rival claim that the retail park will secretly eliminate 8,000 hospital nursing posts",
           "Concede the promised 80 part-time roles fairly, then expose the permanent trade-off of sacrificing irreplaceable green space for tarmac parking",
         ],
         answerIndex: 3,
@@ -203,9 +203,9 @@ export const mcqPapers: Paper[] = [
           "Compare two endings to a live speech urging governors to preserve the school orchestra:\n\n- **Ending 1:** *'Thank you very much for listening to my speech today, I hope you liked my points.'*\n- **Ending 2:** *'Keep the rehearsal room unlocked this September — lest a school famous for finding every pupil's voice chooses silence just to tidy a spreadsheet.'*\n\nWhy does Ending 2 reach Level 4 while Ending 1 stalls?",
         options: [
           "Ending 2 avoids an apologetic meta-commentary cliché and lands an imperative call to action fused with ironic antithesis ('voice' vs 'silence')",
-          "Ending 2 is superior solely because it uses an em-dash instead of a full stop",
-          "Ending 1 fails because speeches are forbidden from using first-person pronouns anywhere",
-          "Ending 2 succeeds because it introduces a brand-new statistic about spreadsheets",
+          "Ending 2 reaches Level 4 purely because deploying a single em-dash guarantees top-band AO6 credit regardless of vocabulary or rhetorical structure",
+          "Ending 1 stalls primarily because OxfordAQA forbids first-person pronouns ('I', 'my') anywhere inside a live persuasive speech to governors",
+          "Ending 2 succeeds because closing paragraphs in persuasive speeches must always introduce a brand-new financial statistic about school budgets",
         ],
         answerIndex: 0,
         hints: [
@@ -286,9 +286,9 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this opening to a letter to a Board of School Governors:\n> *'Listen up governors, your uniform policy is honestly ridiculous and you clearly haven't thought it through for two seconds.'*\n\nWhich diagnosis best explains why this opening damages the candidate's mark?",
         options: [
-          "Letters to governors are never allowed to disagree with existing school policy",
-          "The sentence fails solely because it contains fewer than forty words",
-          "School governors only accept letters written entirely in passive voice",
+          "Formal letters addressed to a school governing body are never permitted to criticise or challenge an existing institutional policy",
+          "The opening paragraph loses marks primarily because every OxfordAQA Paper 2 Section B opening sentence must exceed forty words in length",
+          "Letters to institutional boards only achieve Level 4 when drafted entirely in detached, agentless passive voice without personal opinions",
           "Hostile ad hominem insult ('clearly haven't thought') and casual imperative ('Listen up') alienate the target audience and collapse persuasive ethos",
         ],
         answerIndex: 3,
@@ -439,10 +439,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Identify the rhetorical device in bold:\n> *'Expecting forty teenagers to share four broken microscopes is **scarcely a triumph** of modern STEM investment.'*",
         options: [
-          "Hyperbole",
-          "Personification",
+          "Hyperbole (deliberate exaggeration)",
+          "Personification (humanising an object)",
           "Litotes (ironic understatement)",
-          "Alliteration",
+          "Alliteration (repeated initial sounds)",
         ],
         answerIndex: 2,
         hints: [
@@ -628,9 +628,9 @@ export const mcqPapers: Paper[] = [
         question:
           "A candidate sustains a **medical semantic field** (*'haemorrhaging talent'*, *'diagnostic blind spot'*, *'sticking-plaster grant'*, *'chronic underfunding'*) throughout an article on regional transport. Why does an **extended semantic field** outperform four random metaphors?",
         options: [
-          "Because examiners award marks strictly by counting medical nouns",
-          "It proves the writer wants to become a doctor rather than a journalist",
-          "It replaces the need for any logical evidence or paragraph structure",
+          "Examiners award AO5 vocabulary marks by tallying specialist scientific nouns, favouring medical imagery over every other figurative field",
+          "Sustaining clinical diction establishes occupational authority by implying the journalist holds formal medical qualifications alongside transport expertise",
+          "Weaving four linked metaphors across an article fulfils the entire persuasive brief, removing the need for logical evidence or structured counter-arguments",
           "It weaves subconscious thematic cohesion across paragraphs, framing infrastructure neglect as a progressive systemic illness requiring cure rather than cosmetic patchwork",
         ],
         answerIndex: 3,
@@ -781,9 +781,9 @@ export const mcqPapers: Paper[] = [
         question:
           "Why is sentence order crucial inside a complex concessive sentence?\n- **Order 1:** *'Although preserving historic libraries protects social mobility for thousands of pupils, refurbishing Victorian roofs is undeniably expensive.'*\n- **Order 2:** *'Although refurbishing Victorian roofs is undeniably expensive, preserving historic libraries protects social mobility for thousands of pupils.'*",
         options: [
-          "Order 1 and Order 2 carry the exact same persuasive punch",
-          "Order 1 is stronger because readers only ever remember subordinate clauses",
-          "Starting a sentence with 'Although' is grammatically incorrect in formal English",
+          "Order 1 and Order 2 deliver identical persuasive impact because both sentences contain the exact same vocabulary, concession, and factual claim",
+          "Order 1 is rhetorically stronger because readers subconsciously weight opening subordinate clauses more heavily than closing main clauses",
+          "Order 1 and Order 2 are both technically flawed because opening a formal sentence with the subordinating conjunction 'Although' breaks Standard English",
           "Order 2 places the writer's core argument in the **main clause at the end** (end-focus), leaving social mobility rather than roof costs ringing in the reader's mind",
         ],
         answerIndex: 3,
@@ -886,9 +886,9 @@ export const mcqPapers: Paper[] = [
         question:
           "Compare two candidate revisions of *'The council's plan makes traffic worse'*:\n- **Revision 1:** *'The municipal authority's nefarious machination exponentially exacerbates vehicular conglomeration.'*\n- **Revision 2:** *'The council's detour actively gridlocks residential side-streets.'*\n\nWhy does Revision 2 score **higher** for vocabulary precision?",
         options: [
-          "Examiners penalise words longer than two syllables",
-          "Revision 1 is grammatically incomplete because it lacks a verb",
-          "Revision 2 uses passive voice to hide responsibility",
+          "OxfordAQA examiners penalise abstract nouns of more than two syllables, awarding higher AO6 bands to plain monosyllabic speech",
+          "Revision 1 is grammatically incomplete because it lacks a finite main verb, whereas Revision 2 forms a complete clause with two verbs",
+          "Revision 2 deploys detached passive voice to shield council planners from direct blame, keeping the broadsheet tone diplomatically neutral",
           "Revision 2 selects one exact, muscular dynamic verb ('gridlocks') in natural register, whereas Revision 1 suffers from strained, unnatural thesaurus stuffing",
         ],
         answerIndex: 3,

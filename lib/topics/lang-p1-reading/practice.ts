@@ -178,9 +178,9 @@ export const practice: TopicPractice = {
       question:
         "Why does writing *\"This cliffhanger makes the reader want to read on\"* fail to earn marks in structural analysis?",
       options: [
-        "Examiners prefer answers written entirely in bullet points.",
-        "Paper 1A extracts never contain tension or suspense.",
-        "Only poetry essays are allowed to mention the reader.",
+        "OxfordAQA examiners award structural marks only to bullet-point timelines of paragraph events rather than continuous analytical prose.",
+        "Paper 1 Section A non-fiction extracts are strictly factual reports that never employ narrative tension, pacing shifts, or suspense.",
+        "Evaluating reader response is credited exclusively in Literature poetry essays and is treated as irrelevant speculation in Language Paper 1A.",
         "It is a generic cliché true of almost any sentence anywhere; Grade-9 analysis must specify the exact uncertainty, dread, or irony created at that moment.",
       ],
       answerIndex: 3,
@@ -1148,9 +1148,9 @@ export const practice: TopicPractice = {
         "Read this subtle memoir passage:\n\n*\"After my brother moved out to university, my father still set four placemats every evening at six, then carried the fourth plate back to the rack unwashed without anyone mentioning it.\"*\n\nWhy is the final detail *\"without anyone mentioning it\"* crucial to a **Grade-9 inference**?",
       options: [
         "It reveals a tacit, protective family conspiracy of silence — every member notices the father's ache of absence yet spares his vulnerability by refusing to embarrass him aloud.",
-        "It proves the rest of the family had poor eyesight and never noticed the fourth plate.",
-        "It demonstrates that the family disliked talking during dinner because they were watching television.",
-        "It shows the brother was secretly hiding upstairs and eating later at midnight.",
+        "It proves the rest of the household had grown so distracted by evening routines that none of them ever noticed the extra unwashed plate on the table.",
+        "It suggests the family enforced a rigid, cold ban on conversation during meals because everyone resented the brother for leaving home for university.",
+        "It hints that the brother was secretly living upstairs without his parents' knowledge and coming down to eat alone after the house fell quiet at night.",
       ],
       answerIndex: 0,
       hints: [
@@ -1200,10 +1200,10 @@ export const practice: TopicPractice = {
       question:
         "Read this war-zone reportage extract:\n\n*\"Dusk bandaged the shelled boulevard in violet gauze, briefly hiding the shrapnel pockmarks along the pharmacy wall.\"*\n\nEvaluate the **tension inside the medical metaphor** (*'bandaged… in violet gauze'*):",
       options: [
-        "It proves that municipal repair crews rebuilt the entire street before nightfall.",
+        "It implies that emergency medical teams and municipal builders repaired the shelled pharmacy wall under cover of twilight, restoring civic safety before daybreak returned.",
         "While 'bandaged' and 'gauze' evoke tender nursing care, the qualifier 'briefly hiding' exposes darkness as merely cosmetic dressing — twilight conceals civic trauma without healing it, guaranteeing morning will reopen the wound.",
-        "It shows the writer finds artillery bombardment colourful and harmless.",
-        "It uses plosive consonants to mimic loud explosions at midnight.",
+        "It frames the bombardment in romantic aesthetic terms, suggesting the reporter regards purple twilight over ruined architecture as picturesque rather than genuinely tragic.",
+        "It combines harsh plosive consonants in 'bandaged' and 'pockmarks' with pastel colour imagery to celebrate the soothing acoustic silence that follows artillery fire.",
       ],
       answerIndex: 1,
       hints: [
@@ -1251,10 +1251,10 @@ export const practice: TopicPractice = {
       question:
         "In a four-section nature memoir about tracking wolves in winter, Sections 1–3 follow the narrator scrambling clumsily through snowdrifts finding only cold paw-prints; in the final two lines of Section 4, the narrator looks back up the ridge and sees two yellow eyes watching *his* own boot-tracks from above. How does this ending work **structurally**?",
       options: [
-        "It leaves an accidental plot hole because the wolves were never introduced properly.",
-        "It proves the wolves are domesticated pets following hikers for food.",
+        "It creates an unresolved structural plot hole because the opening three sections failed to introduce the wolves' physical appearance before the closing scene.",
+        "It shifts the genre into reassuring domestic comedy by implying the wolves are tame, food-conditioned animals shadowing winter hikers for leftover rations.",
         "It executes a closing perspective inversion — reversing hunter and hunted so the human tracker realises he has been the observed trespasser all along, reframing Sections 1–3's confidence as hubris.",
-        "It uses chronological exposition to summarise wolf migration statistics.",
+        "It resolves the memoir through linear chronological exposition, stepping back to present an objective zoological overview of seasonal wolf migration patterns.",
       ],
       answerIndex: 2,
       hints: [

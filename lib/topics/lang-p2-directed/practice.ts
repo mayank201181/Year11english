@@ -152,10 +152,10 @@ export const practice: TopicPractice = {
       question:
         "Why should Paragraph 4 of a persuasive speech or article include a **concession-and-rebuttal pivot** (*'Admittedly… Yet…'*)?",
       options: [
-        "To pad out word count when you run out of arguments for your own side",
-        "To abandon your thesis and end the essay completely undecided",
+        "To pad out the essay's word count mechanically whenever a candidate runs out of original supporting points for their own side",
+        "To abandon the opening thesis midway through the piece so the conclusion remains completely neutral and diplomatically undecided",
         "To anticipate and disarm the sceptical reader's strongest objection fairly, strengthening both ethos and logical completeness",
-        "Because OxfordAQA deducts ten marks if the word 'Admittedly' is absent",
+        "Because OxfordAQA's Paper 2 Section B mark scheme enforces a mandatory deduction whenever the exact adverb 'Admittedly' is absent",
       ],
       answerIndex: 2,
       hints: [
@@ -1131,10 +1131,10 @@ export const practice: TopicPractice = {
       question:
         "Read two Section A stimulus snippets on night-shift work:\n- *Source A (1892 Bakery Inspector's Log): 'Apprentices aged fifteen laboured beneath cellar gas-jets from midnight till dawn, emerging chalk-faced into daylight.'*\n- *Source E (2024 Gig-Economy Report): '31% of overnight warehouse pickers log sixty-hour weeks tracked by wrist-scanner quotas.'*\n\nWhich Section B broadsheet sentence achieves **Grade-9 cross-source synthesis and transformation** without lifting or breaking genre?",
       options: [
-        "Source A talks about 1892 cellar gas-jets, whereas Source E shows 31% of warehouse pickers use wrist-scanners in 2024.",
-        "Apprentices aged fifteen laboured beneath cellar gas-jets from midnight till dawn, and 31% of overnight warehouse pickers log sixty-hour weeks.",
+        "In Section A, Source A talks about 1892 cellar gas-jets and exhausted Victorian apprentices, whereas Source E proves that 31% of warehouse pickers in 2024 are tracked by modern wrist-scanner quotas.",
+        "Apprentices aged fifteen laboured beneath cellar gas-jets from midnight till dawn, emerging chalk-faced into daylight, while 31% of overnight warehouse pickers log sixty-hour weeks tracked by wrist-scanner quotas.",
         "Over a century after Victorian reformers condemned midnight cellars that turned teenage bakers pale, nearly a third of modern night-warehouse staff still endure sixty-hour weeks — policed not by gaslight foremen, but by algorithmic wrist-monitors.",
-        "Victorian bakeries and modern warehouses are 100% identical in every single legal detail.",
+        "Nothing whatsoever has improved in British labour law since 1892, because nineteenth-century basement bakeries and twenty-first-century distribution hubs are 100% identical in every single legal, physical, and economic detail.",
       ],
       answerIndex: 2,
       hints: [
@@ -1231,10 +1231,10 @@ export const practice: TopicPractice = {
       question:
         "Why does switching from **agentless passive voice** (*'Mistakes were incurred during river-sewage monitoring'*) to **dynamic active voice** (*'Water executives ignored three hundred sewage-spill alarms'*) transform persuasive impact?",
       options: [
-        "Passive voice is grammatically illegal in English sentences",
+        "Passive voice constructions are grammatically incorrect in Standard British English and automatically trigger an AO6 penalty",
         "Active syntax restores explicit human agency and moral culpability to the grammatical subject, stripping away bureaucratic evasion",
-        "Active voice removes all verbs so the sentence sounds calmer",
-        "Passive voice always sounds angrier and more populist than active voice",
+        "Active syntax strips out emotive verbs and specific figures so the sentence adopts a calmer, more neutral encyclopaedic register",
+        "Passive constructions always convey fiercer populist anger than active verbs, risking an overly aggressive tone in formal prose",
       ],
       answerIndex: 1,
       hints: [

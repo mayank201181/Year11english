@@ -6,7 +6,7 @@ import { useStore } from "@/lib/store";
 type Tab = "welcome" | "login" | "signup";
 
 export function AuthGate() {
-  const { login, signup, startGuest, cloudAvailable } = useStore();
+  const { login, signup, startGuest, accountsAvailable } = useStore();
   const [tab, setTab] = useState<Tab>("welcome");
   const [name, setName] = useState("");
   const [password, setPassword] = useState("");
@@ -38,7 +38,7 @@ export function AuthGate() {
           <button type="button" className="btn btn-primary w-full text-lg" onClick={startGuest}>
             ← Back to my revision (no sign-in needed)
           </button>
-          {cloudAvailable ? (
+          {accountsAvailable ? (
             <>
               <button type="button" className="btn btn-secondary w-full" onClick={() => setTab("login")}>
                 Sign in
@@ -48,7 +48,7 @@ export function AuthGate() {
               </button>
             </>
           ) : null}
-          {cloudAvailable ? <p className="text-center text-xs text-ink-2">A family account syncs progress across devices and unlocks the parent dashboard.</p> : <p className="text-center text-xs text-ink-2">Cloud accounts aren&apos;t switched on for this site, so everything is saved on this device.</p>}
+          {accountsAvailable ? <p className="text-center text-xs text-ink-2">A family account syncs progress across devices and unlocks the parent dashboard.</p> : <p className="text-center text-xs text-ink-2">Cloud accounts aren&apos;t switched on for this site, so everything is saved on this device.</p>}
         </div>
       ) : (
         <form className="card mt-8 space-y-4 p-5" onSubmit={submit}>

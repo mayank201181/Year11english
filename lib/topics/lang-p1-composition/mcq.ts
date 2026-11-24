@@ -17,9 +17,9 @@ export const mcqPapers: Paper[] = [
           "In the **ZOOM-5** planning framework for OxfordAQA Paper 1B descriptive tasks, why should you avoid inventing a dramatic car chase or bank robbery in Paragraph 2?",
         options: [
           "Descriptive tasks assess atmospheric immersion, camera-lens focus, and multi-sensory detail — turning description into fast-paced plot bloat sacrifices setting craft and rushes into 'and then…' summary.",
-          "OxfordAQA bans the use of verbs in descriptive compositions.",
-          "Descriptive tasks must be written entirely as bulleted stage directions.",
-          "Examiners deduct ten marks if any human being appears in a descriptive scene.",
+          "OxfordAQA's descriptive mark scheme prohibits dynamic action verbs altogether, requiring candidates to build every sentence exclusively from static linking verbs and adjectives.",
+          "Descriptive Paper 1B compositions must be formatted strictly as detached, bulleted theatrical stage directions rather than continuous paragraphs of literary prose.",
+          "Examiners deduct AO5 marks whenever a descriptive composition mentions human figures, footsteps, or facial expressions, since description must depict empty landscapes alone.",
         ],
         answerIndex: 0,
         hints: [
@@ -78,9 +78,9 @@ export const mcqPapers: Paper[] = [
         question:
           "Compare two descriptive openings for *Describe a coastal harbour before a storm*:\n- **Draft 1:** *\"Grey clouds gathered like bruised knuckles above the breakwater, pressing a metallic hush down onto the slack, oil-slicked moorings.\"*\n- **Draft 2:** *\"Angry clouds were like lions and the boats danced like ballerinas while the sea shone like a mirror under lightning like fireworks.\"*\n\nWhy does Draft 1 outscore Draft 2?",
         options: [
-          "Draft 1 avoids all figurative language completely.",
-          "Draft 2 is stronger because stacking four similes in one sentence guarantees top marks.",
-          "Draft 1 uses future tense whereas Draft 2 uses past tense.",
+          "Draft 1 strips away all figurative comparison and personification completely, relying on bare literal meteorology that examiners prefer over metaphorical craft in Section B.",
+          "Draft 2 actually outscores Draft 1 on AO5 because packing four distinct similes into a single sentence proves maximum figurative ambition under the OxfordAQA checklist.",
+          "Draft 1 commands higher AO6 accuracy by sustaining futuristic predictive tense throughout, whereas Draft 2 weakens narrative immediacy by drifting into simple past tense.",
           "Draft 1 sustains one cohesive atmospheric mood of impending threat ('bruised knuckles', 'pressing', 'metallic hush'), whereas Draft 2 scrambles tone with four clashing, incoherent similes.",
         ],
         answerIndex: 3,
@@ -100,9 +100,9 @@ export const mcqPapers: Paper[] = [
           "Why do senior IGCSE examiners strongly advise **against** ending a 45-minute narrative with *\"…and then my alarm clock rang and I realised it had all been a dream\"*?",
         options: [
           "It retroactively erases every emotional stake built across the story, substituting the oldest cliché in school fiction for genuine psychological resolution.",
-          "Alarm clocks did not exist in twentieth-century literature.",
-          "First-person narrators are never allowed to sleep in stories.",
-          "OxfordAQA requires every story to end with a cliffhanger explosion.",
+          "Mentioning domestic objects such as alarm clocks breaks historical plausibility because OxfordAQA Paper 1B narratives must be set in the nineteenth century.",
+          "First-person narrative protagonists are barred from describing sleep or morning routines in IGCSE fiction because unconscious states violate realistic viewpoint.",
+          "OxfordAQA's narrative mark scheme reserves Level 4 exclusively for stories that conclude with an unresolved physical cliffhanger or sudden dramatic catastrophe.",
         ],
         answerIndex: 0,
         hints: [
@@ -141,10 +141,10 @@ export const mcqPapers: Paper[] = [
         question:
           "When shifting smoothly from a past-simple narrative scene (*\"I stood on the platform…\"*) backward into **analepsis (flashback)**, which verb tense cleanly signals the jump into earlier time?",
         options: [
-          "Simple future tense ('I will stand…')",
-          "Present continuous ('I am standing…')",
+          "Simple future tense ('Three winters earlier, she will press the brass key into my palm…') to foreshadow memory",
+          "Present continuous ('Three winters earlier, she is pressing the brass key into my palm…') to freeze the action",
           "Past perfect ('Three winters earlier, she had pressed the brass key into my palm…') before easing into the memory",
-          "Imperative command ('Stand on the platform!')",
+          "Imperative command ('Three winters earlier, press the brass key firmly into my palm!') to address the narrator",
         ],
         answerIndex: 2,
         hints: [
@@ -204,10 +204,10 @@ export const mcqPapers: Paper[] = [
         question:
           "On a Paper 1B discursive prompt (*\"'Modern convenience has made us less resilient.' Discuss.\"*), what is the strongest strategic move in your **counter-argument paragraph**?",
         options: [
-          "Ignore anyone who disagrees so your essay looks completely certain.",
+          "Exclude all mention of opposing perspectives throughout the essay so that your thesis projects unwavering certainty and never risks giving credibility to rival viewpoints.",
           "Steelman the strongest opposing point fairly ('Admittedly, labour-saving medicine and heating have liberated millions from preventable hardship…') before pivoting to show how frictionless comfort can still erode everyday patience.",
-          "Insult people who disagree as lazy and uninformed.",
-          "Invent a statistic claiming '98.6% of Oxford doctors proved yesterday that smartphones shrink willpower'.",
+          "Dismiss anyone who defends modern convenience as complacent and intellectually lazy, using blunt personal sarcasm to expose the weakness of opposing arguments immediately.",
+          "Anchor your rebuttal with an invented pseudo-exact figure — such as '98.6% of Oxford doctors proved yesterday that smartphones shrink willpower' — to supply instant statistical proof.",
         ],
         answerIndex: 1,
         hints: [
@@ -247,9 +247,9 @@ export const mcqPapers: Paper[] = [
           "A student replaces *\"The tired man walked slowly across the yard\"* with *\"The lugubrious, somnolent, indefatigable gentleman perambulated languorously across the quadrangle.\"* Why does this edit **backfire**?",
         options: [
           "Quadrupling obscure adjectives creates unnatural 'thesaurus syndrome' and introduces a blatant contradiction ('somnolent' = sleepy vs 'indefatigable' = tireless).",
-          "Examiners ban words longer than three syllables.",
-          "Only first-person pronouns are allowed in Section B.",
-          "The word 'yard' must never be changed.",
+          "OxfordAQA's AO6 vocabulary guidelines penalise any descriptive word exceeding three syllables, favouring short Anglo-Saxon terms across all narrative writing.",
+          "Shifting to third-person 'gentleman' breaks Paper 1 Section B conventions, since top-band narrative descriptions must be written exclusively in first person.",
+          "Replacing concrete settings like 'yard' with architectural nouns such as 'quadrangle' alters the prompt's literal location and triggers an automatic mark cap.",
         ],
         answerIndex: 0,
         hints: [
@@ -288,9 +288,9 @@ export const mcqPapers: Paper[] = [
         question:
           "Paragraph 1 of a story introduces a pocket-watch whose glass cracked the afternoon the narrator failed to visit her hospitalised grandfather; in the final paragraph, after reconciling with her estranged aunt, she winds that same cracked watch and hears it tick steadily. Why does this **motif** work so powerfully?",
         options: [
-          "It proves the watch repaired its own broken glass magically.",
-          "It saves the writer from having to invent a setting.",
-          "It shows the narrator wants to sell antiques for profit.",
+          "It introduces a reassuring magical-realist twist, implying that reconciling with her estranged aunt caused the shattered watch glass to mend itself spontaneously.",
+          "It provides a convenient structural shortcut, allowing the candidate to reuse opening paragraphs without having to describe a new physical setting or atmosphere.",
+          "It reveals a practical commercial motive beneath the reunion, hinting that the narrator intends to restore and auction the heirloom pocket-watch for financial gain.",
           "Keeping the physical crack intact while restoring the movement symbolises mature emotional healing: past regret cannot be erased, yet frozen grief can resume living motion.",
         ],
         answerIndex: 3,
@@ -340,9 +340,9 @@ export const mcqPapers: Paper[] = [
           "Read this descriptive sentence:\n\n*\"Clutching the salt-rusted rail, I watched the ferry vanish into sea-fret.\"*\n\nWhat grammatical structure opens this sentence (*\"Clutching the salt-rusted rail,\"*) to avoid starting monotonously with *'I'*?",
         options: [
           "A fronted present-participial phrase (`-ing` opener)",
-          "A passive future-perfect clause",
-          "An interrogative minor fragment",
-          "A comma splice error",
+          "A passive future-perfect auxiliary clause (`will be`)",
+          "An interrogative minor fragment lacking a main verb",
+          "A comma splice fusing two full independent clauses",
         ],
         answerIndex: 0,
         hints: [
@@ -444,10 +444,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this narrative extract:\n\n*\"Marcus eased the rusted bolt sideways and nudged the boathouse door ajar. Moonlight spills across the floorboards as a moored skiff knocks softly against the pilings.\"*\n\nWhich error must be fixed during your **PACE** audit?",
         options: [
-          "Missing question mark at the end of sentence two",
+          "Missing terminal question mark at the close of sentence two because 'as' introduces an implied interrogative clause",
           "Unintended tense drift — shifting mid-scene from past simple ('eased', 'nudged') into present simple ('spills', 'knocks')",
-          "Comma splice in sentence one",
-          "Misspelling of 'moonlight'",
+          "Grammatical comma splice in sentence one where 'and' fails to coordinate the two finite verbs ('eased' and 'nudged')",
+          "Orthographic compounding error in 'Moonlight' and 'floorboards', both of which require hyphenation in British English",
         ],
         answerIndex: 1,
         hints: [
@@ -508,9 +508,9 @@ export const mcqPapers: Paper[] = [
           "Analyse the rhythmic craft of this two-sentence descriptive sequence:\n\n*\"Down the stairwell poured coats and satchels and damp umbrellas and shouted farewells as four hundred pupils surged toward the open gates. One desk remained occupied.\"*\n\nWhy does the four-word second sentence land with such quiet emotional weight?",
         options: [
           "Syntactic contrast: front-loading an exuberant 22-word polysyndetic wave of collective motion makes the abrupt, unadorned four-word sentence isolate solitude starkly.",
-          "Because 'occupied' is an onomatopoeic word mimicking school bells.",
-          "Because the first sentence contains zero nouns.",
-          "Because four-word and five-word sentences are banned everywhere else in English.",
+          "Phonetic sound-imitation: the verb 'remained' and adjective 'occupied' deploy harsh onomatopoeic consonants that mimic the clang of school dismissal bells down the hall.",
+          "Grammatical omission: stripping every concrete noun out of the opening twenty-two words forces the reader to wait until 'desk' appears for a single tangible visual anchor.",
+          "Rule-breaking shock: OxfordAQA guidelines normally prohibit declarative sentences shorter than six words, so defying that ceiling creates instant surprise for the marker.",
         ],
         answerIndex: 0,
         hints: [
@@ -528,10 +528,10 @@ export const mcqPapers: Paper[] = [
         question:
           "In **Box 3 (Micro-Object Close-Up)** of a ZOOM-5 description of an abandoned theatre, which sentence zooms the camera lens tightest?",
         options: [
-          "The entire auditorium stretched wide and dark from the balcony down to the orchestra pit.",
+          "From the gilded upper balcony all the way down to the cavernous orchestra pit, the entire darkened auditorium stretched wide beneath a sagging plaster dome.",
           "Pinned beneath Seat D-14, a faded velvet programme from 1998 curled at the edges where silverfish had scalloped lacy crescents along the cast list.",
-          "Outside in the city centre, buses and taxis honked loudly down six busy streets.",
-          "Many plays had been performed in this large building over the past century.",
+          "Outside across the rain-slicked city centre, double-decker buses and black cabs honked impatiently along six crowded avenues leading past the main entrance.",
+          "Over the past century, dozens of touring orchestras and celebrated repertory companies had staged sold-out seasons inside this historic civic landmark.",
         ],
         answerIndex: 1,
         hints: [
@@ -550,9 +550,9 @@ export const mcqPapers: Paper[] = [
           "Read these two versions of narrative dialogue:\n- **Draft A:** *\"'I am really angry that you forgot my birthday again, Dad,' I shouted. 'I am sorry I work too much and neglect your feelings,' he replied sadly.\"*\n- **Draft B:** *\"Dad set the garage-station carnations beside the cold lasagne. 'Traffic on the ring-road,' he said to the kettle.\"*\n\nWhy does Draft B read like top-band literary fiction?",
         options: [
           "Draft B uses subtext and oblique physical props ('garage-station carnations', 'cold lasagne', speaking 'to the kettle' to avoid eye contact) so the reader deduces guilt and hurt without wooden on-the-nose speeches.",
-          "Draft A is stronger because characters in real life always announce their exact psychological flaws aloud.",
-          "Draft B shows that nobody is upset at all.",
-          "Draft B avoids punctuation completely.",
+          "Draft A actually demonstrates stronger characterisation because authentic dialogue always requires speakers to state their deepest psychological motives and resentments explicitly aloud.",
+          "Draft B achieves calm emotional restraint by showing that the family has completely resolved any birthday tension and shares light-hearted everyday conversation about commuter traffic.",
+          "Draft B earns higher AO6 accuracy by omitting quotation marks, reporting clauses, and sentence-final punctuation, proving that minimalist dialogue strips away standard grammar conventions.",
         ],
         answerIndex: 0,
         hints: [
@@ -591,10 +591,10 @@ export const mcqPapers: Paper[] = [
         question:
           "In discursive prose, why are **modal verbs and qualifiers** (*may, tends to, often, risks, seldom*) superior to absolute sweeping claims (*always, everyone, never, every teenager*)?",
         options: [
-          "They make your essay longer so you reach the word count faster.",
+          "They expand sentence length effortlessly with extra auxiliary words, helping candidates hit higher word counts under exam time pressure.",
           "They demonstrate nuanced intellectual precision — insulated against obvious exceptions that instantly discredit absolute generalisations.",
-          "They hide the fact that you have no opinion on the question.",
-          "Modal verbs are required in every single sentence by law.",
+          "They allow a candidate to hedge every claim ambiguously so the examiner cannot tell whether the essay holds any underlying viewpoint at all.",
+          "OxfordAQA's AO6 grammar rubric mandates that every discursive sentence include at least one modal verb to qualify for Level 4 punctuation.",
         ],
         answerIndex: 1,
         hints: [
@@ -612,10 +612,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this sentence:\n\n*\"The headmaster praised resilience, integrity, and punctuality — virtues noticeably absent from his own forty-minute late arrival.\"* \n\nHow does the **single em-dash (`—`)** operate stylistically at the end of this clause?",
         options: [
-          "It introduces a neutral dictionary definition of 'punctuality'.",
-          "It replaces a missing question mark.",
+          "It introduces a neutral encyclopaedic gloss that defines the dictionary meaning of 'punctuality' for readers unfamiliar with the term.",
+          "It substitutes casually for a missing question mark at the close of an implied rhetorical interrogation directed at the headmaster.",
           "It acts as a satirical turn / sting-in-the-tail hinge, pausing briefly before undercutting lofty official rhetoric with dry ironic observation.",
-          "It creates a grammatical error that must be deleted.",
+          "It creates a non-standard punctuation splice because a single em-dash may never appear in formal prose without a second closing partner.",
         ],
         answerIndex: 2,
         hints: [
@@ -633,9 +633,9 @@ export const mcqPapers: Paper[] = [
         question:
           "In the **TiPToP** paragraphing mnemonic, when MUST you start a new paragraph?",
         options: [
-          "Strictly every five sentences regardless of meaning",
-          "Only when you run out of ink",
-          "Only once on the whole exam paper",
+          "Mechanically after every fifth sentence across the entire composition, regardless of whether topic or speaker changes",
+          "Strictly once a paragraph fills half an exam booklet page, keeping every block visually identical in printed height",
+          "Only at the midpoint between your opening hook and closing summary, dividing the essay into two symmetrical halves",
           "Whenever Time, Place, Topic, or Person (speaker / camera focus) shifts — or to isolate a deliberate one-line fulcrum",
         ],
         answerIndex: 3,
@@ -683,10 +683,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Compare two discursive transitions introducing a rebuttal after a concession:\n- **Draft A:** *\"On the other hand, however, having said that, I disagree with those people because they are wrong.\"*\n- **Draft B:** *\"Notwithstanding these short-term gains in convenience, outsourcing every friction to algorithms quietly atrophies independent judgement.\"*\n\nWhy does Draft B score top band?",
         options: [
-          "Draft A is clearer because piling three connectives together shows enthusiasm.",
+          "Draft A actually achieves clearer signposting because stacking three consecutive transitional markers ('On the other hand, however, having said that') emphasises confident argumentative energy.",
           "Draft B uses a crisp subordinative concession ('Notwithstanding these short-term gains…') to bridge seamlessly from acknowledged benefit to deeper long-term cost without clumsy throat-clearing.",
-          "Draft B avoids taking any stance at all.",
-          "Draft B uses slang to sound relatable.",
+          "Draft B maintains strict academic neutrality by refusing to advance any evaluative judgement on algorithmic convenience, leaving the reader to weigh both sides independently.",
+          "Draft B establishes peer warmth by slipping into conversational slang and informal contractions, stripping away the formal register expected in broadsheet discursive essays.",
         ],
         answerIndex: 1,
         hints: [
@@ -704,10 +704,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this discursive closing sentence:\n\n*\"We have engineered pocket supercomputers capable of translating fifty languages in a blink; we have not yet engineered the patience to listen to a neighbour across a fence.\"*\n\nWhich syntactic craft device gives this conclusion its memorable punch?",
         options: [
-          "Onomatopoeia and alliteration",
-          "Second-person imperative commands",
+          "Acoustic onomatopoeia and dense plosive alliteration mimicking the mechanical clicks of smartphones and suburban garden gates across both halves",
+          "Direct second-person imperative commands ordering readers to abandon digital devices immediately and converse outdoors with neighbouring households",
           "Antithesis — parallel clauses ('We have engineered…; we have not yet engineered…') balanced across a semicolon to contrast technological triumph with human deficit",
-          "Chronological flashback",
+          "Non-linear chronological analepsis looping back to an earlier childhood anecdote in order to contrast past rural harmony with modern urban isolation",
         ],
         answerIndex: 2,
         hints: [
@@ -747,9 +747,9 @@ export const mcqPapers: Paper[] = [
           "In **Box 5 (Transformed Sky Return)** of a ZOOM-5 descriptive essay that opened at oppressive, brassy pre-monsoon noon, which ending creates the most cohesive **structural closure**?",
         options: [
           "Returning to the sky as the bruised purple cloud-bank finally splits, washing the dusty mango leaves in cool silver sheet-rain that releases petrichor from the baked earth.",
-          "Suddenly cutting to New York five years later where the narrator wins a scholarship.",
-          "Ending mid-sentence because time ran out.",
-          "Repeating Paragraph 1 word-for-word without changing a single detail.",
+          "Jumping abruptly forward five years to a sunlit university campus in New York where the narrator celebrates winning an international journalism scholarship.",
+          "Cutting off the final descriptive sentence mid-clause with an ellipsis to suggest realistically that the narrator's observation was cut short by time running out.",
+          "Copying the opening paragraph's exact imagery and oppressive pre-monsoon heat word-for-word at the close so the atmosphere remains frozen in unbroken symmetry.",
         ],
         answerIndex: 0,
         hints: [
@@ -767,10 +767,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Why can isolating a **single-sentence paragraph** (e.g. *\"The envelope was already unsealed.\"* ) midway through a narrative boost your organisation mark?",
         options: [
-          "It tricks the examiner into thinking you wrote an extra full paragraph.",
+          "It inflates the apparent paragraph tally on the page, persuading examiners that the candidate sustained greater structural development across a short timed response.",
           "Framed by white space between fuller paragraphs, it acts as a visual and rhythmic fulcrum — forcing the reader to pause on the exact moment of discovery or emotional shift.",
-          "Every paragraph in Section B should be only one sentence long.",
-          "It avoids having to use full stops.",
+          "OxfordAQA's Paper 1 Section B mark scheme rewards uniform micro-paragraphing, encouraging writers to keep every paragraph throughout a narrative to one sentence.",
+          "Placing a brief clause on its own line removes the grammatical requirement for standard terminal punctuation or cohesive linkage with the surrounding scene.",
         ],
         answerIndex: 1,
         hints: [
@@ -788,9 +788,9 @@ export const mcqPapers: Paper[] = [
         question:
           "Spot the homophone error hidden inside this discursive sentence:\n\n*\"Principled leaders must listen to their conscious rather than chasing fleeting applause.\"*",
         options: [
-          "'Principled' should be 'Principal'",
-          "'their' should be 'there'",
-          "'fleeting' should be 'fleating'",
+          "'Principled' (adjective = ethical) should be replaced by the noun 'Principal'",
+          "'their' (possessive determiner) should be replaced by the adverb 'there'",
+          "'fleeting' (brief/passing) should be spelt 'fleating' in British English",
           "'conscious' (adjective = awake/aware) should be the moral noun 'conscience'",
         ],
         answerIndex: 3,
@@ -831,9 +831,9 @@ export const mcqPapers: Paper[] = [
           "What is the logical flaw known as **strawmanning** in argumentative/discursive writing?",
         options: [
           "Distorting an opposing viewpoint into an absurd, exaggerated caricature that nobody actually holds, just so you can knock it down easily",
-          "Using agricultural metaphors in rural descriptions",
-          "Presenting the strongest possible counter-argument fairly before refuting it",
-          "Structuring an essay into five balanced paragraphs",
+          "Sustaining an extended rural or agricultural metaphor across a discursive essay rather than anchoring paragraphs in urban civic examples",
+          "Articulating the most compelling, intellectually fair version of a rival viewpoint before refuting its underlying premise in your rebuttal",
+          "Organising a formal essay into five rigid, pre-planned paragraphs whose symmetrical length leaves zero room for spontaneous rhetorical shifts",
         ],
         answerIndex: 0,
         hints: [
@@ -851,10 +851,10 @@ export const mcqPapers: Paper[] = [
         question:
           "Read this descriptive sentence:\n\n*\"Neither the stationmaster's whistle nor the hiss of steam could drown out the silence between my parents.\"*\n\nWhich correlative conjunction pair structures the subject — and why is *\"silence\"* amid *\"whistle\"* and *\"steam\"* effective?",
         options: [
-          "'Either / or' — proving the train was cancelled",
+          "'Either / or' — presenting two mutually exclusive railway sounds to confirm that the evening express has been abruptly cancelled",
           "'Neither / nor' — pairing acute industrial noise against emotional 'silence' to show interpersonal estrangement feels louder than machinery",
-          "'Both / and' — showing the parents were shouting loudly",
-          "'Not only / but also' — celebrating railway engineering",
+          "'Both / and' — combining two sensory phrases to suggest that the narrator's parents are arguing loudly above the crowded platform",
+          "'Not only / but also' — escalating railway imagery to celebrate the dramatic power of vintage steam engineering along the concourse",
         ],
         answerIndex: 1,
         hints: [
@@ -893,10 +893,10 @@ export const mcqPapers: Paper[] = [
         question:
           "During Step **E (Echoes & Cuts)** of the PACE 5-minute audit, you spot this sentence in your draft:\n\n*\"The dark corridor led into a dark hall where dark shadows stretched across the dark tiles.\"*\n\nWhat is the best surgical revision?",
         options: [
-          "Replace all four 'dark's with 'pitch-black' four times.",
-          "Leave all four 'dark's and claim it is intentional anaphora.",
+          "Substitute a single more emphatic synonym across every slot — replacing all four occurrences of 'dark' with 'pitch-black' so the gloomy tone stays completely uniform.",
+          "Retain all four occurrences of 'dark' intact and defend the repetition in your margin plan as deliberate anaphora designed to emphasise claustrophobic architectural gloom.",
           "Keep one 'dark' or 'unlit' and differentiate the remaining textures precisely: e.g. 'The unlit corridor opened into a cavernous hall where ink-stained shadows stretched across slate tiles.'",
-          "Cross out the entire paragraph and leave a blank gap.",
+          "Delete the entire corridor sentence and its surrounding descriptive paragraph during proofreading, leaving a clean structural jump straight to the next dialogue exchange.",
         ],
         answerIndex: 2,
         hints: [
@@ -936,9 +936,9 @@ export const mcqPapers: Paper[] = [
           "In a discursive conclusion on *'Does technology liberate or enslave us?'*, why is **reframing the binary** stronger than simply repeating Paragraph 1 word-for-word?",
         options: [
           "Repeating Paragraph 1 verbatim feels circular and stagnant; reframing the binary ('Tools neither liberate nor enslave on their own: they magnify the discipline — or distraction — of the hands that hold them') leaves the examiner with earned synthesis.",
-          "Conclusions should introduce three brand-new unrelated topics.",
-          "You should apologize at the end of a discursive essay for not knowing the answer.",
-          "Conclusions are optional in OxfordAQA Section B.",
+          "Effective discursive conclusions avoid revisiting earlier ideas at all, introducing three brand-new technological subtopics in the final lines to broaden the essay's conceptual range before time expires.",
+          "Ending with a modest personal apology ('Although I cannot definitively resolve this complex debate, both sides raise valid points') demonstrates balanced British restraint more reliably than any synthesis.",
+          "Formal conclusions carry zero separate assessment weight under OxfordAQA's Paper 1B mark scheme, so ending immediately after the counter-argument paragraph saves time for proofreading earlier vocabulary.",
         ],
         answerIndex: 0,
         hints: [

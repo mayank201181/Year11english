@@ -65,10 +65,10 @@ export const practice: TopicPractice = {
       question:
         "Read these two extracts on high-street bank closures:\n\n> **Source A (Rural postmaster):** *'Elderly farmers who never owned a smartphone now face a forty-mile bus ride simply to deposit weekly takings.'*\n> **Source D (Consumer watchdog report):** *'Cash-dependent households suffer a measurable \"rural penalty\", losing an average of three hours per fortnight travelling to neighbouring towns.'*\n\nWhich statement synthesises both sources most effectively?",
       options: [
-        "Source A is about farmers and buses, whereas Source D is about households and fortnights.",
+        "Source A recounts how elderly farmers take long rural buses with cash takings, whereas Source D reports separately on how domestic households spend their spare time over a fortnight.",
         "Both texts demonstrate that branch closures disproportionately penalise cash-reliant rural residents with burdensome travel, pairing Source A's human portrait ('forty-mile bus ride') with Source D's systemic time metric ('three hours per fortnight').",
-        "Source A supports closing rural banks, whereas Source D argues smartphones are free.",
-        "Both writers rely on comic bathos to mock elderly bank customers.",
+        "Source A endorses closing traditional village branches to encourage digital transition, whereas Source D contends that rural customers already receive free smartphones and online banking support.",
+        "Both writers adopt light-hearted comic bathos to poke gentle fun at elderly rural bank customers for stubbornly refusing to switch away from paper cash towards modern mobile banking apps.",
       ],
       answerIndex: 1,
       explanation:
@@ -219,9 +219,9 @@ export const practice: TopicPractice = {
         "An official ferry-company bulletin states: *'Regrettable scheduling irregularities were experienced across island crossings.'* Why is the **agentless passive** used here?",
       options: [
         "To distance management from blame by omitting who cancelled the ferries and framing cancellations as weather-like 'irregularities'",
-        "To create fast-paced action-thriller suspense for holidaymakers",
-        "To take transparent personal responsibility for mechanical neglect",
-        "To address islanders with warm, colloquial intimacy",
+        "To inject breathless thriller-style narrative pacing so holidaymakers feel heightened dramatic anticipation ahead of their crossing",
+        "To model transparent institutional accountability by accepting direct corporate liability for preventable mechanical maintenance failures",
+        "To establish warm colloquial solidarity with stranded islanders by mimicking relaxed everyday maritime conversation in formal notices",
       ],
       answerIndex: 0,
       explanation:
@@ -240,10 +240,10 @@ export const practice: TopicPractice = {
       question:
         "**Source B** (a nineteenth-century Pit Inspector's report) and **Source E** (a miner's widow's letter) both condemn underground ventilation neglect. Which comparative hinge best captures their relationship?",
       options: [
-        "Diametrically opposed in moral conclusion, Source E celebrates mine owners...",
+        "Diametrically opposed to Source B's safety verdict — instead celebrating colliery owners for generous investment in pit equipment — Source E...",
         "Uniting in their condemnation of lethal ventilation neglect — yet shifting from Source B's forensic statutory register to heartbroken domestic pathos — Source E...",
-        "Using identical statistical tables and bureaucratic detachment, Source E...",
-        "Completely unrelated to coal mining safety, Source E instead...",
+        "Mirroring Source B's detached bureaucratic tone and relying on identical statutory inspection tables rather than personal grief, Source E...",
+        "Diverging completely from Source B's mining theme to focus exclusively on urban textile mills and nineteenth-century railway tariffs, Source E...",
       ],
       answerIndex: 1,
       explanation:
@@ -1191,9 +1191,9 @@ export const practice: TopicPractice = {
         "Compare two extracts on the opening of a Victorian reservoir that flooded a Welsh farming valley:\n\n> **Source A (1892 City Corporation plaque speech):** *'Where barren sheep-tracks once yielded scant subsistence to a handful of isolated cottagers, imperial engineering now bestows pure mountain bounty upon half a million industrious citizens.'*\n> **Source C (Evicted tenant's 1892 chapel letter):** *'They priced our stone hearths by the yard, yet left no column in their ledger for the churchyard where six generations of our mothers sleep beneath forty fathoms.'*\n\nWhich analysis captures the deepest ideological clash between Source A and Source C?",
       options: [
         "Source A deploys utilitarian, paternalistic grandeur — erasing valley culture as 'barren' to legitimise urban extraction — whereas Source C exposes the cold limits of monetary compensation ('no column in their ledger') against sacred ancestral belonging",
-        "Both writers agree that city engineers paid generous compensation that satisfied every family",
-        "Source A uses informal colloquial slang, whereas Source C uses detached engineering statistics",
-        "Source C objects only to the depth of the water rather than cultural displacement",
+        "Both extracts concur that the City Corporation handled relocation generously — celebrating how fair market valuation per square yard reconciled displaced Welsh families to surrendering their valley for municipal water",
+        "Source A addresses urban citizens in playful colloquial slang to lighten an austere civic unveiling, whereas Source C counters through detached hydraulic statistics measuring exact water volume across forty fathoms",
+        "Source C raises a narrow technical complaint over the reservoir's forty-fathom depth and stone-hearth pricing, accepting cultural displacement as inevitable progress while overlooking any ancestral or spiritual grievance",
       ],
       answerIndex: 0,
       explanation:
@@ -1243,10 +1243,10 @@ export const practice: TopicPractice = {
       question:
         "In **Source B** (an essay on fast-delivery culture), paragraphs 1–3 repeatedly use **'we'** (*'We all relish a parcel arriving before breakfast'*), before the final paragraph abruptly switches to **'you'** (*'Next time you tap Same-Day Rush at midnight, picture the warehouse picker sprinting down Aisle 14'*). Why is this pronoun shift so effective?",
       options: [
-        "It represents a careless proofreading slip in person consistency",
+        "It exposes an inadvertent proofreading lapse in narrative perspective, proving the columnist lost control of consistent first-person plural register when drafting the closing line",
         "Opening with inclusive 'we' disarms reader defensiveness through shared confession, so the sudden pivot to singular 'you' lands with inescapable personal accountability at the moment of action",
-        "Switching from 'we' to 'you' makes the ending sound detached and bureaucratic",
-        "It proves the writer has never ordered a parcel online",
+        "Pivoting from warm collective 'we' to formal second-person 'you' cools the ending into detached bureaucratic distance, insulating individual shoppers from any direct moral scrutiny",
+        "The sudden switch proves the writer occupies a morally superior vantage point outside modern consumer habits, never having ordered an express online parcel themselves",
       ],
       answerIndex: 1,
       explanation:
@@ -1297,9 +1297,9 @@ export const practice: TopicPractice = {
         "Synthesise the positions of **Sources A, B, and E** on reintroducing lynx to Scottish forests:\n\n> - **Source A (Ecologist):** *'Apex predators restore overgrazed birch regeneration within ten years.'*\n> - **Source B (Eco-lodge owner):** *'Lynx-tracking tourism brought €3 million annually to comparable German valleys.'*\n> - **Source E (Hill-sheep smallholder):** *'Eco-lodges bank the glamour while upland crofters absorb stressed flocks and uninsurable boundary fencing.'*\n\nWhich synthesis statement achieves Level 4 multi-source precision?",
       options: [
         "Sources A and B converge in advocating reintroduction — combining ecological recovery with rural tourism revenue — whereas Source E exposes an unequal distribution of risk, arguing commercial beneficiaries pocket profits while smallholders bear uncompensated livestock costs",
-        "All three sources oppose reintroducing lynx because German valleys lost money",
-        "Source A focuses on economics, Source B focuses on birch trees, and Source E supports lynx",
-        "Sources A, B, and E agree that lynx pose zero financial impact to hill farmers",
+        "All three extracts align in opposing Scottish lynx reintroduction — combining Source A's warning about disrupted birch woodlands with Source B's proof that German eco-tourism ventures suffered steep losses and Source E's fear for upland flocks",
+        "Source A centres exclusively on regional hotel earnings, Source B focuses purely on alpine forestry regeneration, and Source E welcomes apex predators as an affordable safeguard for unfenced hill-sheep boundaries",
+        "Sources A, B, and E reach full economic consensus that returning apex predators creates risk-free rural prosperity, assuring Scottish hill farmers that tourism revenue automatically insures every upland smallholder against livestock disruption",
       ],
       answerIndex: 0,
       explanation:
