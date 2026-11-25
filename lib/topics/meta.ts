@@ -25,6 +25,10 @@ export interface TopicMeta {
   title: string;
   strand: Strand;
   icon: string;
+  /** Which IGCSE year normally teaches this topic (Year 10 vs Year 11). */
+  courseYear: 10 | 11;
+  /** Teaching order used when ?year=10 is active (1..N). */
+  courseOrder: number;
   /** Which OxfordAQA 9270 / Edexcel 4ET1 component this topic covers. */
   curriculum: string;
   sections: SectionPlan[];
@@ -39,6 +43,8 @@ export const TOPIC_META: TopicMeta[] = [
     title: "Paper 1A: Literary Non-Fiction Close Reading",
     strand: "Language 9270",
     icon: "🔍",
+    courseYear: 10,
+    courseOrder: 1,
     curriculum: "OxfordAQA 9270 Paper 1 Section A (40 marks) — Close study of a single literary non-fiction text divided into sections",
     sections: [
       {
@@ -73,6 +79,8 @@ export const TOPIC_META: TopicMeta[] = [
     title: "Paper 1B: Descriptive, Narrative & Discursive Craft",
     strand: "Language 9270",
     icon: "✒️",
+    courseYear: 10,
+    courseOrder: 2,
     curriculum: "OxfordAQA 9270 Paper 1 Section B (40 marks) — Choice of descriptive, narrative or discursive composition",
     sections: [
       {
@@ -107,6 +115,8 @@ export const TOPIC_META: TopicMeta[] = [
     title: "Paper 2A: Multi-Source Reading & Synthesis",
     strand: "Language 9270",
     icon: "🗂️",
+    courseYear: 11,
+    courseOrder: 7,
     curriculum: "OxfordAQA 9270 Paper 2 Section A (40 marks) — Reading & comparing 5–6 linked stimulus texts",
     sections: [
       {
@@ -141,6 +151,8 @@ export const TOPIC_META: TopicMeta[] = [
     title: "Paper 2B: Directed Writing for Audience & Purpose",
     strand: "Language 9270",
     icon: "🎙️",
+    courseYear: 11,
+    courseOrder: 8,
     curriculum: "OxfordAQA 9270 Paper 2 Section B (40 marks) — Source-linked writing for audience & purpose (choice of two tasks)",
     sections: [
       {
@@ -177,6 +189,8 @@ export const TOPIC_META: TopicMeta[] = [
     title: "Prose: Of Mice and Men (Steinbeck)",
     strand: "Literature 4ET1",
     icon: "🌾",
+    courseYear: 10,
+    courseOrder: 3,
     curriculum: "Edexcel 4ET1 Paper 1 Section B — Modern Prose essay (AO1 textual knowledge & interpretation + AO4 integrated context)",
     sections: [
       {
@@ -211,6 +225,8 @@ export const TOPIC_META: TopicMeta[] = [
     title: "Modern Drama: An Inspector Calls (Priestley)",
     strand: "Literature 4ET1",
     icon: "🕵️",
+    courseYear: 10,
+    courseOrder: 4,
     curriculum: "Edexcel 4ET1 Paper 2 Section A — Modern Drama essay (AO1 critical response + AO2 dramatic form, structure & language)",
     sections: [
       {
@@ -245,6 +261,8 @@ export const TOPIC_META: TopicMeta[] = [
     title: "Literary Heritage: Macbeth (Shakespeare)",
     strand: "Literature 4ET1",
     icon: "👑",
+    courseYear: 11,
+    courseOrder: 5,
     curriculum: "Edexcel 4ET1 Paper 2 Section B — Literary Heritage essay (AO1 + AO2 Shakespearean language/form + AO4 Jacobean context)",
     sections: [
       {
@@ -279,6 +297,8 @@ export const TOPIC_META: TopicMeta[] = [
     title: "Poetry: Edexcel Anthology & Unseen Modern Poetry",
     strand: "Literature 4ET1",
     icon: "📜",
+    courseYear: 11,
+    courseOrder: 6,
     curriculum: "Edexcel 4ET1 Paper 1 Section A — Part 1 Unseen Modern Poetry (20 marks) & Part 2 Anthology Comparison (30 marks)",
     sections: [
       {
